@@ -101,11 +101,11 @@ for e in LESSONS:
 
 # All exports share the same data as the webpage.
 with (DL/'episode-expression-index.csv').open('w',encoding='utf-8-sig',newline='') as f:
-    w=csv.writer(f);w.writerow(['集数','标题','类型','词条','中文释义','用法','本集用法','回看时间','字幕形式'])
+    w=csv.writer(f,lineterminator="\n");w.writerow(['集数','标题','类型','词条','中文释义','用法','本集用法','回看时间','字幕形式'])
     for e in LESSONS:
         for c in e['cards']:w.writerow([e['id'],e['title'],KINDS[c['type']],c['term'],c['meaning'],c['usage'],c['context'],c['time'],c['matched_form']])
 with (DL/'episode-synopses.csv').open('w',encoding='utf-8-sig',newline='') as f:
-    w=csv.writer(f);w.writerow(['集数','标题','英文梗概','词数'])
+    w=csv.writer(f,lineterminator="\n");w.writerow(['集数','标题','英文梗概','词数'])
     for e in LESSONS:w.writerow([e['id'],e['title'],e['synopsis'],e['word_count']])
 terms={}; appearances=defaultdict(list)
 for e in LESSONS:
