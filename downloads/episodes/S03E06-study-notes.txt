@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E06 Off Brand
+V3 · 更新 2026-10-11
 英文梗概（73 words，含剧透）
 Jimmy receives a one-year suspension and tries to recover the cost of television airtime he can no longer use to advertise legal services. He creates a new advertising business under the name Saul Goodman. Chuck struggles with the aftermath of the hearing. Nacho fears Hector's plan to involve his father's business and begins considering a way to remove the threat. Gus and Mike continue to develop their working relationship around shared practical interests.
 
 重点词汇：6 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. aspirational · 关键词 · 回看 00:26:10
+美式 IPA：/ˌæspəˈreɪʃənəl/
+词性：adjective
+English definition: Expressing a desired future identity, achievement, or standard.
 体现抱负或理想目标的
 字幕中出现：aspirational
 不表示目标已经实现；aspirational thinking 带有向往未来的意味。
@@ -16,6 +21,9 @@ An aspirational brand sells an imagined lifestyle.
 有向往感的品牌销售的是一种理想生活方式。
 
 02. boilerplate · 关键词 · 回看 00:21:13
+美式 IPA：/ˈbɔɪlɚˌpleɪt/
+词性：noun / adjective
+English definition: Standard wording reused in documents with little or no change.
 标准套话；通用条款
 字幕中出现：boilerplate
 法律与商务中指反复使用的模板文字，通常不可数。
@@ -27,6 +35,9 @@ Replace the boilerplate with a specific explanation.
 把套话换成具体解释。
 
 03. charisma · 关键词 · 回看 00:45:56
+美式 IPA：/kəˈrɪzmə/
+词性：noun
+English definition: A personal appeal that attracts attention and inspires loyalty.
 个人魅力；感召力
 字幕中出现：charisma
 通常不可数；强调吸引并影响他人的能力。
@@ -38,6 +49,9 @@ The candidate relied heavily on his charisma.
 候选人非常依赖个人感召力。
 
 04. suspension · 关键词 · 回看 00:16:31
+美式 IPA：/səˈspɛnʃən/
+词性：noun
+English definition: A temporary removal from a role, activity, or professional practice.
 暂停执业、职务或活动
 字幕中出现：suspended
 本学习册主要关注律师暂停执业；suspended 是相关形容词或过去分词。
@@ -49,6 +63,9 @@ He returned to practice after the suspension.
 暂停期结束后他恢复执业。
 
 05. legitimate · 关键词 · 回看 00:41:34
+美式 IPA：/ləˈdʒɪtəmət/
+词性：adjective
+English definition: Allowed by law or accepted rules; also genuine or reasonably justified.
 合法正当的；真实合理的
 字幕中出现：legitimate
 legitimate concern 合理担忧；不局限于合法性。
@@ -60,6 +77,10 @@ We checked whether the document was legitimate.
 我们核查了文件是否真实有效。
 
 06. premeditated · 关键词 · 回看 00:08:21
+美式 IPA：/priˈmɛdəˌteɪtɪd/
+词性：adjective
+English definition: Planned in advance rather than done on impulse.
+原形：premeditate
 预先策划的
 字幕中出现：premeditated
 常见 premeditated murder；强调行动前已有计划。
@@ -72,3 +93,5 @@ Evidence suggested a premeditated attack.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

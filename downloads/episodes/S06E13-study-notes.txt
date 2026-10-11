@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E13 Saul Gone
+V3 · 更新 2026-10-11
 英文梗概（80 words，含剧透）
 After fleeing Marion's house, Gene is arrested. Saul uses negotiation and a carefully shaped story to obtain an extraordinarily favourable proposed sentence. Learning of Kim's confession changes the direction of his defence. At the hearing, he abandons the protective account and admits his role in Walt's criminal enterprise, along with the damage he caused Chuck. He accepts a much longer sentence and reclaims the name Jimmy McGill. Kim later visits him in prison, where they share a brief, quiet connection.
 
 重点词汇：15 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:26:30
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. defendant · 关键词 · 回看 00:24:08
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：defendant
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -27,6 +35,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 03. prosecution · 关键词 · 回看 00:36:11
+美式 IPA：/ˌprɑsəˈkjuʃən/
+词性：noun
+English definition: The pursuit of criminal charges in court; also the lawyers bringing those charges.
 控方；起诉；检控
 字幕中出现：prosecution
 the prosecution 常指刑事案件中的控方。
@@ -38,6 +49,9 @@ The file was sent for prosecution.
 案卷被移送起诉。
 
 04. perjury · 关键词 · 回看 00:51:26
+美式 IPA：/ˈpɝdʒɚi/
+词性：noun
+English definition: Knowingly making a materially false statement under a legally required oath.
 伪证罪；宣誓后故意作虚假陈述
 字幕中出现：perjury
 并非所有谎言都构成 perjury；具体要件依规则。
@@ -49,6 +63,9 @@ A contradiction does not automatically prove perjury.
 说法矛盾不会自动证明作伪证。
 
 05. restitution · 关键词 · 回看 00:24:39
+美式 IPA：/ˌrɛstəˈtuʃən/
+词性：noun
+English definition: Returning property or paying compensation to someone who suffered a loss.
 返还财物；对损失的补偿
 字幕中出现：restitution
 法律语境常指向受害者偿还；不同于惩罚性罚款。
@@ -60,6 +77,9 @@ Restitution did not erase the offence.
 赔偿并未抹去违法行为。
 
 06. indictment · 关键词 · 回看 00:24:15
+美式 IPA：/ɪnˈdaɪtmənt/
+词性：noun
+English definition: A formal criminal accusation, often issued by a grand jury in the United States.
 正式刑事起诉书；控告
 字幕中出现：indictment
 美国常指大陪审团作出的起诉；本身不是定罪。
@@ -71,6 +91,9 @@ The prosecutor announced the indictment.
 检察官宣布了正式起诉。
 
 07. conspiracy · 关键词 · 回看 00:15:46
+美式 IPA：/kənˈspɪrəsi/
+词性：noun
+English definition: A secret agreement to carry out an unlawful or harmful plan.
 共谋；阴谋
 字幕中出现：conspiracy
 法律语境强调共同约定实施违法行为；也用于非法律的秘密计划。
@@ -82,6 +105,9 @@ The conspiracy involved several companies.
 共谋涉及几家公司。
 
 08. privilege · 关键词 · 回看 00:36:03
+美式 IPA：/ˈprɪvəlɪdʒ/
+词性：noun
+English definition: A special right or advantage; in law, a protection that can prevent compelled disclosure of certain communications.
 法律保密特权；特殊权利或荣幸
 字幕中出现：privileged
 法律中可指受保护、不须披露的沟通；不同于一般 confidentiality。
@@ -93,6 +119,9 @@ Access to the archive is a privilege.
 查阅档案是一项特殊待遇。
 
 09. notarize · 关键词 · 回看 00:36:50
+美式 IPA：/ˈnoʊtəˌraɪz/
+词性：verb
+English definition: To have a notary formally authenticate a signature or perform another authorized certification.
 公证或由公证员认证
 字幕中出现：notarized
 美国 notary 的职能与中国公证制度并不完全相同。
@@ -104,6 +133,9 @@ A notarized signature does not prove every claim in a document.
 经认证的签名并不证明文件中的每项主张。
 
 10. extradite · 关键词 · 回看 00:43:53
+美式 IPA：/ˈɛkstrəˌdaɪt/
+词性：verb
+English definition: To formally transfer a person to another jurisdiction to face criminal proceedings or punishment.
 引渡
 字幕中出现：extradited
 extradite someone to a country；名词 extradition。
@@ -115,6 +147,10 @@ The two countries negotiated an extradition treaty.
 两国商谈了引渡条约。
 
 11. sentencing · 关键词 · 回看 00:15:57
+美式 IPA：/ˈsɛntənsɪŋ/
+词性：noun
+English definition: The stage of a criminal case at which a court determines the punishment.
+原形：sentence
 量刑；宣判刑罚
 字幕中出现：sentencing
 通常发生在认罪或被判有罪之后；与定罪 conviction 区分。
@@ -126,6 +162,8 @@ She spoke at the sentencing hearing.
 她在量刑听证中发言。
 
 12. money laundering · 词组 / 术语 · 回看 00:15:51
+词性：noun phrase
+English definition: Disguising the illegal origin of money so that it appears to come from legitimate activity.
 洗钱
 字幕中出现：Money laundering
 将犯罪所得掩饰为看似合法资金的行为；本条学习词义。
@@ -137,6 +175,8 @@ Employees received training on money laundering risks.
 员工接受了洗钱风险培训。
 
 13. accessory after the fact · 词组 / 术语 · 回看 00:16:00
+词性：noun phrase
+English definition: Someone who knowingly helps an offender avoid arrest, trial, or punishment after a crime.
 事后帮助犯罪者逃避追究的人
 字幕中出现：Accessory after the fact
 美国刑法术语；区别于直接参与实施犯罪的 principal 或 accomplice。
@@ -148,6 +188,8 @@ The lawyer distinguished an accomplice from an accessory after the fact.
 律师区分了共犯和事后帮助犯。
 
 14. obstruction of justice · 词组 / 术语 · 回看 00:51:26
+词性：noun phrase
+English definition: Improper interference with the investigation, prosecution, or administration of a legal matter.
 妨碍司法
 字幕中出现：obstruction of justice
 法律术语，具体构成依法律及事实；不等于普通反对调查。
@@ -159,6 +201,8 @@ Counsel explained the obstruction-of-justice allegation.
 律师解释了妨碍司法的指控。
 
 15. in perpetuity · 词组 / 术语 · 回看 00:37:02
+词性：adverb phrase
+English definition: For an unlimited time, without an agreed end date.
 永久地；无期限地
 字幕中出现：in perpetuity
 正式法律或商务表达；用于权利、义务等持续期限。
@@ -171,3 +215,5 @@ The clause does not bind you in perpetuity.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

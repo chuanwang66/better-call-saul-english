@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E08 Rico
+V3 · 更新 2026-10-11
 英文梗概（73 words，含剧透）
 While helping an elderly client, Jimmy notices suspicious charges at Sandpiper Crossing. He investigates the billing, retrieves shredded documents and discovers a possible pattern of financial exploitation. Chuck becomes absorbed in the legal work and helps develop a substantial case. Their collaboration gives Jimmy hope that they can finally work as equals. As the case grows beyond a solo practice, the need for resources creates a new question about who will control it.
 
 重点词汇：14 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. discovery · 关键词 · 回看 00:43:03
+美式 IPA：/dɪˈskʌvɚi/
+词性：noun
+English definition: Finding something previously unknown; in litigation, the process of obtaining and exchanging case information.
 发现；诉讼中的证据开示
 字幕中出现：discovery
 法律义是审前依法获取对方相关信息的程序，区别于普通“发现”。
@@ -16,6 +21,10 @@ The discovery of a leak changed our schedule.
 发现漏水后，我们改变了日程。（普通义。）
 
 02. damages · 关键词 · 回看 00:39:08
+美式 IPA：/ˈdæmɪdʒɪz/
+词性：plural noun
+English definition: Money awarded to compensate for a legally recognized injury or loss.
+原形：damage
 损害赔偿金
 字幕中出现：damages
 法律义通常用复数；damage 常指损害本身，注意区别。
@@ -27,6 +36,9 @@ The storm caused damage, but the claim is for damages.
 暴风雨造成了损害，而索赔请求的是赔偿金。
 
 03. fraud · 关键词 · 回看 00:14:26
+美式 IPA：/frɔd/
+词性：noun
+English definition: Deliberate deception intended to obtain a benefit or cause another person's loss.
 欺诈
 字幕中出现：Fraud
 法律或商务语境指欺骗行为；a fraud 也可指骗子或冒牌者。
@@ -38,6 +50,9 @@ She realized the offer was a fraud.
 她意识到那个邀约是骗局。
 
 04. solicitation · 关键词 · 回看 00:15:39
+美式 IPA：/səˌlɪsɪˈteɪʃən/
+词性：noun
+English definition: The act of requesting business, money, or action; in some legal contexts, urging someone to commit an offense.
 招揽；请求；教唆或邀约
 字幕中出现：solicitation
 法律中可指招揽客户或某类犯罪邀约；须看宾语和场景。
@@ -49,6 +64,9 @@ They received a solicitation for donations.
 他们收到了募捐请求。
 
 05. spoliation · 关键词 · 回看 00:17:41
+美式 IPA：/ˌspoʊliˈeɪʃən/
+词性：noun
+English definition: The destruction, alteration, or improper loss of evidence relevant to a legal dispute.
 证据毁损、灭失或隐匿
 字幕中出现：spoliation
 法律术语 spoliation of evidence；不要误认成普通 spoilage。
@@ -60,6 +78,9 @@ A preservation policy can reduce spoliation risks.
 证据保存制度可以降低证据毁损风险。
 
 06. litigation · 关键词 · 回看 00:17:28
+美式 IPA：/ˌlɪtəˈɡeɪʃən/
+词性：noun
+English definition: The process of pursuing or defending a dispute through the courts.
 诉讼；进行诉讼的过程
 字幕中出现：litigation
 通常不可数；litigation costs 诉讼费用。
@@ -71,6 +92,9 @@ She works in commercial litigation.
 她从事商事诉讼工作。
 
 07. defraud · 关键词 · 回看 00:17:28
+美式 IPA：/dɪˈfrɔd/
+词性：verb
+English definition: To obtain money, property, or another benefit from someone through deception.
 欺诈以骗取钱财或权利
 字幕中出现：defrauding
 defraud someone of something；比一般 deceive 更具体。
@@ -82,6 +106,9 @@ Customers were defrauded through false invoices.
 客户因虚假发票而被骗。
 
 08. statute · 关键词 · 回看 00:02:07
+美式 IPA：/ˈstætʃut/
+词性：noun
+English definition: A written law enacted by a legislative body.
 成文法；法令
 字幕中出现：statute
 与 statue 雕像区分；法律通常是 legislature 制定的 statute。
@@ -93,6 +120,9 @@ The claim depends on how the statute is interpreted.
 诉求取决于如何解释该法令。
 
 09. precedent · 关键词 · 回看 00:30:03
+美式 IPA：/ˈprɛsɪdənt/
+词性：noun
+English definition: An earlier decision or event used as a guide for later similar situations.
 先例；具有参考或约束意义的判例
 字幕中出现：precedent
 set a precedent 开创先例；与 president 总统区分。
@@ -104,6 +134,9 @@ There was no clear precedent for the decision.
 这个决定没有明确先例。
 
 10. sanction · 关键词 · 回看 00:23:45
+美式 IPA：/ˈsæŋkʃən/
+词性：noun / verb
+English definition: An official penalty or approval; as a verb, to penalize or formally authorize, depending on context.
 处罚；正式批准
 字幕中出现：sanctioned
 含近乎相反的双义：impose sanctions 施加制裁；sanction a decision 批准。
@@ -115,6 +148,9 @@ The policy includes sanctions for misconduct.
 政策规定了对不当行为的处罚。
 
 11. evidentiary · 关键词 · 回看 00:38:57
+美式 IPA：/ˌɛvɪˈdɛnʃiˌɛri/
+词性：adjective
+English definition: Relating to evidence or the rules governing its use.
 证据方面的
 字幕中出现：evidentiary
 形容词，evidentiary hearing 专门审查证据问题的听证。
@@ -126,6 +162,9 @@ Counsel raised an evidentiary objection.
 律师提出了证据方面的异议。
 
 12. malfeasance · 关键词 · 回看 00:17:15
+美式 IPA：/ˌmælˈfizəns/
+词性：noun
+English definition: Unlawful or seriously improper conduct, especially by someone holding a position of responsibility.
 违法失职；不法行为
 字幕中出现：malfeasance
 正式词，尤其用于任职或履职时的违法不当行为。
@@ -137,6 +176,8 @@ The allegation concerned corporate malfeasance.
 指控涉及企业不法行为。
 
 13. smoking gun · 词组 / 术语 · 回看 00:29:49
+词性：noun phrase / idiom
+English definition: A piece of evidence that strongly and directly reveals wrongdoing.
 确凿的关键证据
 字幕中出现：smoking gun
 比喻直接显示责任或真相的强力证据；不必是实际枪支。
@@ -148,6 +189,8 @@ A suspicious payment is not always a smoking gun.
 一笔可疑付款未必就是铁证。
 
 14. summary judgment · 词组 / 术语 · 回看 00:38:24
+词性：noun phrase
+English definition: A decision made without a trial when no genuine dispute of material fact requires one and the law determines the outcome.
 简易判决；无需完整审判作出的判决
 字幕中出现：summary judgment
 美国民事程序中通常涉及不存在实质事实争议等条件；不是普通“总结”。
@@ -160,3 +203,5 @@ The motion argued that summary judgment was appropriate.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

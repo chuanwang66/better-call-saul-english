@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E07 Expenses
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 Suspended from practising law, Jimmy juggles community service, advertising sales and mounting expenses. Selling television commercials proves much harder than persuading legal clients. Nacho seeks empty capsules as part of his plan against Hector, and Mike becomes involved reluctantly. Kim continues her demanding Mesa Verde work. When Jimmy asks his malpractice insurer for financial relief, he reveals damaging information about Chuck, creating consequences that extend beyond his own immediate money problems.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. malpractice · 关键词 · 回看 00:05:11
+美式 IPA：/mælˈpræktɪs/
+词性：noun
+English definition: Professional negligence or misconduct that harms a client or patient.
 专业失当；专业过失
 字幕中出现：malpractice
 常见 medical/legal malpractice；不局限于医生。
@@ -16,6 +21,9 @@ An unfavourable result alone does not prove malpractice.
 结果不利本身并不能证明专业失当。
 
 02. suspension · 关键词 · 回看 00:05:09
+美式 IPA：/səˈspɛnʃən/
+词性：noun
+English definition: A temporary removal from a role, activity, or professional practice.
 暂停执业、职务或活动
 字幕中出现：suspended
 本学习册主要关注律师暂停执业；suspended 是相关形容词或过去分词。
@@ -27,6 +35,8 @@ He returned to practice after the suspension.
 暂停期结束后他恢复执业。
 
 03. due diligence · 词组 / 术语 · 回看 00:23:54
+词性：noun phrase
+English definition: Careful checking of facts, risks, and obligations before making a decision or completing a transaction.
 尽职调查；应有的审慎核查
 字幕中出现：due diligence
 商务常指交易前查验信息；法律中也可强调合理审慎。
@@ -38,6 +48,8 @@ Don't skip due diligence just because the price is low.
 别因为价格低就跳过尽职调查。
 
 04. bar hearing · 词组 / 术语 · 回看 00:50:52
+词性：noun phrase
+English definition: A proceeding before a legal professional body concerning a lawyer's fitness, conduct, or right to practice.
 律师执业纪律听证
 字幕中出现：bar hearing
 bar 在此指法律职业及其管理体系；不是酒吧或普通庭审。
@@ -49,6 +61,9 @@ A bar hearing can affect a lawyer's licence.
 律师纪律听证可能影响律师的执照。
 
 05. waiver · 关键词 · 回看 00:01:57
+美式 IPA：/ˈweɪvɚ/
+词性：noun
+English definition: An intentional surrender of a right, or a document or decision recording that surrender or an exemption.
 放弃权利的声明；豁免
 字幕中出现：waiver
 名词；sign a waiver 常指签署责任或权利放弃文件。
@@ -60,6 +75,9 @@ A waiver does not resolve every liability question.
 豁免声明不能解决所有责任问题。
 
 06. reimburse · 关键词 · 回看 00:18:15
+美式 IPA：/ˌriɪmˈbɝs/
+词性：verb
+English definition: To repay someone for money they spent on another person's or organization's behalf.
 报销；偿还垫付费用
 字幕中出现：reimburse
 reimburse someone for expenses；与 compensate 损害补偿区分。
@@ -71,6 +89,9 @@ They agreed to reimburse the deposit.
 他们同意退还垫付款。
 
 07. acquisition · 关键词 · 回看 00:26:43
+美式 IPA：/ˌækwəˈzɪʃən/
+词性：noun
+English definition: The act of obtaining something, especially buying another business.
 收购；取得
 字幕中出现：acquisition
 商务中常指企业收购，也可指知识或资产的获得。
@@ -82,6 +103,8 @@ Language acquisition takes sustained exposure.
 语言习得需要持续接触。
 
 08. full disclosure · 词组 / 术语 · 回看 00:23:49
+词性：noun phrase
+English definition: The complete sharing of relevant information, including facts that could affect another person's decision.
 完整披露；事先坦白
 字幕中出现：full disclosure
 法律或商务中指充分提供相关信息；口语常用于承认利益或背景。
@@ -94,3 +117,5 @@ Full disclosure would have changed their decision.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

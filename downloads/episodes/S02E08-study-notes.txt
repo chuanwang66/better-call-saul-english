@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E08 Fifi
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Kim leaves HHM and secures Mesa Verde for her new practice, but Chuck and Howard persuade the bank to stay with their firm. While caring for Chuck, Jimmy alters numbers in the bank's documents to undermine his brother's work. Mike studies Hector's operations and prepares to disrupt a transport route. The episode contrasts careful professional presentations with hidden interference, as Jimmy's desire to help Kim leads him to commit a serious violation of trust.
 
 重点词汇：7 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. compliance · 关键词 · 回看 00:19:40
+美式 IPA：/kəmˈplaɪəns/
+词性：noun
+English definition: The act of following a rule, requirement, or instruction.
 遵守；合规
 字幕中出现：compliance
 compliance with rules；商务中常指满足监管要求。
@@ -16,6 +21,9 @@ Compliance requires more than signing a form.
 合规不只是签一张表。
 
 02. resignation · 关键词 · 回看 00:06:24
+美式 IPA：/ˌrɛzɪɡˈneɪʃən/
+词性：noun
+English definition: The act of leaving a job or position; also acceptance of an unwanted situation.
 辞职；无奈接受
 字幕中出现：resignation
 注意双义：submit a resignation 与 a sigh of resignation。
@@ -27,6 +35,8 @@ The board requested his resignation.
 董事会要求他辞职。
 
 03. Hail Mary · 词组 / 术语 · 回看 00:19:30
+词性：noun phrase / idiom
+English definition: A desperate final attempt with little chance of success.
 胜算很低的最后一搏
 字幕中出现：Hail Mary
 原指美式橄榄球中的孤注一掷长传；a Hail Mary 表示绝境中的尝试。
@@ -38,6 +48,9 @@ Don't build your strategy around a Hail Mary.
 别把策略押在最后的侥幸一搏上。
 
 04. egalitarian · 关键词 · 回看 00:15:36
+美式 IPA：/ɪˌɡæləˈtɛriən/
+词性：adjective / noun
+English definition: Supporting equal rights and opportunities for people; a person who holds that view.
 平等主义的；主张人人平等的
 字幕中出现：egalitarian
 egalitarian society/approach；与单纯 identical 相同区分。
@@ -49,6 +62,9 @@ The team described its culture as egalitarian.
 团队称自己的文化强调平等。
 
 05. portfolio · 关键词 · 回看 00:23:19
+美式 IPA：/pɔrtˈfoʊliˌoʊ/
+词性：noun
+English definition: A collection of investments, work samples, or business activities managed together.
 投资组合；业务或作品集
 字幕中出现：portfolio
 金融语境指持有的投资组合；也用于客户、项目或创作作品。
@@ -60,6 +76,9 @@ He submitted a portfolio of design work.
 他提交了一份设计作品集。
 
 06. interstate · 关键词 · 回看 00:23:31
+美式 IPA：/ˌɪntɚˈsteɪt/
+词性：adjective / noun
+English definition: Connecting or involving different states; as a noun, an interstate highway.
 州与州之间的
 字幕中出现：Interstate
 美国语境常见 interstate commerce；也可作名词指州际公路。
@@ -71,6 +90,9 @@ We joined the interstate outside town.
 我们在城外驶上州际公路。
 
 07. touch-and-go · 关键词 · 回看 00:16:46
+美式 IPA：/ˌtʌtʃənˈɡoʊ/
+词性：adjective
+English definition: Uncertain and risky, with success or survival still in doubt.
 结果难料的；险些失败的
 字幕中出现：touch-and-go
 通常作表语，强调危险或成败未定。
@@ -83,3 +105,5 @@ Getting the deal signed was touch-and-go.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

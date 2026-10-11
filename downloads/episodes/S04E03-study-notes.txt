@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S04E03 Something Beautiful
+V3 · 更新 2026-10-11
 英文梗概（79 words，含剧透）
 Jimmy arranges the theft of a valuable figurine from the copier office, treating it as an easy way to make money. Nacho takes part in a staged attack designed to explain Arturo's death and support Gus's deception. Kim observes court proceedings and becomes interested in people whose cases receive little attention. Gus considers the technical possibilities of a future methamphetamine operation. Chuck's letter to Jimmy produces a restrained response from him and a much more emotional one from Kim.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. vulnerable · 关键词 · 回看 00:13:37
+美式 IPA：/ˈvʌlnɚəbəl/
+词性：adjective
+English definition: Open to harm, attack, pressure, or exploitation.
 易受伤害、攻击或利用的
 字幕中出现：vulnerable
 vulnerable to；法律、业务和人际中都常见。
@@ -16,6 +21,8 @@ She felt vulnerable after the disclosure.
 事情披露后，她觉得自己处境脆弱。
 
 02. cut a deal · 词组 / 术语 · 回看 00:32:29
+词性：verb phrase / idiom
+English definition: To negotiate and reach an agreement, often involving concessions.
 达成交易或协议
 字幕中出现：Cut a deal
 非正式，常含协商交换条件的意思；不必然违法。
@@ -27,6 +34,8 @@ Can we cut a deal that works for both sides?
 我们能达成双方都满意的协议吗？
 
 03. due diligence · 词组 / 术语 · 回看 00:13:11
+词性：noun phrase
+English definition: Careful checking of facts, risks, and obligations before making a decision or completing a transaction.
 尽职调查；应有的审慎核查
 字幕中出现：due diligence
 商务常指交易前查验信息；法律中也可强调合理审慎。
@@ -38,6 +47,8 @@ Don't skip due diligence just because the price is low.
 别因为价格低就跳过尽职调查。
 
 04. the tip of the iceberg · 词组 / 术语 · 回看 00:15:21
+词性：noun phrase / idiom
+English definition: The small visible part of a much larger, mostly hidden problem or situation.
 冰山一角
 字幕中出现：the tip of the iceberg
 可见问题只是更大隐藏问题的一小部分。
@@ -49,6 +60,9 @@ She suspected the error was the tip of the iceberg.
 她怀疑这个错误只是更大问题的表面。
 
 05. security-conscious · 关键词 · 回看 00:07:20
+美式 IPA：/sɪˈkjʊrəti ˌkɑnʃəs/
+词性：adjective
+English definition: Aware of security risks and careful to take protective measures.
 有安全防范意识的
 字幕中出现：security-conscious
 conscious 与名词组合形成“有某方面意识的”形容词。
@@ -60,6 +74,9 @@ They became more security-conscious after the theft.
 失窃后他们提高了安全意识。
 
 06. swagger · 关键词 · 回看 00:06:49
+美式 IPA：/ˈswæɡɚ/
+词性：noun / verb
+English definition: An ostentatiously confident manner or walk; to move or behave in that manner.
 大摇大摆的姿态；自信甚至傲慢的气派
 字幕中出现：swagger
 可作名词或动词，常带表演感。
@@ -71,6 +88,9 @@ She swaggered into the office.
 她大摇大摆地走进办公室。
 
 07. paralegal · 关键词 · 回看 00:13:55
+美式 IPA：/ˌpɛrəˈliɡəl/
+词性：noun / adjective
+English definition: A trained legal assistant who is not a licensed lawyer; relating to that role.
 律师助理；法律辅助人员
 字幕中出现：paralegal
 不等于有执业资格的律师；职能依地区和机构。
@@ -82,6 +102,8 @@ A paralegal helped prepare the documents.
 律师助理协助准备了文件。
 
 08. cast aspersions · 词组 / 术语 · 回看 00:35:08
+词性：verb phrase
+English definition: To make damaging suggestions about someone's character or honesty.
 诋毁；影射他人有问题
 字幕中出现：cast aspersions
 cast aspersions on someone/something；较正式，常用于否认自己在攻击对方。
@@ -94,3 +116,5 @@ The article cast aspersions without offering evidence.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/vlHghm
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

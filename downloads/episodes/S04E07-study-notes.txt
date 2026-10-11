@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S04E07 Something Stupid
+V3 · 更新 2026-10-11
 英文梗概（72 words，含剧透）
 A montage follows Jimmy and Kim as their daily routines become increasingly separate. Jimmy's prepaid-phone business grows, while Kim establishes herself at Schweikart & Cokely. When Huell strikes a police officer, Jimmy asks Kim to help prevent a prison sentence. Kim sees weaknesses in the prosecution but becomes interested in a more elaborate solution. Meanwhile, Werner's crew faces the strain of extended isolation, and Mike must contain the risks created by their frustration.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. misdemeanor · 关键词 · 回看 00:35:45
+美式 IPA：/ˌmɪsdəˈminɚ/
+词性：noun
+English definition: A criminal offense in a less serious category than a felony.
 轻罪
 字幕中出现：misdemeanor
 美国法律用语；具体分类取决于适用法律，不能只按日常严重程度判断。
@@ -16,6 +21,9 @@ The report distinguishes misdemeanors from felonies.
 报告区分了轻罪与重罪。
 
 02. probation · 关键词 · 回看 00:36:43
+美式 IPA：/proʊˈbeɪʃən/
+词性：noun
+English definition: Court-ordered community supervision under conditions; also a trial period for a new employee.
 缓刑或社区监督；试用期
 字幕中出现：probation
 刑事含义按具体制度判断；工作语境可指试用期。
@@ -27,6 +35,9 @@ My probation at the new job ends next month.
 我新工作的试用期下个月结束。
 
 03. bail · 关键词 · 回看 00:38:30
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -38,6 +49,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 04. defendant · 关键词 · 回看 00:36:21
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：defendants
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -49,6 +63,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 05. discovery · 关键词 · 回看 00:06:33
+美式 IPA：/dɪˈskʌvɚi/
+词性：noun
+English definition: Finding something previously unknown; in litigation, the process of obtaining and exchanging case information.
 发现；诉讼中的证据开示
 字幕中出现：discovery
 法律义是审前依法获取对方相关信息的程序，区别于普通“发现”。
@@ -60,6 +77,9 @@ The discovery of a leak changed our schedule.
 发现漏水后，我们改变了日程。（普通义。）
 
 06. bribe · 关键词 · 回看 00:35:11
+美式 IPA：/braɪb/
+词性：noun / verb
+English definition: Something offered to improperly influence a decision; to offer such an inducement.
 贿赂；贿赂物；行贿
 字幕中出现：bribe
 可数名词或动词；不等于正常服务费或合法报酬。
@@ -71,6 +91,9 @@ Nobody should have to bribe someone to receive a public service.
 任何人都不应该靠行贿才能获得公共服务。
 
 07. disbarment · 关键词 · 回看 00:37:16
+美式 IPA：/dɪsˈbɑrmənt/
+词性：noun
+English definition: The removal of a lawyer's authorization to practice law.
 取消律师执业资格
 字幕中出现：disbarred
 比暂时 suspension 更严重；动词 disbar。
@@ -82,6 +105,9 @@ Disbarment ended her legal practice.
 取消资格终结了她的律师执业。
 
 08. legitimate · 关键词 · 回看 00:24:49
+美式 IPA：/ləˈdʒɪtəmət/
+词性：adjective
+English definition: Allowed by law or accepted rules; also genuine or reasonably justified.
 合法正当的；真实合理的
 字幕中出现：legitimate
 legitimate concern 合理担忧；不局限于合法性。
@@ -93,6 +119,8 @@ We checked whether the document was legitimate.
 我们核查了文件是否真实有效。
 
 09. in broad daylight · 词组 / 术语 · 回看 00:35:36
+词性：adverb phrase
+English definition: Openly during the day, often emphasizing how bold or surprising an action is.
 光天化日之下
 字幕中出现：in broad daylight
 常带“竟然公开做坏事”的惊讶语气。
@@ -105,3 +133,5 @@ He couldn't believe the attack occurred in broad daylight.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/vlHghm
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

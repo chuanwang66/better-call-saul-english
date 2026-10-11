@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E04 Sabrosito
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 Gus and Hector compete within the cartel's business structure, with Gus maintaining a controlled public image while managing dangerous rivals. Mike helps prepare Jimmy and Kim's defence by obtaining photographs inside Chuck's house. The damage from Jimmy's intrusion and the arrangement of Chuck's surroundings become strategically useful. Kim challenges assumptions about how the recording should be handled. The episode assembles the evidence and relationships that will matter at Jimmy's disciplinary hearing.
 
 重点词汇：12 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. prosecution · 关键词 · 回看 00:39:50
+美式 IPA：/ˌprɑsəˈkjuʃən/
+词性：noun
+English definition: The pursuit of criminal charges in court; also the lawyers bringing those charges.
 控方；起诉；检控
 字幕中出现：Prosecution
 the prosecution 常指刑事案件中的控方。
@@ -16,6 +21,9 @@ The file was sent for prosecution.
 案卷被移送起诉。
 
 02. discovery · 关键词 · 回看 00:45:24
+美式 IPA：/dɪˈskʌvɚi/
+词性：noun
+English definition: Finding something previously unknown; in litigation, the process of obtaining and exchanging case information.
 发现；诉讼中的证据开示
 字幕中出现：discovery
 法律义是审前依法获取对方相关信息的程序，区别于普通“发现”。
@@ -27,6 +35,9 @@ The discovery of a leak changed our schedule.
 发现漏水后，我们改变了日程。（普通义。）
 
 03. restitution · 关键词 · 回看 00:43:58
+美式 IPA：/ˌrɛstəˈtuʃən/
+词性：noun
+English definition: Returning property or paying compensation to someone who suffered a loss.
 返还财物；对损失的补偿
 字幕中出现：restitution
 法律语境常指向受害者偿还；不同于惩罚性罚款。
@@ -38,6 +49,9 @@ Restitution did not erase the offence.
 赔偿并未抹去违法行为。
 
 04. waive · 关键词 · 回看 00:39:59
+美式 IPA：/weɪv/
+词性：verb
+English definition: To voluntarily give up a right, requirement, claim, or fee.
 自愿放弃权利、要求或费用
 字幕中出现：waiving
 waive a right/fee；与 wave 挥手区分。
@@ -49,6 +63,9 @@ They refused to waive the requirement.
 他们拒绝免除这项要求。
 
 05. statute · 关键词 · 回看 00:40:01
+美式 IPA：/ˈstætʃut/
+词性：noun
+English definition: A written law enacted by a legislative body.
 成文法；法令
 字幕中出现：statute
 与 statue 雕像区分；法律通常是 legislature 制定的 statute。
@@ -60,6 +77,9 @@ The claim depends on how the statute is interpreted.
 诉求取决于如何解释该法令。
 
 06. remorse · 关键词 · 回看 00:27:01
+美式 IPA：/rɪˈmɔrs/
+词性：noun
+English definition: Deep regret and guilt about harm one has caused.
 懊悔；对过错的内疚
 字幕中出现：remorse
 show remorse；比单纯 regret 更突出对伤害或过错的道德反省。
@@ -71,6 +91,9 @@ The apology contained little remorse.
 道歉中几乎没有悔意。
 
 07. covert · 关键词 · 回看 00:32:45
+美式 IPA：/ˈkoʊvɚt/
+词性：adjective
+English definition: Kept secret, especially to conceal an operation or its purpose.
 秘密进行的；隐蔽的
 字幕中出现：covert
 与 overt 公开的相对；covert operation 秘密行动。
@@ -82,6 +105,9 @@ His opposition was covert at first.
 他的反对起初是暗中的。
 
 08. acquit · 关键词 · 回看 00:22:34
+美式 IPA：/əˈkwɪt/
+词性：verb
+English definition: To decide in court that a defendant has not been proved guilty.
 宣判无罪
 字幕中出现：acquitted
 acquit someone of a charge；无罪判决不等于对所有事实作出肯定判断。
@@ -93,6 +119,9 @@ An acquittal ended the criminal trial.
 无罪判决结束了刑事审判。
 
 09. infraction · 关键词 · 回看 00:40:29
+美式 IPA：/ɪnˈfrækʃən/
+词性：noun
+English definition: A violation of a rule or law, often a relatively minor one.
 轻微违法；违规
 字幕中出现：infraction
 通常比 felony、misdemeanor 轻，但分类依地区。
@@ -104,6 +133,9 @@ They disputed whether any infraction occurred.
 他们争论是否发生了违规。
 
 10. lenient · 关键词 · 回看 00:45:50
+美式 IPA：/ˈliniənt/
+词性：adjective
+English definition: Less strict or severe in punishment than might be expected.
 宽大的；处罚较轻的
 字幕中出现：lenient
 lenient sentence；比较级 more lenient。
@@ -115,6 +147,8 @@ The policy is lenient toward first-time offenders.
 政策对初犯较宽大。
 
 11. statute of limitations · 词组 / 术语 · 回看 00:40:01
+词性：noun phrase
+English definition: A law setting the period within which a legal claim or prosecution must usually begin.
 诉讼或追诉时效规定
 字幕中出现：statute of limitations
 规定提起某类案件的期限；存在例外及地区差异。
@@ -126,6 +160,8 @@ Counsel checked the applicable statute of limitations.
 律师核查了适用的时效规定。
 
 12. bar hearing · 词组 / 术语 · 回看 00:45:01
+词性：noun phrase
+English definition: A proceeding before a legal professional body concerning a lawyer's fitness, conduct, or right to practice.
 律师执业纪律听证
 字幕中出现：bar hearing
 bar 在此指法律职业及其管理体系；不是酒吧或普通庭审。
@@ -138,3 +174,5 @@ A bar hearing can affect a lawyer's licence.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

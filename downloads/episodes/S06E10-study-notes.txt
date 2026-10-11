@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E10 Nippy
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Living as Gene, Jimmy befriends Marion to gain leverage over her son Jeff, who has recognized him as Saul. Rather than flee, Gene recruits Jeff into a carefully rehearsed department-store robbery. He distracts a security guard while Jeff steals selected goods. When a mishap threatens the timing, Gene improvises an emotional diversion. Afterward, he uses their shared criminal exposure to demand silence. The successful operation awakens skills and appetites that his quiet Omaha life had suppressed.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. conspiracy · 关键词 · 回看 00:45:05
+美式 IPA：/kənˈspɪrəsi/
+词性：noun
+English definition: A secret agreement to carry out an unlawful or harmful plan.
 共谋；阴谋
 字幕中出现：Conspiracy
 法律语境强调共同约定实施违法行为；也用于非法律的秘密计划。
@@ -16,6 +21,9 @@ The conspiracy involved several companies.
 共谋涉及几家公司。
 
 02. blackmail · 关键词 · 回看 00:08:40
+美式 IPA：/ˈblækˌmeɪl/
+词性：noun / verb
+English definition: Demanding money or cooperation by threatening to expose damaging information; to make such a demand.
 敲诈勒索；以曝光信息等相威胁
 字幕中出现：blackmail
 名词或动词；日常 emotional blackmail 指情感勒索。
@@ -27,6 +35,8 @@ Guilt can be used as a form of emotional blackmail.
 内疚感可能被用作情感勒索的手段。
 
 03. on the line · 词组 / 术语 · 回看 00:09:20
+词性：idiom
+English definition: At risk of being lost; also connected by telephone.
 面临风险；处于通话中
 字幕中出现：on the line
 声誉、工作等 on the line 指可能失去；电话语境指在线。
@@ -38,6 +48,9 @@ There's a lot of money on the line.
 有一大笔钱面临风险。
 
 04. strong-arm · 关键词 · 回看 00:08:33
+美式 IPA：/ˈstrɔŋˌɑrm/
+词性：verb / adjective
+English definition: To force someone to act through threats or pressure; involving such methods.
 用强力或威胁迫使
 字幕中出现：strong-arm
 strong-arm someone into doing something；负面动词。
@@ -49,6 +62,9 @@ He refused to be strong-armed into silence.
 他拒绝受威胁而保持沉默。
 
 05. inventory · 关键词 · 回看 00:25:57
+美式 IPA：/ˈɪnvənˌtɔri/
+词性：noun / verb
+English definition: Goods held in stock or a detailed list of items; to make such a list.
 库存；盘点
 字幕中出现：inventory
 take/do inventory 盘点；也可作动词清点。
@@ -60,6 +76,9 @@ She inventoried the office equipment.
 她清点了办公设备。
 
 06. invoice · 关键词 · 回看 00:29:38
+美式 IPA：/ˈɪnvɔɪs/
+词性：noun / verb
+English definition: An itemized request for payment; to send such a request.
 发票；付款账单
 字幕中出现：invoice
 区别于付款后 receipt 收据；invoice number 发票编号。
@@ -71,6 +90,9 @@ They disputed an unpaid invoice.
 他们对一张未付款账单有争议。
 
 07. logistics · 关键词 · 回看 00:27:00
+美式 IPA：/ləˈdʒɪstɪks/
+词性：plural noun
+English definition: The practical organization of moving people, supplies, or equipment and coordinating an operation.
 后勤；具体组织安排
 字幕中出现：logistics
 常涉及运输、人员、时间、物资；名词通常作为整体使用。
@@ -82,6 +104,9 @@ We discussed the logistics of moving the team.
 我们讨论了团队搬迁的具体安排。
 
 08. interstate · 关键词 · 回看 00:44:57
+美式 IPA：/ˌɪntɚˈsteɪt/
+词性：adjective / noun
+English definition: Connecting or involving different states; as a noun, an interstate highway.
 州与州之间的
 字幕中出现：Interstate
 美国语境常见 interstate commerce；也可作名词指州际公路。
@@ -93,6 +118,9 @@ We joined the interstate outside town.
 我们在城外驶上州际公路。
 
 09. dealbreaker · 关键词 · 回看 00:17:48
+美式 IPA：/ˈdilˌbreɪkɚ/
+词性：noun
+English definition: A condition or problem serious enough to prevent an agreement or relationship.
 导致谈不成的关键问题
 字幕中出现：dealbreaker
 也写 deal-breaker；比一般缺点更严重。
@@ -105,3 +133,5 @@ Is that price a dealbreaker?
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

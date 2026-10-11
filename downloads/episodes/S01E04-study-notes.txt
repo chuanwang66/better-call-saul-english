@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E04 Hero
+V3 · 更新 2026-10-11
 英文梗概（72 words，含剧透）
 The Kettlemans offer Jimmy money to keep quiet, which he accepts as a supposed retainer. He uses it to copy Howard's appearance and advertise beside an HHM-like logo. The firm demands that the billboard come down. Jimmy then stages a dramatic rescue of a worker hanging from the sign, winning publicity and new enquiries. His success depends on manipulating the story, while Chuck remains unaware of how his brother obtained the attention.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. retainer · 关键词 · 回看 00:10:36
+美式 IPA：/rɪˈteɪnɚ/
+词性：noun
+English definition: A fee or arrangement securing a professional's services or availability, especially a lawyer's.
 聘用律师等专业人士的预付费用；聘用安排
 字幕中出现：retainer
 具体如何计费取决于协议；不必然指已赚取的费用。
@@ -16,6 +21,9 @@ The firm explained its retainer agreement.
 事务所解释了聘用协议。
 
 02. bribe · 关键词 · 回看 00:10:16
+美式 IPA：/braɪb/
+词性：noun / verb
+English definition: Something offered to improperly influence a decision; to offer such an inducement.
 贿赂；贿赂物；行贿
 字幕中出现：bribe
 可数名词或动词；不等于正常服务费或合法报酬。
@@ -27,6 +35,9 @@ Nobody should have to bribe someone to receive a public service.
 任何人都不应该靠行贿才能获得公共服务。
 
 03. injunction · 关键词 · 回看 00:28:18
+美式 IPA：/ɪnˈdʒʌŋkʃən/
+词性：noun
+English definition: A court order requiring someone to do or stop doing a specified act.
 法院禁令
 字幕中出现：injunction
 常要求停止某行为，也可要求实施某行为；不是一般律师警告函。
@@ -38,6 +49,9 @@ Violating the injunction had serious consequences.
 违反禁令产生了严重后果。
 
 04. infringement · 关键词 · 回看 00:28:58
+美式 IPA：/ɪnˈfrɪndʒmənt/
+词性：noun
+English definition: An unauthorized interference with a right, especially an intellectual property right.
 侵权；侵犯
 字幕中出现：infringement
 infringement of a right；常见 copyright/trademark infringement。
@@ -49,6 +63,9 @@ Counsel reviewed the alleged infringement.
 律师审查了被指称的侵权行为。
 
 05. predatory · 关键词 · 回看 00:31:34
+美式 IPA：/ˈprɛdəˌtɔri/
+词性：adjective
+English definition: Seeking an advantage by exploiting people who are vulnerable.
 掠夺性的；专门利用弱者的
 字幕中出现：predatory
 predatory lending/behaviour，带强烈负面评价。
@@ -60,6 +77,8 @@ The scheme exploited vulnerable people in a predatory way.
 骗局以掠夺方式利用了弱势人群。
 
 06. public defender · 词组 / 术语 · 回看 00:34:42
+词性：noun phrase
+English definition: A publicly funded lawyer who represents eligible defendants unable to afford counsel.
 公设辩护律师
 字幕中出现：public defender
 美国语境常指为符合条件、无力聘律师的被告提供辩护的律师。
@@ -71,6 +90,8 @@ The public defender asked for more time to prepare.
 公设辩护律师申请更多准备时间。
 
 07. probable cause · 词组 / 术语 · 回看 00:15:50
+词性：noun phrase
+English definition: A reasonable basis, grounded in facts, for believing a crime occurred or evidence will be found.
 相当理由；合理根据
 字幕中出现：probable cause
 美国刑事程序术语，常与搜查、逮捕相关；不是定罪标准。
@@ -82,6 +103,8 @@ Suspicion alone may not establish probable cause.
 仅有怀疑可能不足以构成相当理由。
 
 08. cease and desist · 词组 / 术语 · 回看 00:25:55
+词性：verb phrase
+English definition: To stop an activity and refrain from starting it again.
 停止并不得继续某种行为
 字幕中出现：cease and desist
 常见 cease-and-desist letter；发出函件不等于法院已裁定违法。
@@ -93,6 +116,8 @@ She asked counsel to review the cease-and-desist demand.
 她请律师审查停止侵害的要求。
 
 09. good Samaritan · 词组 / 术语 · 回看 00:16:06
+词性：noun phrase
+English definition: A person who voluntarily helps someone in difficulty, especially a stranger.
 善意帮助陌生人的人
 字幕中出现：good samaritan
 源于圣经故事；特定法律中的保护范围需另查。
@@ -105,3 +130,5 @@ He was trying to be a good Samaritan.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

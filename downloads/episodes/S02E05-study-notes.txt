@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E05 Rebecca
+V3 · 更新 2026-10-11
 英文梗概（73 words，含剧透）
 A flashback shows how easily Jimmy charms Chuck's wife Rebecca, highlighting the tension between the brothers. In the present, Kim works relentlessly to bring Mesa Verde to HHM, hoping to restore her standing. Winning the client does not immediately free her from punishment. Hector pressures Mike to change his account of Tuco's arrest. Jimmy's effort to navigate office rules and Mike's negotiations both show how powerful people impose conditions on those beneath them.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. retainer · 关键词 · 回看 00:33:53
+美式 IPA：/rɪˈteɪnɚ/
+词性：noun
+English definition: A fee or arrangement securing a professional's services or availability, especially a lawyer's.
 聘用律师等专业人士的预付费用；聘用安排
 字幕中出现：retainer
 具体如何计费取决于协议；不必然指已赚取的费用。
@@ -16,6 +21,9 @@ The firm explained its retainer agreement.
 事务所解释了聘用协议。
 
 02. defendant · 关键词 · 回看 00:11:22
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：defendant
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -27,6 +35,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 03. bribe · 关键词 · 回看 00:23:42
+美式 IPA：/braɪb/
+词性：noun / verb
+English definition: Something offered to improperly influence a decision; to offer such an inducement.
 贿赂；贿赂物；行贿
 字幕中出现：bribe
 可数名词或动词；不等于正常服务费或合法报酬。
@@ -38,6 +49,9 @@ Nobody should have to bribe someone to receive a public service.
 任何人都不应该靠行贿才能获得公共服务。
 
 04. assault · 关键词 · 回看 00:43:32
+美式 IPA：/əˈsɔlt/
+词性：noun / verb
+English definition: A physical attack or, in some legal uses, conduct that creates fear of imminent harm; to attack.
 袭击；人身攻击
 字幕中出现：assault
 日常义较宽；具体法律构成因辖区不同，不与 battery 简单等同。
@@ -49,6 +63,9 @@ The lawyer reviewed the assault charge.
 律师审查了袭击指控。
 
 05. extortion · 关键词 · 回看 00:16:47
+美式 IPA：/ɪkˈstɔrʃən/
+词性：noun
+English definition: Obtaining money or cooperation through threats or coercion.
 勒索；敲诈
 字幕中出现：extortion
 以威胁迫使对方交钱或作出利益让步。
@@ -60,6 +77,9 @@ Prosecutors charged the group with extortion.
 检方以敲诈勒索指控该团伙。
 
 06. deposition · 关键词 · 回看 00:08:29
+美式 IPA：/ˌdɛpəˈzɪʃən/
+词性：noun
+English definition: Sworn testimony taken outside the courtroom and recorded for use in a case.
 庭外宣誓证言；取证问询
 字幕中出现：deposition
 美国诉讼术语，通常在庭前进行并记录，不等于普通访谈。
@@ -71,6 +91,9 @@ He contradicted his earlier deposition.
 他的说法与先前的宣誓证言矛盾。
 
 07. finesse · 关键词 · 回看 00:22:58
+美式 IPA：/fɪˈnɛs/
+词性：noun / verb
+English definition: Skillful, tactful handling of a difficult situation; to handle something with that skill.
 巧妙处理；精巧手腕
 字幕中出现：finessing
 可作名词或动词；有时暗含绕过问题。
@@ -82,6 +105,8 @@ The negotiation required considerable finesse.
 谈判需要高超的手腕。
 
 08. district attorney · 词组 / 术语 · 回看 00:25:02
+词性：noun phrase
+English definition: A public official responsible for prosecuting crimes in a local jurisdiction in the United States.
 地方检察官
 字幕中出现：district attorney
 美国地方刑事检控职务；具体职责随司法辖区而异。
@@ -93,6 +118,8 @@ The district attorney reviewed the evidence.
 地方检察官审查了证据。
 
 09. summary judgment · 词组 / 术语 · 回看 00:23:05
+词性：noun phrase
+English definition: A decision made without a trial when no genuine dispute of material fact requires one and the law determines the outcome.
 简易判决；无需完整审判作出的判决
 字幕中出现：summary judgment
 美国民事程序中通常涉及不存在实质事实争议等条件；不是普通“总结”。
@@ -105,3 +132,5 @@ The motion argued that summary judgment was appropriate.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

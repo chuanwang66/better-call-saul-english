@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S04E04 Talk
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy finds work at a mobile-phone shop but discovers that having little to do does not suit him. Kim becomes increasingly drawn to public-defence cases while Mesa Verde continues its expansion. Mike challenges a support-group participant whose story he believes is false, unsettling Stacey. Nacho returns to the Salamanca operation under Gus's control. Across these stories, characters conceal distress behind professional routines, and their frustration emerges in choices that others find difficult to understand.
 
 重点词汇：10 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. misdemeanor · 关键词 · 回看 00:10:00
+美式 IPA：/ˌmɪsdəˈminɚ/
+词性：noun
+English definition: A criminal offense in a less serious category than a felony.
 轻罪
 字幕中出现：misdemeanor
 美国法律用语；具体分类取决于适用法律，不能只按日常严重程度判断。
@@ -16,6 +21,9 @@ The report distinguishes misdemeanors from felonies.
 报告区分了轻罪与重罪。
 
 02. felony · 关键词 · 回看 00:09:57
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -27,6 +35,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 03. probation · 关键词 · 回看 00:09:45
+美式 IPA：/proʊˈbeɪʃən/
+词性：noun
+English definition: Court-ordered community supervision under conditions; also a trial period for a new employee.
 缓刑或社区监督；试用期
 字幕中出现：probation
 刑事含义按具体制度判断；工作语境可指试用期。
@@ -38,6 +49,9 @@ My probation at the new job ends next month.
 我新工作的试用期下个月结束。
 
 04. settlement · 关键词 · 回看 00:08:22
+美式 IPA：/ˈsɛtəlmənt/
+词性：noun
+English definition: An agreement resolving a dispute, or the money paid under that agreement.
 和解；和解协议或款项
 字幕中出现：settlement
 诉讼中常指双方协议解决争议；不等于法院判决。
@@ -49,6 +63,10 @@ Is the settlement in writing?
 和解协议有书面形式吗？
 
 05. trespassing · 关键词 · 回看 00:08:27
+美式 IPA：/ˈtrɛsˌpæsɪŋ/
+词性：noun / verb (-ing form)
+English definition: Entering or remaining on another person's property without permission; the -ing form of trespass.
+原形：trespass
 擅自进入或逗留他人土地、场所
 字幕中出现：trespassing
 常见标牌 No trespassing；不是泛指任何闯祸。
@@ -60,6 +78,9 @@ The complaint concerned trespassing, not theft.
 投诉涉及擅自侵入，而非盗窃。
 
 06. bankruptcy · 关键词 · 回看 00:08:24
+美式 IPA：/ˈbæŋkrəptsi/
+词性：noun
+English definition: A legal process for dealing with debts that a person or business cannot repay.
 破产；破产程序
 字幕中出现：bankruptcies
 名词；file for bankruptcy 表示申请破产保护或进入相应程序。
@@ -71,6 +92,9 @@ She specializes in bankruptcy law.
 她专长于破产法。
 
 07. disqualify · 关键词 · 回看 00:13:42
+美式 IPA：/dɪsˈkwɑləˌfaɪ/
+词性：verb
+English definition: To make someone ineligible or remove them from consideration.
 使不合资格；取消资格
 字幕中出现：disqualify
 disqualify someone from doing something。
@@ -82,6 +106,8 @@ One omission does not automatically disqualify you.
 一处遗漏不会自动使你失去资格。
 
 08. billable hours · 词组 / 术语 · 回看 00:10:51
+词性：plural noun phrase
+English definition: Time spent on work that a professional may charge to a client.
 可向客户计费的工时
 字幕中出现：billable hours
 专业服务行业常用；不等于全部工作时长。
@@ -93,6 +119,8 @@ How does the firm track billable hours?
 事务所如何记录可计费工时？
 
 09. conflict of interest · 词组 / 术语 · 回看 00:13:36
+词性：noun phrase
+English definition: A situation in which competing interests may interfere with impartial judgment or duties.
 利益冲突
 字幕中出现：conflict of interest
 指个人或其他利益可能影响应履行的职责；不只是意见不一致。
@@ -104,6 +132,8 @@ Could accepting this gift create a conflict of interest?
 收这份礼物会产生利益冲突吗？
 
 10. suspended sentence · 词组 / 术语 · 回看 00:09:43
+词性：noun phrase
+English definition: A sentence whose execution is delayed or withheld, often subject to conditions.
 缓刑；暂缓执行的刑罚
 字幕中出现：suspended sentence
 具体制度依地区；与律师 suspension 暂停执业区分。
@@ -116,3 +146,5 @@ Counsel requested a suspended sentence.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/vlHghm
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

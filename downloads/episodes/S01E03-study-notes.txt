@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E03 Nacho
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 The Kettlemans disappear, and Nacho becomes the main suspect. Jimmy agrees to represent him and learns that Nacho's presence near the house may expose a separate crime. Believing the family staged its own disappearance, Jimmy searches for them instead of accepting the kidnapping theory. He finds the Kettlemans camping near their home with the missing money. Meanwhile, Mike helps Jimmy think through the case, beginning an uneasy professional connection between them.
 
 重点词汇：11 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. defendant · 关键词 · 回看 00:15:07
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：defendant
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -16,6 +21,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 02. assault · 关键词 · 回看 00:01:37
+美式 IPA：/əˈsɔlt/
+词性：noun / verb
+English definition: A physical attack or, in some legal uses, conduct that creates fear of imminent harm; to attack.
 袭击；人身攻击
 字幕中出现：assault
 日常义较宽；具体法律构成因辖区不同，不与 battery 简单等同。
@@ -27,6 +35,9 @@ The lawyer reviewed the assault charge.
 律师审查了袭击指控。
 
 03. incriminate · 关键词 · 回看 00:35:51
+美式 IPA：/ɪnˈkrɪməˌneɪt/
+词性：verb
+English definition: To provide information that makes someone appear involved in a crime.
 使显得有罪；提供不利涉罪证据
 字幕中出现：incriminating
 incriminate oneself；与 implicate 相近但更直接涉及犯罪证据。
@@ -38,6 +49,9 @@ Investigators found incriminating documents.
 调查人员发现了不利的涉罪文件。
 
 04. confidentiality · 关键词 · 回看 00:34:16
+美式 IPA：/ˌkɑnfəˌdɛnʃiˈæləti/
+词性：noun
+English definition: The duty or practice of keeping sensitive information from unauthorized disclosure.
 保密性；保密义务
 字幕中出现：confidentiality
 与法律 privilege 区分；保密承诺不总等于可以拒绝作证。
@@ -49,6 +63,9 @@ The breach of confidentiality damaged trust.
 泄密损害了信任。
 
 05. remorse · 关键词 · 回看 00:26:18
+美式 IPA：/rɪˈmɔrs/
+词性：noun
+English definition: Deep regret and guilt about harm one has caused.
 懊悔；对过错的内疚
 字幕中出现：remorse
 show remorse；比单纯 regret 更突出对伤害或过错的道德反省。
@@ -60,6 +77,9 @@ The apology contained little remorse.
 道歉中几乎没有悔意。
 
 06. embezzle · 关键词 · 回看 00:38:00
+美式 IPA：/ɪmˈbɛzəl/
+词性：verb
+English definition: To dishonestly take money or property that one was trusted to manage.
 侵吞受托管理的钱财
 字幕中出现：embezzled
 区别于一般盗窃；名词 embezzlement。
@@ -71,6 +91,8 @@ The audit checked whether funds had been embezzled.
 审计核查资金是否遭到侵吞。
 
 07. off the hook · 词组 / 术语 · 回看 00:39:39
+词性：idiom
+English definition: Freed from responsibility or trouble; with ring, describing a phone ringing repeatedly.
 摆脱责任或困境；电话响个不停
 字幕中出现：off the hook
 let someone off the hook 放某人一马；ring off the hook 形容电话接连不断地响。
@@ -82,6 +104,8 @@ The phones were ringing off the hook.
 电话接连不断地响。
 
 08. attorney-client privilege · 词组 / 术语 · 回看 00:29:49
+词性：noun phrase
+English definition: A legal protection for certain confidential communications between a lawyer and client made for legal advice.
 律师与委托人之间的保密沟通特权
 字幕中出现：attorney-client privilege
 法律术语；保护范围、例外依具体法律而定，不等于所有与律师有关的信息都保密。
@@ -93,6 +117,8 @@ The training explains the limits of attorney-client privilege.
 培训解释了律师与委托人保密沟通特权的界限。
 
 09. dead to rights · 词组 / 术语 · 回看 00:38:03
+词性：adverb phrase / idiom
+English definition: In a situation where clear evidence establishes someone's wrongdoing.
 有确凿把柄；当场被抓
 字幕中出现：dead to rights
 have/catch someone dead to rights，主要见于美式口语。
@@ -104,6 +130,8 @@ You think you've got me dead to rights?
 你以为已经抓到我的铁证了吗？
 
 10. on your own recognizance · 词组 / 术语 · 回看 00:45:52
+词性：adverb phrase
+English definition: Released before trial on a personal promise to return to court, without posting bail money.
 以个人保证获释，无须交保释金
 字幕中出现：on your own recognizance
 美国法律术语；人称可变，不表示没有出庭义务。
@@ -115,6 +143,8 @@ Release on your own recognizance still requires court attendance.
 凭个人保证获释仍须按要求出庭。
 
 11. time served · 词组 / 术语 · 回看 00:14:01
+词性：noun phrase
+English definition: Time already spent in custody that counts toward a sentence, or a sentence limited to that time.
 已服刑的时间；以已羁押时间抵刑
 字幕中出现：time served
 常见 sentenced to time served；不表示无罪。
@@ -127,3 +157,5 @@ The agreement recommended time served.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

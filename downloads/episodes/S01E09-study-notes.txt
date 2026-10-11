@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E09 Pimento
+V3 · 更新 2026-10-11
 英文梗概（75 words，含剧透）
 The Sandpiper case is taken to HHM, but the firm will not hire Jimmy. He initially blames Howard, then discovers that Chuck has been blocking his career. Chuck admits that he does not trust Jimmy with the responsibilities of a lawyer. The revelation breaks their apparent partnership. In a parallel story, Mike protects a nervous pharmaceutical employee during a criminal transaction, demonstrating his practical competence and his ability to distinguish professional discipline from empty intimidation.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. settlement · 关键词 · 回看 00:22:23
+美式 IPA：/ˈsɛtəlmənt/
+词性：noun
+English definition: An agreement resolving a dispute, or the money paid under that agreement.
 和解；和解协议或款项
 字幕中出现：settlement
 诉讼中常指双方协议解决争议；不等于法院判决。
@@ -16,6 +21,9 @@ Is the settlement in writing?
 和解协议有书面形式吗？
 
 02. fraud · 关键词 · 回看 00:21:36
+美式 IPA：/frɔd/
+词性：noun
+English definition: Deliberate deception intended to obtain a benefit or cause another person's loss.
 欺诈
 字幕中出现：Fraud
 法律或商务语境指欺骗行为；a fraud 也可指骗子或冒牌者。
@@ -27,6 +35,9 @@ She realized the offer was a fraud.
 她意识到那个邀约是骗局。
 
 03. racketeering · 关键词 · 回看 00:21:38
+美式 IPA：/ˌrækəˈtɪrɪŋ/
+词性：noun
+English definition: Carrying out an organized pattern of illegal activity to obtain money or power.
 有组织的非法牟利活动
 字幕中出现：racketeering
 美国法律中常与 RICO 相关；不是所有诈骗都自动属于此类。
@@ -38,6 +49,9 @@ The lecture explained civil racketeering claims.
 讲座解释了相关民事索赔。
 
 04. deposition · 关键词 · 回看 00:06:04
+美式 IPA：/ˌdɛpəˈzɪʃən/
+词性：noun
+English definition: Sworn testimony taken outside the courtroom and recorded for use in a case.
 庭外宣誓证言；取证问询
 字幕中出现：deposition
 美国诉讼术语，通常在庭前进行并记录，不等于普通访谈。
@@ -49,6 +63,9 @@ He contradicted his earlier deposition.
 他的说法与先前的宣誓证言矛盾。
 
 05. precedent · 关键词 · 回看 00:12:49
+美式 IPA：/ˈprɛsɪdənt/
+词性：noun
+English definition: An earlier decision or event used as a guide for later similar situations.
 先例；具有参考或约束意义的判例
 字幕中出现：precedent
 set a precedent 开创先例；与 president 总统区分。
@@ -60,6 +77,9 @@ There was no clear precedent for the decision.
 这个决定没有明确先例。
 
 06. compensate · 关键词 · 回看 00:25:28
+美式 IPA：/ˈkɑmpənˌseɪt/
+词性：verb
+English definition: To provide payment or another benefit for loss, harm, or work; to make up for a disadvantage.
 赔偿；补偿；弥补
 字幕中出现：compensated
 compensate someone for a loss；compensate for a weakness。
@@ -71,6 +91,8 @@ Nothing could fully compensate him for the lost time.
 没有什么能完全补偿他失去的时间。
 
 07. class action · 词组 / 术语 · 回看 00:21:25
+词性：noun phrase
+English definition: A lawsuit brought on behalf of a group whose members have similar legal claims.
 集体诉讼
 字幕中出现：class action
 由代表成员为具有共同问题的一类人提起的诉讼；资格须依法认定。
@@ -82,6 +104,8 @@ The notice explains who is included in the class action.
 通知解释了哪些人属于集体诉讼成员。
 
 08. restraining order · 词组 / 术语 · 回看 00:01:34
+词性：noun phrase
+English definition: A court order restricting specified conduct or contact, often to prevent harm or interference.
 限制令；禁止特定行为的法院命令
 字幕中出现：restraining order
 范围依命令内容；不等于警方的普通口头警告。
@@ -94,3 +118,5 @@ He was accused of violating a restraining order.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

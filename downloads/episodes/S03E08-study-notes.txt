@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E08 Slip
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy pressures a music shop into compensating him after its owners refuse to pay for the commercial arrangement he expected. Kim takes on additional work and struggles to balance ambition with exhaustion. Chuck makes visible progress in managing daily life outside his house. Nacho prepares the capsule switch that could affect Hector's health, while Mike pursues a way to support his family financially. Small tactical successes coexist with mounting pressure across the characters' lives.
 
 重点词汇：7 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. liability · 关键词 · 回看 00:17:19
+美式 IPA：/ˌlaɪəˈbɪləti/
+词性：noun
+English definition: Legal or financial responsibility; also a debt or something that creates a disadvantage.
 法律责任；偿付义务；不利因素
 字幕中出现：liability
 法律语境指须依法承担的责任；复数 liabilities 也可指负债。
@@ -16,6 +21,10 @@ The old equipment has become a liability.
 旧设备已经成了负担。（比喻义。）
 
 02. damages · 关键词 · 回看 00:43:15
+美式 IPA：/ˈdæmɪdʒɪz/
+词性：plural noun
+English definition: Money awarded to compensate for a legally recognized injury or loss.
+原形：damage
 损害赔偿金
 字幕中出现：damages
 法律义通常用复数；damage 常指损害本身，注意区别。
@@ -27,6 +36,10 @@ The storm caused damage, but the claim is for damages.
 暴风雨造成了损害，而索赔请求的是赔偿金。
 
 03. trespassing · 关键词 · 回看 00:09:21
+美式 IPA：/ˈtrɛsˌpæsɪŋ/
+词性：noun / verb (-ing form)
+English definition: Entering or remaining on another person's property without permission; the -ing form of trespass.
+原形：trespass
 擅自进入或逗留他人土地、场所
 字幕中出现：trespassing
 常见标牌 No trespassing；不是泛指任何闯祸。
@@ -38,6 +51,9 @@ The complaint concerned trespassing, not theft.
 投诉涉及擅自侵入，而非盗窃。
 
 04. litigation · 关键词 · 回看 00:43:44
+美式 IPA：/ˌlɪtəˈɡeɪʃən/
+词性：noun
+English definition: The process of pursuing or defending a dispute through the courts.
 诉讼；进行诉讼的过程
 字幕中出现：litigation
 通常不可数；litigation costs 诉讼费用。
@@ -49,6 +65,9 @@ She works in commercial litigation.
 她从事商事诉讼工作。
 
 05. malpractice · 关键词 · 回看 00:32:09
+美式 IPA：/mælˈpræktɪs/
+词性：noun
+English definition: Professional negligence or misconduct that harms a client or patient.
 专业失当；专业过失
 字幕中出现：malpractice
 常见 medical/legal malpractice；不局限于医生。
@@ -60,6 +79,9 @@ An unfavourable result alone does not prove malpractice.
 结果不利本身并不能证明专业失当。
 
 06. mitigate · 关键词 · 回看 00:43:15
+美式 IPA：/ˈmɪtəˌɡeɪt/
+词性：verb
+English definition: To reduce the seriousness, severity, or harmful effects of something.
 减轻严重程度或损害
 字幕中出现：mitigate
 mitigate risk/damages；不表示彻底消除。
@@ -71,6 +93,9 @@ The judge considered mitigating circumstances.
 法官考虑了可减轻处罚的情节。
 
 07. distress · 关键词 · 回看 00:12:04
+美式 IPA：/dɪˈstrɛs/
+词性：noun / verb
+English definition: Severe emotional suffering or difficulty; to cause such suffering.
 严重焦虑、痛苦；困境
 字幕中出现：distressed
 in distress；distressed 是形容词。
@@ -83,3 +108,5 @@ The vessel sent a distress signal.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

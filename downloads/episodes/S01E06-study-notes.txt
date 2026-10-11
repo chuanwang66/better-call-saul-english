@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E06 Five-O
+V3 · 更新 2026-10-11
 英文梗概（72 words，含剧透）
 Philadelphia detectives question Mike about the deaths of two police officers. With Jimmy's help, Mike obtains information about their investigation. He later tells his daughter-in-law Stacey the truth about his son Matty: corrupt colleagues killed him despite his reluctant participation in their scheme. Mike explains his own role in taking revenge. His confession reveals the guilt beneath his controlled manner and why providing for Stacey and Kaylee matters so much to him.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. assault · 关键词 · 回看 00:14:46
+美式 IPA：/əˈsɔlt/
+词性：noun / verb
+English definition: A physical attack or, in some legal uses, conduct that creates fear of imminent harm; to attack.
 袭击；人身攻击
 字幕中出现：assault
 日常义较宽；具体法律构成因辖区不同，不与 battery 简单等同。
@@ -16,6 +21,9 @@ The lawyer reviewed the assault charge.
 律师审查了袭击指控。
 
 02. kickback · 关键词 · 回看 00:36:51
+美式 IPA：/ˈkɪkˌbæk/
+词性：noun
+English definition: A secret or improper payment given in return for steering business or granting a favor.
 回扣；非法返利
 字幕中出现：kickbacks
 通常为获得业务或便利而暗中支付；不等于公开折扣。
@@ -27,6 +35,9 @@ They investigated an alleged kickback scheme.
 他们调查了一项涉嫌回扣的安排。
 
 03. obstruction · 关键词 · 回看 00:20:37
+美式 IPA：/əbˈstrʌkʃən/
+词性：noun
+English definition: Something that blocks progress; also the act of deliberately interfering with a process.
 阻碍；妨碍
 字幕中出现：obstruction
 可指物理障碍；司法语境需结合 obstruction of justice。
@@ -38,6 +49,8 @@ They removed the obstruction to negotiations.
 他们消除了谈判的障碍。
 
 04. above board · 词组 / 术语 · 回看 00:15:35
+词性：adjective / adverb phrase
+English definition: Honest, open, and conducted according to accepted rules.
 公开、诚实、合规的
 字幕中出现：above board
 常作表语；交易 above board 表示没有暗中欺骗。
@@ -49,6 +62,8 @@ Keep the hiring process above board.
 让招聘过程保持公正透明。
 
 05. on a pedestal · 词组 / 术语 · 回看 00:38:57
+词性：adjective / adverb phrase
+English definition: In a position of excessive admiration, as if someone were beyond criticism.
 被过度崇拜的位置
 字幕中出现：on a pedestal
 put someone on a pedestal 把某人理想化。
@@ -60,6 +75,8 @@ Being placed on a pedestal made him uncomfortable.
 受到过度崇拜让他不自在。
 
 06. out of hand · 词组 / 术语 · 回看 00:17:15
+词性：adjective / adverb phrase
+English definition: Beyond control; with reject or dismiss, without serious consideration.
 失去控制；不加考虑地
 字幕中出现：out of hand
 get out of hand 失控；reject out of hand 直接拒绝。
@@ -71,6 +88,8 @@ Don't let costs get out of hand.
 别让费用失控。
 
 07. Hail Mary · 词组 / 术语 · 回看 00:18:01
+词性：noun phrase / idiom
+English definition: A desperate final attempt with little chance of success.
 胜算很低的最后一搏
 字幕中出现：Hail Mary
 原指美式橄榄球中的孤注一掷长传；a Hail Mary 表示绝境中的尝试。
@@ -82,6 +101,9 @@ Don't build your strategy around a Hail Mary.
 别把策略押在最后的侥幸一搏上。
 
 08. ambush · 关键词 · 回看 00:17:18
+美式 IPA：/ˈæmˌbʊʃ/
+词性：noun / verb
+English definition: A surprise attack from a concealed position; to attack someone in this way.
 伏击；设伏袭击
 字幕中出现：ambushed
 可作名词或动词；也可比喻毫无准备时遭到质问。
@@ -94,3 +116,5 @@ She felt ambushed by the unexpected questions.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

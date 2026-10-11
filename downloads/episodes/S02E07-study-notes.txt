@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E07 Inflatable
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 Jimmy wants to leave Davis & Main without losing his bonus, so he makes himself increasingly difficult to keep. His deliberately disruptive behaviour finally gets him fired. He proposes starting a practice with Kim, who prefers separate businesses sharing an office and expenses. The arrangement offers closeness without complete professional dependence. Mike changes his statement about Tuco while planning his own response to Hector. Both men seek independence through carefully calculated compromises.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. settlement · 关键词 · 回看 00:34:41
+美式 IPA：/ˈsɛtəlmənt/
+词性：noun
+English definition: An agreement resolving a dispute, or the money paid under that agreement.
 和解；和解协议或款项
 字幕中出现：settlement
 诉讼中常指双方协议解决争议；不等于法院判决。
@@ -16,6 +21,9 @@ Is the settlement in writing?
 和解协议有书面形式吗？
 
 02. litigation · 关键词 · 回看 00:34:34
+美式 IPA：/ˌlɪtəˈɡeɪʃən/
+词性：noun
+English definition: The process of pursuing or defending a dispute through the courts.
 诉讼；进行诉讼的过程
 字幕中出现：litigation
 通常不可数；litigation costs 诉讼费用。
@@ -27,6 +35,9 @@ She works in commercial litigation.
 她从事商事诉讼工作。
 
 03. forensic · 关键词 · 回看 00:06:59
+美式 IPA：/fəˈrɛnsɪk/
+词性：adjective
+English definition: Relating to scientific investigation used to answer legal questions.
 法证的；用于司法鉴定的
 字幕中出现：forensics
 forensic accountant 法务会计；不局限于尸体或刑侦。
@@ -38,6 +49,9 @@ Forensic analysis contradicted the initial report.
 法证分析与初步报告矛盾。
 
 04. hindsight · 关键词 · 回看 00:06:07
+美式 IPA：/ˈhaɪndˌsaɪt/
+词性：noun
+English definition: Understanding of an event gained after its outcome is known.
 事后认识；后见之明
 字幕中出现：hindsight
 in hindsight 回头来看；常提醒当时无法知道结果。
@@ -49,6 +63,9 @@ We should not judge only with hindsight.
 我们不应仅凭事后认识来评判。
 
 05. resignation · 关键词 · 回看 00:10:46
+美式 IPA：/ˌrɛzɪɡˈneɪʃən/
+词性：noun
+English definition: The act of leaving a job or position; also acceptance of an unwanted situation.
 辞职；无奈接受
 字幕中出现：resignation
 注意双义：submit a resignation 与 a sigh of resignation。
@@ -60,6 +77,9 @@ The board requested his resignation.
 董事会要求他辞职。
 
 06. grifter · 关键词 · 回看 00:02:23
+美式 IPA：/ˈɡrɪftɚ/
+词性：noun
+English definition: A person who makes money by manipulating or deceiving others.
 职业骗子
 字幕中出现：grifter
 美式口语；强调靠小骗局或欺诈谋生的人。
@@ -71,6 +91,9 @@ The story follows two ageing grifters.
 故事讲述两个年迈的职业骗子。
 
 07. malfeasance · 关键词 · 回看 00:20:37
+美式 IPA：/ˌmælˈfizəns/
+词性：noun
+English definition: Unlawful or seriously improper conduct, especially by someone holding a position of responsibility.
 违法失职；不法行为
 字幕中出现：malfeasance
 正式词，尤其用于任职或履职时的违法不当行为。
@@ -82,6 +105,8 @@ The allegation concerned corporate malfeasance.
 指控涉及企业不法行为。
 
 08. conflict of interest · 词组 / 术语 · 回看 00:08:15
+词性：noun phrase
+English definition: A situation in which competing interests may interfere with impartial judgment or duties.
 利益冲突
 字幕中出现：conflict of interest
 指个人或其他利益可能影响应履行的职责；不只是意见不一致。
@@ -93,6 +118,8 @@ Could accepting this gift create a conflict of interest?
 收这份礼物会产生利益冲突吗？
 
 09. a clean slate · 词组 / 术语 · 回看 00:23:57
+词性：noun phrase / idiom
+English definition: A fresh start without previous mistakes or obligations counting against someone.
 不受旧问题拖累的新起点
 字幕中出现：a clean slate
 start with a clean slate；强调重新开始，不保证过去的法律责任被免除。
@@ -105,3 +132,5 @@ Moving away did not give him a clean slate.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

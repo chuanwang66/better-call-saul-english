@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E05 Dedicado a Max
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Mike recovers in a Mexican village connected to Gus and gradually understands more about his employer's history and motives. Kim and Jimmy use a succession of tactics to delay Acker's eviction and pressure Mesa Verde. Rich Schweikart begins to suspect that Kim is too personally involved in the dispute. What began as legal advocacy develops into a contest of persistence and deception, forcing Kim to decide how far she is willing to oppose her own client.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. deprive · 关键词 · 回看 00:08:55
+美式 IPA：/dɪˈpraɪv/
+词性：verb
+English definition: To prevent someone from having or using something they need or value.
 剥夺；使失去
 字幕中出现：deprive
 deprive someone of something，介词用 of。
@@ -16,6 +21,9 @@ The delay deprived her of a fair opportunity.
 延误让她失去了公平机会。
 
 02. superficial · 关键词 · 回看 00:38:53
+美式 IPA：/ˌsupɚˈfɪʃəl/
+词性：adjective
+English definition: Concerned only with the surface or obvious features, without much depth.
 表面的；肤浅的
 字幕中出现：superficial
 superficial resemblance 外表相似；superficial analysis 浅显分析。
@@ -27,6 +35,9 @@ He offered a superficial explanation.
 他给出了一个肤浅的解释。
 
 03. eviction · 关键词 · 回看 00:04:52
+美式 IPA：/ɪˈvɪkʃən/
+词性：noun
+English definition: The legal removal of a tenant or occupant from property.
 驱逐租户或占用者的程序
 字幕中出现：Eviction
 动词 evict；具体权利和程序依当地规则。
@@ -38,6 +49,9 @@ The case concerned an unlawful eviction.
 此案涉及非法驱逐。
 
 04. benefactor · 关键词 · 回看 00:47:29
+美式 IPA：/ˈbɛnəˌfæktɚ/
+词性：noun
+English definition: Someone who provides money or other help to a person or organization.
 资助者；恩人
 字幕中出现：benefactor
 较正式，通常指提供金钱或重大帮助的人。
@@ -49,6 +63,9 @@ He preferred to remain an unseen benefactor.
 他宁愿做一位不露面的资助人。
 
 05. malfeasance · 关键词 · 回看 00:44:55
+美式 IPA：/ˌmælˈfizəns/
+词性：noun
+English definition: Unlawful or seriously improper conduct, especially by someone holding a position of responsibility.
 违法失职；不法行为
 字幕中出现：malfeasance
 正式词，尤其用于任职或履职时的违法不当行为。
@@ -60,6 +77,9 @@ The allegation concerned corporate malfeasance.
 指控涉及企业不法行为。
 
 06. discreet · 关键词 · 回看 00:36:52
+美式 IPA：/dɪˈskrit/
+词性：adjective
+English definition: Careful to avoid attracting attention or revealing private information.
 谨慎低调的；守口如瓶的
 字幕中出现：discreet
 勿与 discrete“分离的”混淆；discreet enquiry 低调询问。
@@ -71,6 +91,8 @@ Make a discreet enquiry before proceeding.
 继续之前先谨慎打听一下。
 
 07. conflict of interest · 词组 / 术语 · 回看 00:09:19
+词性：noun phrase
+English definition: A situation in which competing interests may interfere with impartial judgment or duties.
 利益冲突
 字幕中出现：conflict of interest
 指个人或其他利益可能影响应履行的职责；不只是意见不一致。
@@ -82,6 +104,8 @@ Could accepting this gift create a conflict of interest?
 收这份礼物会产生利益冲突吗？
 
 08. due diligence · 词组 / 术语 · 回看 00:04:49
+词性：noun phrase
+English definition: Careful checking of facts, risks, and obligations before making a decision or completing a transaction.
 尽职调查；应有的审慎核查
 字幕中出现：due diligence
 商务常指交易前查验信息；法律中也可强调合理审慎。
@@ -94,3 +118,5 @@ Don't skip due diligence just because the price is low.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

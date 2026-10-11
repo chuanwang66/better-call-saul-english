@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E11 Breaking Bad
+V3 · 更新 2026-10-11
 英文梗概（80 words，含剧透）
 Flashbacks revisit Saul's first encounter with Walt and Jesse and Mike's warning about Walt's risks. In Omaha, Gene contacts Francesca and learns about the collapse of his former world. A call to Kim ends badly, and he turns toward a more predatory series of scams with Jeff and Buddy. They target wealthy men and steal financial information. Buddy refuses to rob a man with cancer, but Gene insists on continuing, revealing how far his need for control has overtaken restraint.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. privilege · 关键词 · 回看 00:32:43
+美式 IPA：/ˈprɪvəlɪdʒ/
+词性：noun
+English definition: A special right or advantage; in law, a protection that can prevent compelled disclosure of certain communications.
 法律保密特权；特殊权利或荣幸
 字幕中出现：privilege
 法律中可指受保护、不须披露的沟通；不同于一般 confidentiality。
@@ -16,6 +21,9 @@ Access to the archive is a privilege.
 查阅档案是一项特殊待遇。
 
 02. unencumbered · 关键词 · 回看 00:06:25
+美式 IPA：/ˌʌnɪnˈkʌmbɚd/
+词性：adjective
+English definition: Free from burdens or restrictions; for property, free from certain claims or charges.
 不受拖累或束缚的；无负担的
 字幕中出现：Unencumbered
 unencumbered by；资产也可指未设抵押等负担。
@@ -27,6 +35,9 @@ They wanted a discussion unencumbered by old disputes.
 他们希望讨论不受旧争端束缚。
 
 03. paralegal · 关键词 · 回看 00:45:47
+美式 IPA：/ˌpɛrəˈliɡəl/
+词性：noun / adjective
+English definition: A trained legal assistant who is not a licensed lawyer; relating to that role.
 律师助理；法律辅助人员
 字幕中出现：paralegal
 不等于有执业资格的律师；职能依地区和机构。
@@ -38,6 +49,9 @@ A paralegal helped prepare the documents.
 律师助理协助准备了文件。
 
 04. appellate · 关键词 · 回看 00:45:40
+美式 IPA：/əˈpɛlɪt/
+词性：adjective
+English definition: Relating to a court's review of a lower court's decision.
 上诉的；审理上诉的
 字幕中出现：appellate
 形容词，常见 appellate court、appellate brief。
@@ -49,6 +63,9 @@ Appellate review focuses on alleged legal errors.
 上诉审查关注所主张的法律错误。
 
 05. appraisal · 关键词 · 回看 00:49:03
+美式 IPA：/əˈpreɪzəl/
+词性：noun
+English definition: An assessment of something's value, quality, or condition.
 评估；估价
 字幕中出现：appraisal
 可指专业估值，也可指对人的表现或情况的判断。
@@ -60,6 +77,8 @@ We need an independent appraisal.
 我们需要独立评估。
 
 06. under false pretenses · 词组 / 术语 · 回看 00:10:50
+词性：adverb phrase
+English definition: By giving a false account of one's identity, purpose, or circumstances.
 借虚假理由；通过虚假陈述
 字幕中出现：under false pretenses
 美式 pretenses，英式 pretences；不是一般隐瞒情绪。
@@ -71,6 +90,10 @@ She accused him of borrowing money under false pretenses.
 她指责他以虚假理由借钱。
 
 07. aspersions · 关键词 · 回看 00:02:54
+美式 IPA：/əˈspɝʒənz/
+词性：plural noun
+English definition: Remarks that suggest someone is dishonest or morally suspect.
+原形：aspersion
 诋毁；恶意影射
 字幕中出现：aspersions
 通常复数，与 cast 搭配：cast aspersions on。
@@ -82,6 +105,10 @@ We need facts rather than aspersions.
 我们需要事实，而不是恶意中伤。
 
 08. fencing · 关键词 · 回看 00:49:50
+美式 IPA：/ˈfɛnsɪŋ/
+词性：noun / verb (-ing form)
+English definition: Buying or selling stolen goods; the -ing form of fence in this criminal sense.
+原形：fence
 销赃
 字幕中出现：fencing
 犯罪语境来自 fence：买卖赃物；另有击剑、围栏等无关义。
@@ -93,6 +120,9 @@ He made money fencing stolen electronics.
 他通过倒卖被盗电子产品赚钱。
 
 09. lowdown · 关键词 · 回看 00:10:28
+美式 IPA：/ˈloʊˌdaʊn/
+词性：noun
+English definition: The essential facts or inside information about a situation.
 内幕；详细情况
 字幕中出现：lowdown
 非正式名词；the lowdown on something。
@@ -105,3 +135,5 @@ I need the lowdown before the meeting.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

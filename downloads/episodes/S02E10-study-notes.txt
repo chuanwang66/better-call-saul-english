@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E10 Klick
+V3 · 更新 2026-10-11
 英文梗概（72 words，含剧透）
 Chuck recovers after his collapse and presents himself as unable to continue practising law. Worried about his brother, Jimmy admits to altering the Mesa Verde documents. Chuck has secretly recorded the confession, turning an act of reassurance into potential evidence. Meanwhile, Mike prepares to shoot Hector but is interrupted by a warning left on his car. The season ends with both men's plans checked by opponents who understand more than they expected.
 
 重点词汇：7 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:46:55
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. disbarment · 关键词 · 回看 00:42:34
+美式 IPA：/dɪsˈbɑrmənt/
+词性：noun
+English definition: The removal of a lawyer's authorization to practice law.
 取消律师执业资格
 字幕中出现：disbarred
 比暂时 suspension 更严重；动词 disbar。
@@ -27,6 +35,9 @@ Disbarment ended her legal practice.
 取消资格终结了她的律师执业。
 
 03. guardianship · 关键词 · 回看 00:10:18
+美式 IPA：/ˈɡɑrdiənˌʃɪp/
+词性：noun
+English definition: Legal responsibility for caring for another person or managing their affairs.
 监护权；监护安排
 字幕中出现：Guardianship
 法律术语，与 custody 的范围并不完全相同。
@@ -38,6 +49,9 @@ Guardianship can involve substantial responsibilities.
 监护可能涉及重大责任。
 
 04. consent · 关键词 · 回看 00:08:26
+美式 IPA：/kənˈsɛnt/
+词性：noun / verb
+English definition: Permission given freely for something to happen; to give that permission.
 同意；许可
 字幕中出现：consent
 可作名词或动词；informed consent 是知情同意。
@@ -49,6 +63,9 @@ The form asks for informed consent.
 表格要求取得知情同意。
 
 05. concussion · 关键词 · 回看 00:09:53
+美式 IPA：/kənˈkʌʃən/
+词性：noun
+English definition: A brain injury caused by a blow or sudden movement of the head.
 脑震荡
 字幕中出现：concussion
 可数名词；a concussion，常用于受伤及医疗场景。
@@ -60,6 +77,9 @@ She needed time to recover from the concussion.
 她需要时间从脑震荡中恢复。
 
 06. sedative · 关键词 · 回看 00:21:00
+美式 IPA：/ˈsɛdətɪv/
+词性：noun / adjective
+English definition: A medicine that calms a person or promotes sleep; having that effect.
 镇静剂；起镇静作用的
 字幕中出现：sedative
 名词或形容词；仅作词汇学习，不提供用药建议。
@@ -71,6 +91,9 @@ The report mentioned a sedative effect.
 报告提到镇静作用。
 
 07. hypersensitivity · 关键词 · 回看 00:08:17
+美式 IPA：/ˌhaɪpɚˌsɛnsəˈtɪvəti/
+词性：noun
+English definition: An unusually strong physical or emotional reaction to a stimulus.
 过度敏感；超敏反应
 字幕中出现：hypersensitivity
 剧中角色对电的自述不等于医学确认的病因；也有其他专业医学用法。
@@ -83,3 +106,5 @@ The report discussed drug hypersensitivity.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

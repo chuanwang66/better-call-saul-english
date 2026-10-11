@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E09 Bad Choice Road
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy returns with Lalo's bail money but hides the ambush from Lalo and initially conceals the truth from Kim. He struggles with the psychological aftermath of the desert. Kim leaves her corporate work to focus on helping people through pro bono defence. Suspicious about Jimmy's damaged car, Lalo returns to question him at home. Kim confronts Lalo's account and assumptions, helping Jimmy survive the encounter while Mike watches from a distance, prepared for violence.
 
 重点词汇：10 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. bail · 关键词 · 回看 00:16:27
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -16,6 +21,8 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 02. for the record · 词组 / 术语 · 回看 00:56:20
+词性：adverb phrase
+English definition: Used to make one's position explicit so that it cannot easily be misunderstood later.
 为正式记录说明；把话说清楚
 字幕中出现：for the record
 可用于法庭或会议，也用于口语纠正他人印象。
@@ -28,6 +35,8 @@ For the record, nobody asked me to leave.
 我要说明，并没有人要求我离开。
 
 03. plea deal · 词组 / 术语 · 回看 00:23:47
+词性：noun phrase
+English definition: An agreement exchanging a guilty plea for specified concessions concerning charges or sentencing.
 认罪协商协议
 字幕中出现：plea deal
 刑事语境，通常以认罪换取控方某些让步；具体内容须看协议及法院程序。
@@ -39,6 +48,8 @@ What does the proposed plea deal include?
 拟议的认罪协商协议包含什么？
 
 04. pro bono · 词组 / 术语 · 回看 00:28:30
+词性：adjective / adverb phrase
+English definition: Provided without a fee for the public good, especially legal services.
 无偿提供的专业服务
 字幕中出现：pro bono
 常指律师为公益无偿服务；并非所有免费服务都属于此义。
@@ -50,6 +61,9 @@ She spends one day a month on pro bono cases.
 她每月用一天处理公益案件。
 
 05. asset · 关键词 · 回看 00:18:04
+美式 IPA：/ˈæsɛt/
+词性：noun
+English definition: A person or resource considered useful for achieving a particular goal.
 资产；有价值的人或优势
 字幕中出现：asset
 可数名词；对人使用时常强调其工具价值，语气可能冷峻。
@@ -62,6 +76,9 @@ They treated the informant as an asset.
 他们把线人视为可利用的资源。
 
 06. continuance · 关键词 · 回看 00:23:51
+美式 IPA：/kənˈtɪnjuəns/
+词性：noun
+English definition: A court-authorized postponement of a hearing or other proceeding.
 庭审或诉讼程序的延期
 字幕中出现：continuance
 美国法律名词；request/grant a continuance。
@@ -73,6 +90,9 @@ A continuance allowed time to review the evidence.
 延期提供了审查证据的时间。
 
 07. unimpeachable · 关键词 · 回看 00:17:26
+美式 IPA：/ˌʌnɪmˈpitʃəbəl/
+词性：adjective
+English definition: So reliable or honorable that there is little basis for questioning it.
 无可指摘的；极其可靠的
 字幕中出现：unimpeachable
 常形容品格或可信度；与政治 impeach 的具体程序区分。
@@ -84,6 +104,8 @@ Her integrity was considered unimpeachable.
 她的正直被认为无可挑剔。
 
 08. cut and dried · 词组 / 术语 · 回看 00:35:13
+词性：adjective phrase / idiom
+English definition: Already settled or so clear that little debate is needed.
 清楚明确、已经定好的
 字幕中出现：Cut and dried
 通常作表语；强调没有太多可争论的余地。
@@ -95,6 +117,9 @@ Few ethical questions are completely cut and dried.
 很少有伦理问题完全一清二楚。
 
 09. rigmarole · 关键词 · 回看 00:50:20
+美式 IPA：/ˈrɪɡməˌroʊl/
+词性：noun
+English definition: A tiresome series of complicated steps, formalities, or explanations.
 繁琐的手续；啰嗦的过程
 字幕中出现：rigmarole
 口语带不耐烦；也指冗长无聊的说辞。
@@ -106,6 +131,9 @@ The application involved endless rigmarole.
 申请过程涉及没完没了的手续。
 
 10. debacle · 关键词 · 回看 00:32:50
+美式 IPA：/dɪˈbɑkəl/
+词性：noun
+English definition: A major failure that causes confusion, embarrassment, or loss.
 惨败；一团糟的失败
 字幕中出现：Debacle
 比普通 mistake 更强，常含公开失控或丢脸意味。
@@ -118,3 +146,5 @@ Nobody wanted responsibility for the debacle.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

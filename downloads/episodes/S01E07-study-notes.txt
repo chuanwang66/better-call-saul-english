@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E07 Bingo
+V3 · 更新 2026-10-11
 英文梗概（75 words，含剧透）
 The Kettlemans reject a plea agreement and abandon Kim for Jimmy, threatening Kim's position at HHM. Jimmy discovers that their expectations are impossible to satisfy honestly. He recruits Mike to recover the stolen cash and ensures that it reaches the authorities, including the money Jimmy had accepted. Without the cash as leverage, the family must return to Kim and face the deal. Jimmy protects Kim's work but loses the money and prospects he briefly imagined.
 
 重点词汇：11 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. embezzlement · 关键词 · 回看 00:41:37
+美式 IPA：/ɪmˈbɛzəlmənt/
+词性：noun
+English definition: The dishonest taking of money or property entrusted to one's care.
 侵占；挪用受托管理的财产
 字幕中出现：embezzlement
 常见于雇员或管理者挪用经手资金的语境；区别于泛指 theft。
@@ -16,6 +21,9 @@ The report examined an embezzlement case.
 报告研究了一起侵占财产案件。
 
 02. retainer · 关键词 · 回看 00:23:23
+美式 IPA：/rɪˈteɪnɚ/
+词性：noun
+English definition: A fee or arrangement securing a professional's services or availability, especially a lawyer's.
 聘用律师等专业人士的预付费用；聘用安排
 字幕中出现：retainer
 具体如何计费取决于协议；不必然指已赚取的费用。
@@ -27,6 +35,9 @@ The firm explained its retainer agreement.
 事务所解释了聘用协议。
 
 03. prosecution · 关键词 · 回看 00:16:46
+美式 IPA：/ˌprɑsəˈkjuʃən/
+词性：noun
+English definition: The pursuit of criminal charges in court; also the lawyers bringing those charges.
 控方；起诉；检控
 字幕中出现：prosecution
 the prosecution 常指刑事案件中的控方。
@@ -38,6 +49,9 @@ The file was sent for prosecution.
 案卷被移送起诉。
 
 04. bribe · 关键词 · 回看 00:41:21
+美式 IPA：/braɪb/
+词性：noun / verb
+English definition: Something offered to improperly influence a decision; to offer such an inducement.
 贿赂；贿赂物；行贿
 字幕中出现：bribe
 可数名词或动词；不等于正常服务费或合法报酬。
@@ -49,6 +63,9 @@ Nobody should have to bribe someone to receive a public service.
 任何人都不应该靠行贿才能获得公共服务。
 
 05. immunity · 关键词 · 回看 00:08:50
+美式 IPA：/ɪˈmjunəti/
+词性：noun
+English definition: Protection from prosecution or liability in a legal setting; also resistance to disease.
 免疫；法律追诉豁免
 字幕中出现：immunity
 immunity from prosecution 为免于追诉；具体范围依协议和规则。
@@ -60,6 +77,9 @@ Vaccination can build immunity.
 接种疫苗可以建立免疫力。
 
 06. implicate · 关键词 · 回看 00:41:42
+美式 IPA：/ˈɪmplɪˌkeɪt/
+词性：verb
+English definition: To connect someone to wrongdoing or suggest that they were involved.
 牵连；暗示某人涉案
 字幕中出现：implicates
 implicate someone in a crime；暗示涉案不等于定罪。
@@ -71,6 +91,9 @@ New evidence implicated the contractor in the fraud.
 新证据显示承包商可能涉及诈骗。
 
 07. exonerate · 关键词 · 回看 00:25:59
+美式 IPA：/ɪɡˈzɑnəˌreɪt/
+词性：verb
+English definition: To clear someone of blame, responsibility, or an accusation.
 洗清嫌疑；免除责任
 字幕中出现：exonerate
 exonerate someone；不总与法院 acquit 同义。
@@ -82,6 +105,9 @@ The evidence did not fully exonerate him.
 证据没有完全洗清他的嫌疑。
 
 08. extradite · 关键词 · 回看 00:02:15
+美式 IPA：/ˈɛkstrəˌdaɪt/
+词性：verb
+English definition: To formally transfer a person to another jurisdiction to face criminal proceedings or punishment.
 引渡
 字幕中出现：extradite
 extradite someone to a country；名词 extradition。
@@ -93,6 +119,8 @@ The two countries negotiated an extradition treaty.
 两国商谈了引渡条约。
 
 09. on the hook · 词组 / 术语 · 回看 00:41:35
+词性：idiom
+English definition: Responsible for a cost or obligation; in a fishing metaphor, caught or drawn in as a target.
 承担责任或费用；目标已上钩
 字幕中出现：on the hook
 on the hook for 后接金额或责任；钓鱼隐喻中也可指已钓到目标。
@@ -104,6 +132,8 @@ The salesperson thought he had a buyer on the hook.
 销售员以为已经钓到一个买家。
 
 10. plead guilty · 词组 / 术语 · 回看 00:18:24
+词性：verb phrase
+English definition: To formally admit guilt to a criminal charge in court.
 作有罪答辩；认罪
 字幕中出现：Plead guilty
 plead 后可接 guilty 或 not guilty；区别于单纯承认某个事实。
@@ -115,6 +145,8 @@ The lawyer explained what it meant to plead guilty.
 律师解释了认罪意味着什么。
 
 11. a clean slate · 词组 / 术语 · 回看 00:12:48
+词性：noun phrase / idiom
+English definition: A fresh start without previous mistakes or obligations counting against someone.
 不受旧问题拖累的新起点
 字幕中出现：a clean slate
 start with a clean slate；强调重新开始，不保证过去的法律责任被免除。
@@ -127,3 +159,5 @@ Moving away did not give him a clean slate.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

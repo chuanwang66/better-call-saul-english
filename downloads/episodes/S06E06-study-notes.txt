@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E06 Axe and Grind
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy and Kim prepare photographs and a drugged encounter to sabotage the Sandpiper mediation. A detail about the mediator's appearance threatens the plan, and Kim abandons a professional opportunity to help repair it. A flashback shows an early lesson in deception from her mother. Lalo pursues another member of Werner's construction crew to uncover Gus's operation. The episode brings both plots close to execution while showing the alternatives the characters choose to leave behind.
 
 重点词汇：12 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:14:58
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. bail · 关键词 · 回看 00:09:10
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -27,6 +35,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 03. statute · 关键词 · 回看 00:15:21
+美式 IPA：/ˈstætʃut/
+词性：noun
+English definition: A written law enacted by a legislative body.
 成文法；法令
 字幕中出现：statute
 与 statue 雕像区分；法律通常是 legislature 制定的 statute。
@@ -38,6 +49,9 @@ The claim depends on how the statute is interpreted.
 诉求取决于如何解释该法令。
 
 04. legitimate · 关键词 · 回看 00:10:10
+美式 IPA：/ləˈdʒɪtəmət/
+词性：adjective
+English definition: Allowed by law or accepted rules; also genuine or reasonably justified.
 合法正当的；真实合理的
 字幕中出现：legitimate
 legitimate concern 合理担忧；不局限于合法性。
@@ -49,6 +63,9 @@ We checked whether the document was legitimate.
 我们核查了文件是否真实有效。
 
 05. mediation · 关键词 · 回看 00:30:21
+美式 IPA：/ˌmidiˈeɪʃən/
+词性：noun
+English definition: A process in which a neutral person helps opposing sides work toward an agreement.
 调解
 字幕中出现：mediation
 由中立第三方协助达成协议；不同于作出裁决的 arbitration。
@@ -60,6 +77,9 @@ The agreement emerged from mediation.
 协议是在调解中达成的。
 
 06. amendment · 关键词 · 回看 00:16:20
+美式 IPA：/əˈmɛndmənt/
+词性：noun
+English definition: A formal change or addition to a document, agreement, or law.
 修正案；修订
 字幕中出现：Amendment
 法律文件的修改；美国 Constitution 的 Amendment 指宪法修正案。
@@ -71,6 +91,8 @@ The Fourth Amendment concerns searches and seizures.
 第四修正案涉及搜查与扣押。
 
 07. pull the plug · 词组 / 术语 · 回看 00:42:34
+词性：verb phrase / idiom
+English definition: To end a project, arrangement, or source of support.
 终止；停止支持
 字幕中出现：pull the plug
 pull the plug on a project；也有关闭维持生命设备的字面义。
@@ -82,6 +104,9 @@ We should not pull the plug too early.
 我们不应过早终止。
 
 08. pretext · 关键词 · 回看 00:16:18
+美式 IPA：/ˈpriˌtɛkst/
+词性：noun
+English definition: A stated reason used to hide the real purpose of an action.
 借口；掩饰真实目的的理由
 字幕中出现：pretext
 under/on the pretext of；通常含不真诚意味。
@@ -93,6 +118,9 @@ The complaint gave her a pretext for retaliation.
 投诉给了她报复的借口。
 
 09. discretion · 关键词 · 回看 00:01:21
+美式 IPA：/dɪˈskrɛʃən/
+词性：noun
+English definition: Freedom to decide how to act; also careful judgment about sensitive information.
 自行判断权；谨慎处理
 字幕中出现：discretion
 at someone's discretion 由某人酌定；exercise discretion 谨慎行事。
@@ -104,6 +132,9 @@ Please exercise discretion with this information.
 请谨慎处理这些信息。
 
 10. constitutional · 关键词 · 回看 00:29:29
+美式 IPA：/ˌkɑnstəˈtuʃənəl/
+词性：adjective
+English definition: Relating to, or permitted by, a constitution.
 宪法的；符合宪法的
 字幕中出现：Constitutional
 constitutional law 宪法学；unconstitutional 违宪的。
@@ -115,6 +146,9 @@ They challenged the rule on constitutional grounds.
 他们以宪法为依据质疑该规则。
 
 11. checkered · 关键词 · 回看 00:14:51
+美式 IPA：/ˈtʃɛkɚd/
+词性：adjective
+English definition: Containing both successes and failures, often including disreputable events.
 有好有坏的；有污点的
 字幕中出现：checkered
 美式拼写，英式 chequered；a checkered past 暗指不光彩的经历。
@@ -126,6 +160,9 @@ Her checkered career made an interesting story.
 她起伏不定的职业经历构成了有趣的故事。
 
 12. sidebar · 关键词 · 回看 00:29:01
+美式 IPA：/ˈsaɪdˌbɑr/
+词性：noun
+English definition: A discussion between the judge and lawyers away from the jury's hearing; informally, a separate brief discussion.
 法官与律师的私下短会；另行私谈
 字幕中出现：sidebar
 美国法庭上通常指陪审团听不到的讨论；口语也借指小范围商谈。
@@ -138,3 +175,5 @@ The judge called both lawyers to a sidebar.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

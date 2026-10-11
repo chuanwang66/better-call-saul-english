@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E02 Witness
+V3 · 更新 2026-10-11
 英文梗概（72 words，含剧透）
 Mike follows the tracking operation to Los Pollos Hermanos and asks Jimmy to observe the restaurant. Their investigation brings Gus Fring into view. Jimmy and Kim hire Francesca to help manage their office. After learning about Chuck's recording through Ernesto, Jimmy confronts his brother in anger, destroys the tape and forces his way into the house. Witnesses are waiting. His emotional reaction gives Chuck a stronger route to attack his professional standing.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. mitigate · 关键词 · 回看 00:40:38
+美式 IPA：/ˈmɪtəˌɡeɪt/
+词性：verb
+English definition: To reduce the seriousness, severity, or harmful effects of something.
 减轻严重程度或损害
 字幕中出现：mitigates
 mitigate risk/damages；不表示彻底消除。
@@ -16,6 +21,9 @@ The judge considered mitigating circumstances.
 法官考虑了可减轻处罚的情节。
 
 02. confidentiality · 关键词 · 回看 00:34:40
+美式 IPA：/ˌkɑnfəˌdɛnʃiˈæləti/
+词性：noun
+English definition: The duty or practice of keeping sensitive information from unauthorized disclosure.
 保密性；保密义务
 字幕中出现：confidentiality
 与法律 privilege 区分；保密承诺不总等于可以拒绝作证。
@@ -27,6 +35,9 @@ The breach of confidentiality damaged trust.
 泄密损害了信任。
 
 03. confession · 关键词 · 回看 00:37:31
+美式 IPA：/kənˈfɛʃən/
+词性：noun
+English definition: An admission that one has committed a crime or done something wrong.
 供认；坦白
 字幕中出现：confession
 confession to a crime；不自动意味着供述真实或可采。
@@ -38,6 +49,8 @@ The defence questioned whether the confession was voluntary.
 辩方质疑供述是否出于自愿。
 
 04. off the hook · 词组 / 术语 · 回看 00:16:41
+词性：idiom (with ring)
+English definition: Used with ring to describe a telephone receiving calls almost continuously.
 摆脱责任或困境；电话响个不停
 字幕中出现：off the hook
 let someone off the hook 放某人一马；ring off the hook 形容电话接连不断地响。
@@ -50,6 +63,9 @@ The phones were ringing off the hook.
 电话接连不断地响。
 
 05. paralegal · 关键词 · 回看 00:16:14
+美式 IPA：/ˌpɛrəˈliɡəl/
+词性：noun / adjective
+English definition: A trained legal assistant who is not a licensed lawyer; relating to that role.
 律师助理；法律辅助人员
 字幕中出现：paralegal
 不等于有执业资格的律师；职能依地区和机构。
@@ -61,6 +77,9 @@ A paralegal helped prepare the documents.
 律师助理协助准备了文件。
 
 06. consent · 关键词 · 回看 00:40:27
+美式 IPA：/kənˈsɛnt/
+词性：noun / verb
+English definition: Permission given freely for something to happen; to give that permission.
 同意；许可
 字幕中出现：consent
 可作名词或动词；informed consent 是知情同意。
@@ -72,6 +91,9 @@ The form asks for informed consent.
 表格要求取得知情同意。
 
 07. probative · 关键词 · 回看 00:40:50
+美式 IPA：/ˈproʊbətɪv/
+词性：adjective
+English definition: Helping establish whether a fact relevant to a case is true.
 有证明作用的
 字幕中出现：probative
 法律形容词，probative value 证明力；不等于仅与话题有关。
@@ -83,6 +105,9 @@ They questioned whether the detail was probative.
 他们质疑这个细节是否有证明作用。
 
 08. prejudicial · 关键词 · 回看 00:40:50
+美式 IPA：/ˌprɛdʒəˈdɪʃəl/
+词性：adjective
+English definition: Likely to cause unfair bias or harm someone's legal position.
 造成不利影响的；可能引发不公偏见的
 字幕中出现：prejudicial
 法律中 unfairly prejudicial 与 probative 相权衡；不是简单“不喜欢”。
@@ -95,3 +120,5 @@ The court weighed probative value against prejudicial effect.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

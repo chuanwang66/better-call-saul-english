@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E01 Mabel
+V3 · 更新 2026-10-11
 英文梗概（77 words，含剧透）
 Chuck preserves Jimmy's recorded confession and allows Ernesto to hear part of it, setting a further plan in motion. Jimmy and Kim adjust to running their separate practices from the same office. Mike investigates the warning that stopped his attack on Hector. He discovers a tracker hidden in his car's fuel cap, replaces it and uses the replacement process to follow the people monitoring him. His patient investigation begins to reveal an organized operation behind the interference.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:06:21
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,10 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. trespassing · 关键词 · 回看 00:29:31
+美式 IPA：/ˈtrɛsˌpæsɪŋ/
+词性：noun / verb (-ing form)
+English definition: Entering or remaining on another person's property without permission; the -ing form of trespass.
+原形：trespass
 擅自进入或逗留他人土地、场所
 字幕中出现：trespassing
 常见标牌 No trespassing；不是泛指任何闯祸。
@@ -27,6 +36,9 @@ The complaint concerned trespassing, not theft.
 投诉涉及擅自侵入，而非盗窃。
 
 03. confidentiality · 关键词 · 回看 00:42:12
+美式 IPA：/ˌkɑnfəˌdɛnʃiˈæləti/
+词性：noun
+English definition: The duty or practice of keeping sensitive information from unauthorized disclosure.
 保密性；保密义务
 字幕中出现：confidentiality
 与法律 privilege 区分；保密承诺不总等于可以拒绝作证。
@@ -38,6 +50,9 @@ The breach of confidentiality damaged trust.
 泄密损害了信任。
 
 04. finesse · 关键词 · 回看 00:08:16
+美式 IPA：/fɪˈnɛs/
+词性：noun / verb
+English definition: Skillful, tactful handling of a difficult situation; to handle something with that skill.
 巧妙处理；精巧手腕
 字幕中出现：finesse
 可作名词或动词；有时暗含绕过问题。
@@ -49,6 +64,9 @@ The negotiation required considerable finesse.
 谈判需要高超的手腕。
 
 05. evidentiary · 关键词 · 回看 00:16:34
+美式 IPA：/ˌɛvɪˈdɛnʃiˌɛri/
+词性：adjective
+English definition: Relating to evidence or the rules governing its use.
 证据方面的
 字幕中出现：evidentiary
 形容词，evidentiary hearing 专门审查证据问题的听证。
@@ -60,6 +78,9 @@ Counsel raised an evidentiary objection.
 律师提出了证据方面的异议。
 
 06. protocol · 关键词 · 回看 00:28:20
+美式 IPA：/ˈproʊtəˌkɑl/
+词性：noun
+English definition: An established procedure or set of rules for how an activity is carried out.
 既定程序；规范；通信协议
 字幕中出现：protocols
 follow protocol 遵循程序；可用于安全、工作和技术。
@@ -71,6 +92,10 @@ The devices use the same communication protocol.
 设备使用相同通信协议。
 
 07. misleading · 关键词 · 回看 00:16:19
+美式 IPA：/mɪsˈlidɪŋ/
+词性：adjective
+English definition: Likely to cause someone to form an incorrect impression.
+原形：mislead
 误导性的
 字幕中出现：misleading
 未必每个字都是假的，但可能使人得出错误认识。
@@ -82,6 +107,9 @@ They corrected the misleading statement.
 他们更正了误导性陈述。
 
 08. representation · 关键词 · 回看 00:29:31
+美式 IPA：/ˌrɛprɪzɛnˈteɪʃən/
+词性：noun
+English definition: Acting or speaking on someone's behalf; also a statement or portrayal of something.
 代理；表述；代表关系
 字幕中出现：representation
 legal representation 法律代理；另可指图像或陈述。
@@ -94,3 +122,5 @@ The chart is a simplified representation of the data.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

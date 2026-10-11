@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E05 Alpine Shepherd Boy
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy's publicity brings a series of unsuitable clients, from an eccentric would-be sovereign to an inventor with an unfortunate product. An elderly client's will points him toward elder law, where patience and personal attention may provide a viable practice. Chuck is taken to hospital after an encounter outside his home. Jimmy resists treating his brother as incapable of making decisions. The episode links Jimmy's growing business ambitions with his protective, complicated loyalty to Chuck.
 
 重点词汇：7 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. retainer · 关键词 · 回看 00:08:26
+美式 IPA：/rɪˈteɪnɚ/
+词性：noun
+English definition: A fee or arrangement securing a professional's services or availability, especially a lawyer's.
 聘用律师等专业人士的预付费用；聘用安排
 字幕中出现：retainer
 具体如何计费取决于协议；不必然指已赚取的费用。
@@ -16,6 +21,9 @@ The firm explained its retainer agreement.
 事务所解释了聘用协议。
 
 02. sovereign · 关键词 · 回看 00:07:18
+美式 IPA：/ˈsɑvrən/
+词性：adjective / noun
+English definition: Having independent supreme authority; as a noun, a ruler or independent state.
 享有主权的；最高统治者
 字幕中出现：sovereign
 sovereign state 主权国家；剧中也出现个人自称主权的荒诞主张。
@@ -27,6 +35,9 @@ The claimant called himself a sovereign.
 申请人自称独立统治者。
 
 03. incoherent · 关键词 · 回看 00:22:13
+美式 IPA：/ˌɪnkoʊˈhɪrənt/
+词性：adjective
+English definition: Difficult to understand because ideas or speech are not logically connected.
 语无伦次的；缺乏逻辑的
 字幕中出现：incoherent
 可形容 speech、argument、policy。
@@ -38,6 +49,9 @@ She sounded exhausted and incoherent.
 她听起来疲惫不堪，表达混乱。
 
 04. delusion · 关键词 · 回看 00:25:17
+美式 IPA：/dɪˈluʒən/
+词性：noun
+English definition: A strongly held belief that does not match reality.
 妄想；错误而顽固的信念
 字幕中出现：delusion
 临床语境与日常夸张用法不同；不要随意用来诊断他人。
@@ -49,6 +63,9 @@ The report described a persistent delusion.
 报告描述了一个持续存在的妄想。
 
 05. amendment · 关键词 · 回看 00:03:27
+美式 IPA：/əˈmɛndmənt/
+词性：noun
+English definition: A formal change or addition to a document, agreement, or law.
 修正案；修订
 字幕中出现：Amendment
 法律文件的修改；美国 Constitution 的 Amendment 指宪法修正案。
@@ -60,6 +77,9 @@ The Fourth Amendment concerns searches and seizures.
 第四修正案涉及搜查与扣押。
 
 06. coercive · 关键词 · 回看 00:03:09
+美式 IPA：/koʊˈɝsɪv/
+词性：adjective
+English definition: Using threats, force, or pressure to obtain compliance.
 强迫性的；带胁迫性质的
 字幕中出现：coercive
 形容词；coerce 是动词，coercion 是名词。
@@ -71,6 +91,8 @@ A coercive threat can undermine consent.
 胁迫性威胁可能损害同意的有效性。
 
 07. on retainer · 词组 / 术语 · 回看 00:08:26
+词性：adjective / adverb phrase
+English definition: Employed under an arrangement that secures a professional's services or availability in advance.
 以预付顾问费方式受聘
 字幕中出现：on retainer
 常用于律师或专业顾问，强调持续可提供服务的安排。
@@ -83,3 +105,5 @@ Do we have an investigator on retainer?
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

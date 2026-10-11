@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E02 Carrot and Stick
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Jimmy approaches the Kettlemans with a story about Howard's alleged drug use, helping spread the accusation. Kim then confronts the couple over their tax business and prevents them from exploiting the situation. Nacho realizes that his motel refuge is unsafe and escapes an attack. Gus considers how to control the fallout, while Mike resists a plan that could endanger Nacho's father. The parallel schemes show persuasion and coercion being used to make others carry the risk.
 
 重点词汇：13 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:55:51
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. discovery · 关键词 · 回看 00:19:21
+美式 IPA：/dɪˈskʌvɚi/
+词性：noun
+English definition: Finding something previously unknown; in litigation, the process of obtaining and exchanging case information.
 发现；诉讼中的证据开示
 字幕中出现：discovery
 法律义是审前依法获取对方相关信息的程序，区别于普通“发现”。
@@ -27,6 +35,9 @@ The discovery of a leak changed our schedule.
 发现漏水后，我们改变了日程。（普通义。）
 
 03. affidavit · 关键词 · 回看 00:19:29
+美式 IPA：/ˌæfəˈdeɪvɪt/
+词性：noun
+English definition: A written statement that its maker formally swears is true.
 宣誓书；宣誓陈述
 字幕中出现：affidavits
 通常指经宣誓作出的书面事实陈述；不是普通便条或无条件的真实性证明。
@@ -38,6 +49,9 @@ Does the affidavit include the date of the incident?
 宣誓书包含事件日期吗？
 
 04. fraud · 关键词 · 回看 00:54:51
+美式 IPA：/frɔd/
+词性：noun
+English definition: Deliberate deception intended to obtain a benefit or cause another person's loss.
 欺诈
 字幕中出现：fraud
 法律或商务语境指欺骗行为；a fraud 也可指骗子或冒牌者。
@@ -49,6 +63,9 @@ She realized the offer was a fraud.
 她意识到那个邀约是骗局。
 
 05. malpractice · 关键词 · 回看 00:19:02
+美式 IPA：/mælˈpræktɪs/
+词性：noun
+English definition: Professional negligence or misconduct that harms a client or patient.
 专业失当；专业过失
 字幕中出现：malpractice
 常见 medical/legal malpractice；不局限于医生。
@@ -60,6 +77,9 @@ An unfavourable result alone does not prove malpractice.
 结果不利本身并不能证明专业失当。
 
 06. conviction · 关键词 · 回看 00:26:08
+美式 IPA：/kənˈvɪkʃən/
+词性：noun
+English definition: A finding of guilt in a criminal case; also a firmly held belief.
 定罪；坚定信念
 字幕中出现：conviction
 法律中指被判有罪；with conviction 表示坚定地。
@@ -71,6 +91,9 @@ She spoke with conviction.
 她说得坚定有力。
 
 07. privilege · 关键词 · 回看 00:26:52
+美式 IPA：/ˈprɪvəlɪdʒ/
+词性：noun
+English definition: A special right or advantage; in law, a protection that can prevent compelled disclosure of certain communications.
 法律保密特权；特殊权利或荣幸
 字幕中出现：privileged
 法律中可指受保护、不须披露的沟通；不同于一般 confidentiality。
@@ -82,6 +105,9 @@ Access to the archive is a privilege.
 查阅档案是一项特殊待遇。
 
 08. exonerate · 关键词 · 回看 00:17:13
+美式 IPA：/ɪɡˈzɑnəˌreɪt/
+词性：verb
+English definition: To clear someone of blame, responsibility, or an accusation.
 洗清嫌疑；免除责任
 字幕中出现：exonerate
 exonerate someone；不总与法院 acquit 同义。
@@ -93,6 +119,9 @@ The evidence did not fully exonerate him.
 证据没有完全洗清他的嫌疑。
 
 09. embezzle · 关键词 · 回看 00:24:07
+美式 IPA：/ɪmˈbɛzəl/
+词性：verb
+English definition: To dishonestly take money or property that one was trusted to manage.
 侵吞受托管理的钱财
 字幕中出现：embezzled
 区别于一般盗窃；名词 embezzlement。
@@ -104,6 +133,9 @@ The audit checked whether funds had been embezzled.
 审计核查资金是否遭到侵吞。
 
 10. allegation · 关键词 · 回看 00:26:12
+美式 IPA：/ˌæləˈɡeɪʃən/
+词性：noun
+English definition: A claim of wrongdoing that has not yet been established as true.
 尚未经证实的指控或说法
 字幕中出现：allegations
 allegation of misconduct；避免把 allegation 当作已确认事实。
@@ -115,6 +147,8 @@ Investigators examined allegations of bribery.
 调查人员审查了有关行贿的指控。
 
 11. on the record · 词组 / 术语 · 回看 00:25:25
+词性：adjective / adverb phrase
+English definition: Officially recorded or available to be publicly attributed to the speaker.
 可公开引用的；正式记录在案的
 字幕中出现：on the record
 常见于采访、调查和会议；与 off the record 相对。
@@ -126,6 +160,8 @@ The spokesperson agreed to speak on the record.
 发言人同意以可公开引用的方式发言。
 
 12. conflict of interest · 词组 / 术语 · 回看 00:25:50
+词性：noun phrase
+English definition: A situation in which competing interests may interfere with impartial judgment or duties.
 利益冲突
 字幕中出现：conflict of interest
 指个人或其他利益可能影响应履行的职责；不只是意见不一致。
@@ -137,6 +173,8 @@ Could accepting this gift create a conflict of interest?
 收这份礼物会产生利益冲突吗？
 
 13. class action · 词组 / 术语 · 回看 00:08:42
+词性：noun phrase
+English definition: A lawsuit brought on behalf of a group whose members have similar legal claims.
 集体诉讼
 字幕中出现：class action
 由代表成员为具有共同问题的一类人提起的诉讼；资格须依法认定。
@@ -149,3 +187,5 @@ The notice explains who is included in the class action.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

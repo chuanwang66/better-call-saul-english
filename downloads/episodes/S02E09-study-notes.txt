@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E09 Nailed
+V3 · 更新 2026-10-11
 英文梗概（75 words，含剧透）
 Chuck's Mesa Verde application fails because of the altered address. He becomes convinced that Jimmy manipulated the documents, while Kim benefits from the bank's renewed interest. Jimmy pressures a copy-shop employee to support his version of events. Chuck investigates in person and collapses, forcing Jimmy to choose between concealment and helping him. Mike successfully robs a Salamanca truck, but learns that an innocent witness was killed afterward, changing his assessment of what the operation achieved.
 
 重点词汇：11 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:46:33
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. fraud · 关键词 · 回看 00:23:27
+美式 IPA：/frɔd/
+词性：noun
+English definition: Deliberate deception intended to obtain a benefit or cause another person's loss.
 欺诈
 字幕中出现：fraud
 法律或商务语境指欺骗行为；a fraud 也可指骗子或冒牌者。
@@ -27,6 +35,9 @@ She realized the offer was a fraud.
 她意识到那个邀约是骗局。
 
 03. forgery · 关键词 · 回看 00:21:05
+美式 IPA：/ˈfɔrdʒɚi/
+词性：noun
+English definition: The making of a false document or signature to deceive; also the false item itself.
 伪造文件或签名；伪造品
 字幕中出现：forgery
 与诈骗 fraud 不完全相同；可指行为或具体伪造物。
@@ -38,6 +49,9 @@ Experts examined the document for forgery.
 专家检查文件是否存在伪造。
 
 04. defraud · 关键词 · 回看 00:22:38
+美式 IPA：/dɪˈfrɔd/
+词性：verb
+English definition: To obtain money, property, or another benefit from someone through deception.
 欺诈以骗取钱财或权利
 字幕中出现：defrauded
 defraud someone of something；比一般 deceive 更具体。
@@ -49,6 +63,9 @@ Customers were defrauded through false invoices.
 客户因虚假发票而被骗。
 
 05. adversary · 关键词 · 回看 00:39:26
+美式 IPA：/ˈædvɚˌsɛri/
+词性：noun
+English definition: A person or group you compete or fight against.
 对手；敌手
 字幕中出现：adversary
 比 opponent 更强调敌对或竞争关系；adversary 与 adviser 不同。
@@ -60,6 +77,9 @@ Know what your adversary wants.
 弄清对手想要什么。
 
 06. provisional · 关键词 · 回看 00:10:29
+美式 IPA：/prəˈvɪʒənəl/
+词性：adjective
+English definition: Temporary and subject to later confirmation or change.
 暂定的；临时的
 字幕中出现：provisional
 等待进一步确认或满足条件；provisional approval。
@@ -71,6 +91,9 @@ The figures remain provisional.
 这些数字仍属暂定。
 
 07. leverage · 关键词 · 回看 00:07:41
+美式 IPA：/ˈlɛvɚɪdʒ/
+词性：noun
+English definition: The use of borrowed money to finance assets, increasing both potential returns and financial risk.
 杠杆；借力获得的优势
 字幕中出现：leverage
 金融 leverage 指用借入资金扩大敞口；谈判中指筹码。
@@ -83,6 +106,9 @@ High leverage can amplify losses.
 高杠杆可能放大损失。
 
 08. discrepancy · 关键词 · 回看 00:09:47
+美式 IPA：/dɪˈskrɛpənsi/
+词性：noun
+English definition: A difference between things that should agree or match.
 不一致；差异
 字幕中出现：discrepancy
 常指两份记录、说法或数字不符。
@@ -94,6 +120,9 @@ Can you explain the discrepancy?
 你能解释这个出入吗？
 
 09. falsify · 关键词 · 回看 00:23:27
+美式 IPA：/ˈfɔlsəˌfaɪ/
+词性：verb
+English definition: To alter or invent information so that it becomes false or misleading.
 伪造；篡改
 字幕中出现：falsifying
 falsify records；研究中也可指证伪理论，须分语境。
@@ -105,6 +134,9 @@ One counterexample may falsify the hypothesis.
 一个反例可能证伪该假说。
 
 10. adjournment · 关键词 · 回看 00:09:58
+美式 IPA：/əˈdʒɝnmənt/
+词性：noun
+English definition: A pause or postponement in a meeting or court proceeding.
 休庭；延期
 字幕中出现：adjournment
 名词；动词 adjourn，常见 request an adjournment。
@@ -116,6 +148,8 @@ The judge refused another adjournment.
 法官拒绝再次延期。
 
 11. breaking and entering · 词组 / 术语 · 回看 00:23:27
+词性：noun phrase
+English definition: Unlawfully entering a building, traditionally involving some form of force to gain entry.
 破门或非法进入建筑的行为
 字幕中出现：breaking and entering
 法律定性依地区及具体事实；不是任何“进入”都构成该罪。
@@ -128,3 +162,5 @@ An unlocked door does not automatically settle a breaking-and-entering case.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

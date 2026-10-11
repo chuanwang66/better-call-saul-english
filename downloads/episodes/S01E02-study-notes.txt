@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E02 Mijo
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 Jimmy tries to talk Tuco out of killing the skateboarders after their scam insults Tuco's grandmother. His improvised negotiation saves their lives, although they leave with broken legs. The experience introduces Jimmy to Nacho, who sees an opportunity in the Kettlemans' stolen money. Nacho proposes robbing the family and paying Jimmy for information. Jimmy refuses the offer, but his concern about what might happen draws him further into a dangerous situation.
 
 重点词汇：6 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. embezzlement · 关键词 · 回看 00:12:42
+美式 IPA：/ɪmˈbɛzəlmənt/
+词性：noun
+English definition: The dishonest taking of money or property entrusted to one's care.
 侵占；挪用受托管理的财产
 字幕中出现：embezzlement
 常见于雇员或管理者挪用经手资金的语境；区别于泛指 theft。
@@ -16,6 +21,9 @@ The report examined an embezzlement case.
 报告研究了一起侵占财产案件。
 
 02. misdemeanor · 关键词 · 回看 00:37:41
+美式 IPA：/ˌmɪsdəˈminɚ/
+词性：noun
+English definition: A criminal offense in a less serious category than a felony.
 轻罪
 字幕中出现：Misdemeanor
 美国法律用语；具体分类取决于适用法律，不能只按日常严重程度判断。
@@ -27,6 +35,9 @@ The report distinguishes misdemeanors from felonies.
 报告区分了轻罪与重罪。
 
 03. felony · 关键词 · 回看 00:01:13
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -38,6 +49,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 04. probation · 关键词 · 回看 00:24:45
+美式 IPA：/proʊˈbeɪʃən/
+词性：noun
+English definition: Court-ordered community supervision under conditions; also a trial period for a new employee.
 缓刑或社区监督；试用期
 字幕中出现：probation
 刑事含义按具体制度判断；工作语境可指试用期。
@@ -49,6 +63,9 @@ My probation at the new job ends next month.
 我新工作的试用期下个月结束。
 
 05. privilege · 关键词 · 回看 00:44:42
+美式 IPA：/ˈprɪvəlɪdʒ/
+词性：noun
+English definition: A special right or advantage; in law, a protection that can prevent compelled disclosure of certain communications.
 法律保密特权；特殊权利或荣幸
 字幕中出现：privileged
 法律中可指受保护、不须披露的沟通；不同于一般 confidentiality。
@@ -60,6 +77,10 @@ Access to the archive is a privilege.
 查阅档案是一项特殊待遇。
 
 06. backsliding · 关键词 · 回看 00:32:24
+美式 IPA：/ˈbækˌslaɪdɪŋ/
+词性：noun
+English definition: A return to harmful habits after a period of improvement.
+原形：backslide
 故态复萌；退步
 字幕中出现：backsliding
 尤指在已经改善后又恢复旧习；动词 backslide。
@@ -72,3 +93,5 @@ One mistake does not necessarily mean backsliding.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

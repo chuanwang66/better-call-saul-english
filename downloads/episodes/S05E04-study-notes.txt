@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E04 Namaste
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 Howard offers Jimmy a position at HHM, but Jimmy responds indirectly by damaging Howard's property with bowling balls. Kim develops a plan to help Acker resist Mesa Verde and involves Jimmy. Gus adjusts to the DEA's seizure of cartel money while preserving his position. Mike provokes another street confrontation and is seriously injured. The episode shows characters redirecting frustration into actions that complicate their lives rather than resolving the underlying conflict.
 
 重点词汇：12 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. misdemeanor · 关键词 · 回看 00:06:50
+美式 IPA：/ˌmɪsdəˈminɚ/
+词性：noun
+English definition: A criminal offense in a less serious category than a felony.
 轻罪
 字幕中出现：misdemeanors
 美国法律用语；具体分类取决于适用法律，不能只按日常严重程度判断。
@@ -16,6 +21,9 @@ The report distinguishes misdemeanors from felonies.
 报告区分了轻罪与重罪。
 
 02. felony · 关键词 · 回看 00:06:11
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felonies
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -27,6 +35,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 03. probation · 关键词 · 回看 00:06:18
+美式 IPA：/proʊˈbeɪʃən/
+词性：noun
+English definition: Court-ordered community supervision under conditions; also a trial period for a new employee.
 缓刑或社区监督；试用期
 字幕中出现：probation
 刑事含义按具体制度判断；工作语境可指试用期。
@@ -38,6 +49,9 @@ My probation at the new job ends next month.
 我新工作的试用期下个月结束。
 
 04. bail · 关键词 · 回看 00:05:57
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：Bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -49,6 +63,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 05. defendant · 关键词 · 回看 00:21:49
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：defendant
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -60,6 +77,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 06. prosecution · 关键词 · 回看 00:09:33
+美式 IPA：/ˌprɑsəˈkjuʃən/
+词性：noun
+English definition: The pursuit of criminal charges in court; also the lawyers bringing those charges.
 控方；起诉；检控
 字幕中出现：prosecution
 the prosecution 常指刑事案件中的控方。
@@ -71,6 +91,9 @@ The file was sent for prosecution.
 案卷被移送起诉。
 
 07. alibi · 关键词 · 回看 00:23:54
+美式 IPA：/ˈæləˌbaɪ/
+词性：noun
+English definition: Evidence that someone was elsewhere when a crime occurred; more loosely, an excuse.
 不在场证明；辩解
 字幕中出现：alibi
 法律语境指案发时身处别处的证据；口语也可泛指借口。
@@ -82,6 +105,9 @@ His alibi fell apart under questioning.
 他的不在场说法在盘问中露出了破绽。
 
 08. compliance · 关键词 · 回看 00:15:50
+美式 IPA：/kəmˈplaɪəns/
+词性：noun
+English definition: The act of following a rule, requirement, or instruction.
 遵守；合规
 字幕中出现：compliance
 compliance with rules；商务中常指满足监管要求。
@@ -93,6 +119,9 @@ Compliance requires more than signing a form.
 合规不只是签一张表。
 
 09. reputational · 关键词 · 回看 00:17:46
+美式 IPA：/ˌrɛpjəˈteɪʃənəl/
+词性：adjective
+English definition: Relating to how a person or organization is viewed by others.
 名誉方面的
 字幕中出现：reputational
 形容词，常见 reputational damage/risk。
@@ -104,6 +133,9 @@ The decision had reputational consequences.
 决定带来了名誉方面的后果。
 
 10. testimony · 关键词 · 回看 00:21:59
+美式 IPA：/ˈtɛstəˌmoʊni/
+词性：noun
+English definition: A witness's formal statement of facts, especially under oath.
 证言；证词
 字幕中出现：testimony
 法律语境常不可数；指证人陈述，不等于所有证据。
@@ -115,6 +147,9 @@ Was the testimony consistent with the records?
 证词与记录一致吗？
 
 11. perpetrator · 关键词 · 回看 00:22:32
+美式 IPA：/ˈpɝpəˌtreɪtɚ/
+词性：noun
+English definition: A person who carries out a crime or other harmful act.
 实施犯罪或有害行为的人
 字幕中出现：perpetrator
 正式词，与 victim 受害者相对。
@@ -126,6 +161,9 @@ The report focused on the perpetrator's actions.
 报告关注实施者的行为。
 
 12. unorthodox · 关键词 · 回看 00:24:57
+美式 IPA：/ʌnˈɔrθəˌdɑks/
+词性：adjective
+English definition: Different from the usual or accepted way of thinking or acting.
 非传统的；不按常规的
 字幕中出现：unorthodox
 可以有效也可以有风险；不自动等于违法。
@@ -138,3 +176,5 @@ The proposal offered an unorthodox solution.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

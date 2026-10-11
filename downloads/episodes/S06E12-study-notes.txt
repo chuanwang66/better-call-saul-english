@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E12 Waterworks
+V3 · 更新 2026-10-11
 英文梗概（77 words，含剧透）
 Kim lives a cautious, uneventful life in Florida until Gene's call pushes their buried history back into view. She returns to Albuquerque, submits an affidavit and tells Cheryl the truth about Howard. A flashback shows her final encounter with Saul and a conversation with Jesse outside his office. Gene completes the risky burglary, but Jeff is arrested. Marion becomes suspicious, discovers Gene's identity online and uses her emergency alert device to summon help as he confronts her.
 
 重点词汇：10 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. bail · 关键词 · 回看 00:50:45
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -16,6 +21,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 02. affidavit · 关键词 · 回看 00:23:38
+美式 IPA：/ˌæfəˈdeɪvɪt/
+词性：noun
+English definition: A written statement that its maker formally swears is true.
 宣誓书；宣誓陈述
 字幕中出现：affidavit
 通常指经宣誓作出的书面事实陈述；不是普通便条或无条件的真实性证明。
@@ -27,6 +35,9 @@ Does the affidavit include the date of the incident?
 宣誓书包含事件日期吗？
 
 03. indispensable · 关键词 · 回看 00:00:41
+美式 IPA：/ˌɪndɪˈspɛnsəbəl/
+词性：adjective
+English definition: So necessary that it cannot reasonably be done without.
 不可或缺的
 字幕中出现：indispensable
 比 useful 更强；indispensable to/for。
@@ -38,6 +49,8 @@ No employee should be made entirely indispensable.
 不应让工作完全离不开某一个员工。
 
 04. district attorney · 词组 / 术语 · 回看 00:23:38
+词性：noun phrase
+English definition: A public official responsible for prosecuting crimes in a local jurisdiction in the United States.
 地方检察官
 字幕中出现：district attorney
 美国地方刑事检控职务；具体职责随司法辖区而异。
@@ -49,6 +62,9 @@ The district attorney reviewed the evidence.
 地方检察官审查了证据。
 
 05. scot-free · 关键词 · 回看 00:43:25
+美式 IPA：/ˌskɑtˈfri/
+词性：adverb / adjective
+English definition: Without receiving punishment or suffering the expected consequences.
 未受惩罚或损失地
 字幕中出现：scot-free
 常见 get off scot-free，通常含说话者的不满或惊讶。
@@ -60,6 +76,8 @@ She feared the organizer would escape scot-free.
 她担心组织者会逃脱处罚。
 
 06. breaking and entering · 词组 / 术语 · 回看 00:48:17
+词性：noun phrase
+English definition: Unlawfully entering a building, traditionally involving some form of force to gain entry.
 破门或非法进入建筑的行为
 字幕中出现：breaking and entering
 法律定性依地区及具体事实；不是任何“进入”都构成该罪。
@@ -71,6 +89,8 @@ An unlocked door does not automatically settle a breaking-and-entering case.
 门没锁并不能自动决定非法闯入案的结论。
 
 07. barking up the wrong tree · 词组 / 术语 · 回看 00:48:28
+词性：idiom
+English definition: Pursuing the wrong explanation, person, or course of action.
 找错对象或方向
 字幕中出现：barking up the wrong tree
 比喻追查、指责或寻求帮助时判断错了方向。
@@ -82,6 +102,8 @@ You may be barking up the wrong tree with that theory.
 你的理论可能指向了错误方向。
 
 08. on an even keel · 词组 / 术语 · 回看 00:55:55
+词性：adjective / adverb phrase
+English definition: In a stable, balanced condition without major disruption.
 稳定、平衡的状态
 字幕中出现：on an even keel
 keep something on an even keel；源自船只保持平稳。
@@ -93,6 +115,8 @@ Things are finally back on an even keel.
 情况终于恢复稳定了。
 
 09. keep your nose clean · 词组 / 术语 · 回看 00:43:30
+词性：verb phrase / idiom
+English definition: To behave responsibly and avoid trouble, especially unlawful activity.
 规规矩矩；不惹麻烦
 字幕中出现：keeping his nose clean
 口语，常用于劝人远离违法或不当行为；人称可变化。
@@ -104,6 +128,8 @@ I just want to work and keep my nose clean.
 我只想工作，不惹麻烦。
 
 10. spill your guts · 词组 / 术语 · 回看 00:15:33
+词性：verb phrase / idiom
+English definition: To reveal private feelings, secrets, or everything one knows.
 把心事或秘密全说出来
 字幕中出现：Spill your guts
 非正式且语气强；也可用于迫使人坦白。
@@ -116,3 +142,5 @@ He wasn't ready to spill his guts.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

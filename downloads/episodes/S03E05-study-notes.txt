@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E05 Chicanery
+V3 · 更新 2026-10-11
 英文梗概（73 words，含剧透）
 Jimmy's disciplinary hearing becomes a confrontation over credibility, family history and Chuck's claimed sensitivity to electricity. Kim questions the witnesses and develops the defence's account. Jimmy then reveals that a charged battery has been placed in Chuck's pocket without his noticing. The demonstration prompts an emotional outburst in which Chuck exposes his resentment and distrust of Jimmy. Jimmy avoids the outcome Chuck wanted, but the public victory deepens the personal damage between them.
 
 重点词汇：13 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. subpoena · 关键词 · 回看 00:34:15
+美式 IPA：/səˈpinə/
+词性：noun / verb
+English definition: A legal command to testify or produce specified material; to issue such a command.
 传票；以传票要求出庭或提交材料
 字幕中出现：subpoena
 法律名词也可作动词；不等同于 arrest warrant 逮捕令。
@@ -16,6 +21,9 @@ The lawyer sought to subpoena another witness.
 律师申请以传票传唤另一名证人。
 
 02. disbarment · 关键词 · 回看 00:16:32
+美式 IPA：/dɪsˈbɑrmənt/
+词性：noun
+English definition: The removal of a lawyer's authorization to practice law.
 取消律师执业资格
 字幕中出现：disbarment
 比暂时 suspension 更严重；动词 disbar。
@@ -27,6 +35,9 @@ Disbarment ended her legal practice.
 取消资格终结了她的律师执业。
 
 03. corroborate · 关键词 · 回看 00:30:15
+美式 IPA：/kəˈrɑbəˌreɪt/
+词性：verb
+English definition: To strengthen a statement by providing independent supporting information.
 佐证；提供支持证据
 字幕中出现：corroborating
 corroborate an account；比重复某人的说法更强调独立支持。
@@ -38,6 +49,9 @@ Investigators sought corroborating evidence.
 调查人员寻找佐证证据。
 
 04. suspension · 关键词 · 回看 00:16:30
+美式 IPA：/səˈspɛnʃən/
+词性：noun
+English definition: A temporary removal from a role, activity, or professional practice.
 暂停执业、职务或活动
 字幕中出现：suspension
 本学习册主要关注律师暂停执业；suspended 是相关形容词或过去分词。
@@ -49,6 +63,9 @@ He returned to practice after the suspension.
 暂停期结束后他恢复执业。
 
 05. testimony · 关键词 · 回看 00:15:00
+美式 IPA：/ˈtɛstəˌmoʊni/
+词性：noun
+English definition: A witness's formal statement of facts, especially under oath.
 证言；证词
 字幕中出现：testimony
 法律语境常不可数；指证人陈述，不等于所有证据。
@@ -60,6 +77,9 @@ Was the testimony consistent with the records?
 证词与记录一致吗？
 
 06. evidentiary · 关键词 · 回看 00:17:40
+美式 IPA：/ˌɛvɪˈdɛnʃiˌɛri/
+词性：adjective
+English definition: Relating to evidence or the rules governing its use.
 证据方面的
 字幕中出现：evidentiary
 形容词，evidentiary hearing 专门审查证据问题的听证。
@@ -71,6 +91,10 @@ Counsel raised an evidentiary objection.
 律师提出了证据方面的异议。
 
 07. transposed · 关键词 · 回看 00:13:01
+美式 IPA：/trænˈspoʊzd/
+词性：verb (past tense / past participle)
+English definition: Placed in a different order or position, especially with two items exchanged.
+原形：transpose
 位置被对调或颠倒的
 字幕中出现：transposed
 动词 transpose；常用于数字、字母的顺序错置。
@@ -82,6 +106,9 @@ A transposed number changed the address.
 一个位置颠倒的数字改变了地址。
 
 08. adverse · 关键词 · 回看 00:38:24
+美式 IPA：/ædˈvɝs/
+词性：adjective
+English definition: Harmful or unfavorable to someone's interests.
 不利的；负面的
 字幕中出现：adverse
 常搭配 adverse effect、adverse ruling、adverse party。
@@ -93,6 +120,9 @@ We must disclose adverse information.
 我们必须披露不利信息。
 
 09. allegation · 关键词 · 回看 00:12:45
+美式 IPA：/ˌæləˈɡeɪʃən/
+词性：noun
+English definition: A claim of wrongdoing that has not yet been established as true.
 尚未经证实的指控或说法
 字幕中出现：allegations
 allegation of misconduct；避免把 allegation 当作已确认事实。
@@ -104,6 +134,9 @@ Investigators examined allegations of bribery.
 调查人员审查了有关行贿的指控。
 
 10. speculation · 关键词 · 回看 00:30:49
+美式 IPA：/ˌspɛkjəˈleɪʃən/
+词性：noun
+English definition: Reasoning without firm evidence; also financial risk-taking in pursuit of profit.
 推测；投机
 字幕中出现：speculation
 证据语境指缺乏充分基础的猜测；金融中也指冒险交易。
@@ -115,6 +148,8 @@ Property speculation drove up prices.
 房地产投机推高了价格。
 
 11. under oath · 词组 / 术语 · 回看 00:36:29
+词性：adverb phrase
+English definition: Having formally promised to tell the truth in a setting where a false statement may have legal consequences.
 在宣誓后；在誓言约束下
 字幕中出现：under oath
 法律表达；描述证言须真实这一正式要求。
@@ -126,6 +161,9 @@ Were you under oath when you said that?
 你说那句话时是在宣誓作证吗？
 
 12. cross-examination · 关键词 · 回看 00:36:34
+美式 IPA：/ˌkrɔs ɪɡˌzæməˈneɪʃən/
+词性：noun
+English definition: Questioning a witness called by the opposing side in a legal proceeding.
 交叉询问；对对方证人的盘问
 字幕中出现：cross-examination
 通常在直接询问后由对方律师进行；动词 cross-examine。
@@ -137,6 +175,8 @@ She prepared carefully for cross-examination.
 她为交叉询问作了充分准备。
 
 13. dead to rights · 词组 / 术语 · 回看 00:45:01
+词性：adverb phrase / idiom
+English definition: In a situation where clear evidence establishes someone's wrongdoing.
 有确凿把柄；当场被抓
 字幕中出现：Dead to rights
 have/catch someone dead to rights，主要见于美式口语。
@@ -149,3 +189,5 @@ You think you've got me dead to rights?
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

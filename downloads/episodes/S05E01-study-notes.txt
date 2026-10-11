@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E01 Magic Man
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Jimmy launches his Saul Goodman practice with an energetic promotion aimed at criminal clients. Kim is uncomfortable with some of his methods, yet uses a misleading story to persuade a client to accept a plea. Gus manages the cartel's suspicions about Werner and the construction project. In the Gene timeline, a taxi driver recognizes Saul, prompting him to contact the disappearer before deciding to handle the problem himself. Reinvention provides opportunity while leaving old dangers unresolved.
 
 重点词汇：10 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:24:12
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felonies
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. retainer · 关键词 · 回看 00:43:56
+美式 IPA：/rɪˈteɪnɚ/
+词性：noun
+English definition: A fee or arrangement securing a professional's services or availability, especially a lawyer's.
 聘用律师等专业人士的预付费用；聘用安排
 字幕中出现：retainer
 具体如何计费取决于协议；不必然指已赚取的费用。
@@ -27,6 +35,9 @@ The firm explained its retainer agreement.
 事务所解释了聘用协议。
 
 03. settlement · 关键词 · 回看 00:46:38
+美式 IPA：/ˈsɛtəlmənt/
+词性：noun
+English definition: An agreement resolving a dispute, or the money paid under that agreement.
 和解；和解协议或款项
 字幕中出现：settlement
 诉讼中常指双方协议解决争议；不等于法院判决。
@@ -38,6 +49,9 @@ Is the settlement in writing?
 和解协议有书面形式吗？
 
 04. misconduct · 关键词 · 回看 00:45:54
+美式 IPA：/mɪsˈkɑndʌkt/
+词性：noun
+English definition: Behavior that violates rules, duties, or expected standards.
 不当行为；违规失职
 字幕中出现：misconduct
 通常不可数；professional misconduct 职业不当行为。
@@ -49,6 +63,9 @@ The complaint alleged prosecutorial misconduct.
 投诉指称检方存在不当行为。
 
 05. compensate · 关键词 · 回看 00:44:24
+美式 IPA：/ˈkɑmpənˌseɪt/
+词性：verb
+English definition: To provide payment or another benefit for loss, harm, or work; to make up for a disadvantage.
 赔偿；补偿；弥补
 字幕中出现：compensated
 compensate someone for a loss；compensate for a weakness。
@@ -60,6 +77,9 @@ Nothing could fully compensate him for the lost time.
 没有什么能完全补偿他失去的时间。
 
 06. confession · 关键词 · 回看 00:28:04
+美式 IPA：/kənˈfɛʃən/
+词性：noun
+English definition: An admission that one has committed a crime or done something wrong.
 供认；坦白
 字幕中出现：confession
 confession to a crime；不自动意味着供述真实或可采。
@@ -71,6 +91,9 @@ The defence questioned whether the confession was voluntary.
 辩方质疑供述是否出于自愿。
 
 07. legitimate · 关键词 · 回看 00:28:08
+美式 IPA：/ləˈdʒɪtəmət/
+词性：adjective
+English definition: Allowed by law or accepted rules; also genuine or reasonably justified.
 合法正当的；真实合理的
 字幕中出现：legitimate
 legitimate concern 合理担忧；不局限于合法性。
@@ -82,6 +105,9 @@ We checked whether the document was legitimate.
 我们核查了文件是否真实有效。
 
 08. discreet · 关键词 · 回看 00:27:11
+美式 IPA：/dɪˈskrit/
+词性：adjective
+English definition: Careful to avoid attracting attention or revealing private information.
 谨慎低调的；守口如瓶的
 字幕中出现：discreet
 勿与 discrete“分离的”混淆；discreet enquiry 低调询问。
@@ -93,6 +119,10 @@ Make a discreet enquiry before proceeding.
 继续之前先谨慎打听一下。
 
 09. sentencing · 关键词 · 回看 00:47:42
+美式 IPA：/ˈsɛntənsɪŋ/
+词性：noun
+English definition: The stage of a criminal case at which a court determines the punishment.
+原形：sentence
 量刑；宣判刑罚
 字幕中出现：sentencing
 通常发生在认罪或被判有罪之后；与定罪 conviction 区分。
@@ -104,6 +134,8 @@ She spoke at the sentencing hearing.
 她在量刑听证中发言。
 
 10. district attorney · 词组 / 术语 · 回看 00:51:29
+词性：noun phrase
+English definition: A public official responsible for prosecuting crimes in a local jurisdiction in the United States.
 地方检察官
 字幕中出现：district attorney
 美国地方刑事检控职务；具体职责随司法辖区而异。
@@ -116,3 +148,5 @@ The district attorney reviewed the evidence.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

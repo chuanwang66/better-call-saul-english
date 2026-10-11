@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E04 Hit and Run
+V3 · 更新 2026-10-11
 英文梗概（75 words，含剧透）
 Jimmy disguises himself as Howard and stages a public confrontation with Wendy using Howard's car. Kim ensures that Cliff Main sees the scene while discussing an ambitious legal-aid project. She notices surveillance and confronts the men following her. Mike explains that Lalo is alive and that she and Jimmy are being watched for their protection. Saul's association with the Salamancas attracts new clients, encouraging him to consider the office that will define his later practice.
 
 重点词汇：10 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. retainer · 关键词 · 回看 00:41:28
+美式 IPA：/rɪˈteɪnɚ/
+词性：noun
+English definition: A fee or arrangement securing a professional's services or availability, especially a lawyer's.
 聘用律师等专业人士的预付费用；聘用安排
 字幕中出现：retainers
 具体如何计费取决于协议；不必然指已赚取的费用。
@@ -16,6 +21,9 @@ The firm explained its retainer agreement.
 事务所解释了聘用协议。
 
 02. bail · 关键词 · 回看 00:42:29
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -27,6 +35,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 03. preliminary · 关键词 · 回看 00:21:30
+美式 IPA：/prɪˈlɪməˌnɛri/
+词性：adjective
+English definition: Taking place before the main action or final decision.
 初步的；正式程序之前的
 字幕中出现：preliminary
 preliminary hearing 初步听证；不等于最终结果。
@@ -38,6 +49,10 @@ They held preliminary discussions.
 他们进行了初步讨论。
 
 04. deadlocked · 关键词 · 回看 00:05:30
+美式 IPA：/ˈdɛdˌlɑkt/
+词性：adjective
+English definition: Unable to progress because opposing sides cannot reach agreement.
+原形：deadlock
 陷入僵局的
 字幕中出现：deadlocked
 双方无法取得进展；deadlock 也可作名词。
@@ -49,6 +64,9 @@ They were deadlocked over the payment terms.
 他们在付款条件上僵持不下。
 
 05. narcissist · 关键词 · 回看 00:17:35
+美式 IPA：/ˈnɑrsəsɪst/
+词性：noun
+English definition: A person excessively focused on their own importance and need for admiration.
 自恋者
 字幕中出现：Narcissists
 剧中常是尖刻评价；日常标签不等于临床诊断。
@@ -60,6 +78,8 @@ The fictional narcissist demands constant admiration.
 这个虚构的自恋者不断要求别人赞美。
 
 06. status quo · 词组 / 术语 · 回看 00:04:45
+词性：noun phrase
+English definition: The existing state of affairs at a particular time.
 现状
 字幕中出现：Status quo
 常见 maintain/challenge the status quo；拉丁语借词。
@@ -71,6 +91,9 @@ The status quo no longer worked for her.
 现状对她已经行不通了。
 
 07. systemic · 关键词 · 回看 00:11:15
+美式 IPA：/sɪˈstɛmɪk/
+词性：adjective
+English definition: Affecting or built into an entire system rather than an isolated part.
 系统性的；影响整个体系的
 字幕中出现：systemic
 与 systematic“有系统、按部就班的”区分。
@@ -82,6 +105,8 @@ They called for systemic reform.
 他们呼吁系统性改革。
 
 08. by the skin of my teeth · 词组 / 术语 · 回看 00:17:31
+词性：adverb phrase / idiom
+English definition: Only just succeeding or escaping failure by a very small margin.
 极其勉强地；险些失败
 字幕中出现：by the skin of my teeth
 人称可变化；强调差一点就没成功或没逃脱。
@@ -93,6 +118,8 @@ She passed the exam by the skin of her teeth.
 她勉强通过了考试。
 
 09. made of sterner stuff · 词组 / 术语 · 回看 00:33:33
+词性：adjective phrase / idiom
+English definition: Having greater courage, determination, or resilience than others.
 更坚强、更有胆识
 字幕中出现：made of sterner stuff
 比较意味的习语；sterner 是 stern 的比较级。
@@ -104,6 +131,8 @@ He proved he was made of sterner stuff.
 他证明了自己更有胆识。
 
 10. a diamond in the rough · 词组 / 术语 · 回看 00:42:42
+词性：noun phrase / idiom
+English definition: A person or thing with valuable potential that has not yet been developed or polished.
 尚未打磨但很有潜力的人或事物
 字幕中出现：a diamond in the rough
 也作 a rough diamond；比喻外表普通、品质或潜力出众。
@@ -116,3 +145,5 @@ She saw a diamond in the rough where others saw trouble.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

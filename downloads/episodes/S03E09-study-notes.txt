@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S03E09 Fall
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy manipulates Irene's friends to isolate her, hoping she will agree to settle the Sandpiper case and release his share of the fees. Chuck's insurance problems intensify his conflict with Howard and threaten his role at HHM. Kim pushes herself to complete another major assignment, then crashes her car. Nacho carries out his plan to replace Hector's medication. Each storyline shows a character pursuing a goal while underestimating the human consequences of the method.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. liability · 关键词 · 回看 00:46:48
+美式 IPA：/ˌlaɪəˈbɪləti/
+词性：noun
+English definition: Legal or financial responsibility; also a debt or something that creates a disadvantage.
 法律责任；偿付义务；不利因素
 字幕中出现：liabilities
 法律语境指须依法承担的责任；复数 liabilities 也可指负债。
@@ -16,6 +21,9 @@ The old equipment has become a liability.
 旧设备已经成了负担。（比喻义。）
 
 02. subpoena · 关键词 · 回看 00:33:05
+美式 IPA：/səˈpinə/
+词性：noun / verb
+English definition: A legal command to testify or produce specified material; to issue such a command.
 传票；以传票要求出庭或提交材料
 字幕中出现：subpoenas
 法律名词也可作动词；不等同于 arrest warrant 逮捕令。
@@ -27,6 +35,9 @@ The lawyer sought to subpoena another witness.
 律师申请以传票传唤另一名证人。
 
 03. settlement · 关键词 · 回看 00:01:11
+美式 IPA：/ˈsɛtəlmənt/
+词性：noun
+English definition: An agreement resolving a dispute, or the money paid under that agreement.
 和解；和解协议或款项
 字幕中出现：settlement
 诉讼中常指双方协议解决争议；不等于法院判决。
@@ -38,6 +49,10 @@ Is the settlement in writing?
 和解协议有书面形式吗？
 
 04. damages · 关键词 · 回看 00:15:55
+美式 IPA：/ˈdæmɪdʒɪz/
+词性：plural noun
+English definition: Money awarded to compensate for a legally recognized injury or loss.
+原形：damage
 损害赔偿金
 字幕中出现：damages
 法律义通常用复数；damage 常指损害本身，注意区别。
@@ -49,6 +64,9 @@ The storm caused damage, but the claim is for damages.
 暴风雨造成了损害，而索赔请求的是赔偿金。
 
 05. litigation · 关键词 · 回看 00:11:39
+美式 IPA：/ˌlɪtəˈɡeɪʃən/
+词性：noun
+English definition: The process of pursuing or defending a dispute through the courts.
 诉讼；进行诉讼的过程
 字幕中出现：litigation
 通常不可数；litigation costs 诉讼费用。
@@ -60,6 +78,9 @@ She works in commercial litigation.
 她从事商事诉讼工作。
 
 06. testimony · 关键词 · 回看 00:10:42
+美式 IPA：/ˈtɛstəˌmoʊni/
+词性：noun
+English definition: A witness's formal statement of facts, especially under oath.
 证言；证词
 字幕中出现：testimony
 法律语境常不可数；指证人陈述，不等于所有证据。
@@ -71,6 +92,9 @@ Was the testimony consistent with the records?
 证词与记录一致吗？
 
 07. infraction · 关键词 · 回看 00:11:19
+美式 IPA：/ɪnˈfrækʃən/
+词性：noun
+English definition: A violation of a rule or law, often a relatively minor one.
 轻微违法；违规
 字幕中出现：infractions
 通常比 felony、misdemeanor 轻，但分类依地区。
@@ -82,6 +106,8 @@ They disputed whether any infraction occurred.
 他们争论是否发生了违规。
 
 08. breach of contract · 词组 / 术语 · 回看 00:34:04
+词性：noun phrase
+English definition: A failure to carry out an obligation required by a valid contract.
 违约；违反合同
 字幕中出现：breach of contract
 breach 可作名词或动词；不同于 breach of trust 背信。
@@ -94,3 +120,5 @@ They settled the breach-of-contract claim.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/n0wjaq
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

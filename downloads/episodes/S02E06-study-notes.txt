@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E06 Bali Ha'i
+V3 · 更新 2026-10-11
 英文梗概（72 words，含剧透）
 Kim receives an offer from Schweikart & Cokely and considers what a different firm might mean for her future. Jimmy continues to test the limits of his position at Davis & Main. Mike faces escalating pressure from Hector, including a threat involving his family. He negotiates payment in exchange for changing his statement about Tuco. The apparent agreement protects his immediate interests, but Mike remains unwilling to accept the Salamancas' power over his life.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. deposition · 关键词 · 回看 00:32:12
+美式 IPA：/ˌdɛpəˈzɪʃən/
+词性：noun
+English definition: Sworn testimony taken outside the courtroom and recorded for use in a case.
 庭外宣誓证言；取证问询
 字幕中出现：deposition
 美国诉讼术语，通常在庭前进行并记录，不等于普通访谈。
@@ -16,6 +21,9 @@ He contradicted his earlier deposition.
 他的说法与先前的宣誓证言矛盾。
 
 02. statute · 关键词 · 回看 00:17:52
+美式 IPA：/ˈstætʃut/
+词性：noun
+English definition: A written law enacted by a legislative body.
 成文法；法令
 字幕中出现：statutes
 与 statue 雕像区分；法律通常是 legislature 制定的 statute。
@@ -27,6 +35,9 @@ The claim depends on how the statute is interpreted.
 诉求取决于如何解释该法令。
 
 03. preliminary · 关键词 · 回看 00:16:54
+美式 IPA：/prɪˈlɪməˌnɛri/
+词性：adjective
+English definition: Taking place before the main action or final decision.
 初步的；正式程序之前的
 字幕中出现：preliminary
 preliminary hearing 初步听证；不等于最终结果。
@@ -38,6 +49,9 @@ They held preliminary discussions.
 他们进行了初步讨论。
 
 04. diversify · 关键词 · 回看 00:19:40
+美式 IPA：/daɪˈvɝsəˌfaɪ/
+词性：verb
+English definition: To add different activities or investments, often to spread risk.
 分散投资；使多样化
 字幕中出现：diversified
 diversify a portfolio；并不保证没有风险。
@@ -49,6 +63,9 @@ The firm needs to diversify its client base.
 公司需要让客户来源更多样。
 
 05. incompetent · 关键词 · 回看 00:13:41
+美式 IPA：/ɪnˈkɑmpətənt/
+词性：adjective
+English definition: Lacking the ability or skill needed to perform a task properly.
 不胜任的；无能力的
 字幕中出现：incompetent
 带强烈负面评价；特定法律中的无行为能力需看语境。
@@ -60,6 +77,9 @@ He denied being incompetent to handle the case.
 他否认自己没有能力处理此案。
 
 06. intimidation · 关键词 · 回看 00:13:14
+美式 IPA：/ɪnˌtɪməˈdeɪʃən/
+词性：noun
+English definition: The use of fear or threats to influence someone's behavior.
 恐吓；威逼
 字幕中出现：intimidation
 动词 intimidate；与合法的强硬谈判并非自动等同。
@@ -71,6 +91,8 @@ She refused to give in to intimidation.
 她拒绝向恐吓屈服。
 
 07. on the hook · 词组 / 术语 · 回看 00:33:34
+词性：idiom
+English definition: Drawn in as a potential target or customer, using the image of a fish caught on a hook.
 承担责任或费用；目标已上钩
 字幕中出现：on the hook
 on the hook for 后接金额或责任；钓鱼隐喻中也可指已钓到目标。
@@ -83,6 +105,8 @@ The salesperson thought he had a buyer on the hook.
 销售员以为已经钓到一个买家。
 
 08. district attorney · 词组 / 术语 · 回看 00:38:24
+词性：noun phrase
+English definition: A public official responsible for prosecuting crimes in a local jurisdiction in the United States.
 地方检察官
 字幕中出现：district attorney
 美国地方刑事检控职务；具体职责随司法辖区而异。
@@ -95,3 +119,5 @@ The district attorney reviewed the evidence.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

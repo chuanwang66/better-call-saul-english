@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E07 JMM
+V3 · 更新 2026-10-11
 英文梗概（75 words，含剧透）
 Jimmy and Kim marry and agree on a new standard of honesty between them. Saul represents Lalo in a murder case, using information supplied through Mike to undermine the prosecution's evidence. The judge sets bail at seven million dollars. Gus and Nacho arrange an attack on a Los Pollos Hermanos restaurant to support the larger deception. Jimmy also lashes out at Howard, whose job offer touches unresolved feelings about Chuck, status and Jimmy's chosen identity.
 
 重点词汇：12 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. bail · 关键词 · 回看 00:14:38
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -16,6 +21,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 02. prosecution · 关键词 · 回看 00:40:31
+美式 IPA：/ˌprɑsəˈkjuʃən/
+词性：noun
+English definition: The pursuit of criminal charges in court; also the lawyers bringing those charges.
 控方；起诉；检控
 字幕中出现：prosecution
 the prosecution 常指刑事案件中的控方。
@@ -27,6 +35,9 @@ The file was sent for prosecution.
 案卷被移送起诉。
 
 03. arson · 关键词 · 回看 00:08:25
+美式 IPA：/ˈɑrsən/
+词性：noun
+English definition: The crime of deliberately and unlawfully setting property on fire.
 纵火罪；故意纵火
 字幕中出现：arson
 通常为不可数名词，区别于一般意外失火。
@@ -38,6 +49,9 @@ The report distinguished arson from an electrical fire.
 报告区分了纵火和电气火灾。
 
 04. waive · 关键词 · 回看 00:08:28
+美式 IPA：/weɪv/
+词性：verb
+English definition: To voluntarily give up a right, requirement, claim, or fee.
 自愿放弃权利、要求或费用
 字幕中出现：waives
 waive a right/fee；与 wave 挥手区分。
@@ -49,6 +63,9 @@ They refused to waive the requirement.
 他们拒绝免除这项要求。
 
 05. implicate · 关键词 · 回看 00:42:26
+美式 IPA：/ˈɪmplɪˌkeɪt/
+词性：verb
+English definition: To connect someone to wrongdoing or suggest that they were involved.
 牵连；暗示某人涉案
 字幕中出现：implicating
 implicate someone in a crime；暗示涉案不等于定罪。
@@ -60,6 +77,9 @@ New evidence implicated the contractor in the fraud.
 新证据显示承包商可能涉及诈骗。
 
 06. ephemeral · 关键词 · 回看 00:15:26
+美式 IPA：/ɪˈfɛmɚəl/
+词性：adjective
+English definition: Existing or remaining significant for only a short time.
 短暂的；转瞬即逝的
 字幕中出现：Ephemeral
 较正式，常用于名声、愉悦、事物存在的时间。
@@ -71,6 +91,9 @@ The installation explores ephemeral beauty.
 装置作品探索短暂的美。
 
 07. testimony · 关键词 · 回看 00:42:26
+美式 IPA：/ˈtɛstəˌmoʊni/
+词性：noun
+English definition: A witness's formal statement of facts, especially under oath.
 证言；证词
 字幕中出现：testimony
 法律语境常不可数；指证人陈述，不等于所有证据。
@@ -82,6 +105,9 @@ Was the testimony consistent with the records?
 证词与记录一致吗？
 
 08. allegation · 关键词 · 回看 00:40:13
+美式 IPA：/ˌæləˈɡeɪʃən/
+词性：noun
+English definition: A claim of wrongdoing that has not yet been established as true.
 尚未经证实的指控或说法
 字幕中出现：allegation
 allegation of misconduct；避免把 allegation 当作已确认事实。
@@ -93,6 +119,9 @@ Investigators examined allegations of bribery.
 调查人员审查了有关行贿的指控。
 
 09. fabricate · 关键词 · 回看 00:42:26
+美式 IPA：/ˈfæbrɪˌkeɪt/
+词性：verb
+English definition: To invent a false story or evidence; also to manufacture something.
 捏造；制造
 字幕中出现：fabricated
 fabricate evidence/story 为贬义；fabricate parts 为中性制造。
@@ -104,6 +133,8 @@ The workshop fabricates metal components.
 车间制造金属零件。
 
 10. witness tampering · 词组 / 术语 · 回看 00:40:13
+词性：noun phrase
+English definition: Improperly influencing, threatening, or interfering with a witness or their testimony.
 干扰、胁迫或不当影响证人
 字幕中出现：witness tampering
 法律术语；不是所有与证人接触都构成该行为。
@@ -115,6 +146,8 @@ The order warned against witness tampering.
 命令警告不得干扰证人。
 
 11. bad faith · 词组 / 术语 · 回看 00:12:22
+词性：noun phrase
+English definition: Dishonesty or an intention to mislead rather than deal fairly.
 恶意；缺乏诚意
 字幕中出现：bad faith
 in bad faith 与 in good faith 相对；法律语境含义依具体规则。
@@ -126,6 +159,8 @@ A disagreement alone does not prove bad faith.
 仅有分歧不能证明恶意。
 
 12. out on bail · 词组 / 术语 · 回看 00:14:38
+词性：adjective / adverb phrase
+English definition: Released from custody under bail conditions while a criminal case continues.
 获准保释、在外候审
 字幕中出现：out on bail
 区别于被撤销指控；仍可能有条件或限制。
@@ -138,3 +173,5 @@ Being out on bail does not end the case.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

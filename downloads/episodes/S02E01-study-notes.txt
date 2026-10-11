@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S02E01 Switch
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Jimmy initially turns down Davis & Main and spends time enjoying the idea of leaving conventional legal work behind. He and Kim con a boastful businessman at a hotel, reminding them both of the appeal of performance and deception. Jimmy ultimately accepts the firm's offer. Meanwhile, Pryce dismisses Mike as his bodyguard and exposes himself to Nacho, who steals his baseball cards. An attempt to recover the collection threatens to attract police attention to Pryce's illegal dealings.
 
 重点词汇：6 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. diversify · 关键词 · 回看 00:24:31
+美式 IPA：/daɪˈvɝsəˌfaɪ/
+词性：verb
+English definition: To add different activities or investments, often to spread risk.
 分散投资；使多样化
 字幕中出现：diversify
 diversify a portfolio；并不保证没有风险。
@@ -16,6 +21,8 @@ The firm needs to diversify its client base.
 公司需要让客户来源更多样。
 
 02. sunk cost · 词组 / 术语 · 回看 00:22:00
+词性：noun phrase
+English definition: A cost already incurred that cannot be recovered by a future decision.
 沉没成本
 字幕中出现：Sunk Cost
 已经发生、无法回收的成本；相关谬误是因既有投入而继续错误决策。
@@ -27,6 +34,9 @@ They treated the initial payment as a sunk cost.
 他们把首付款视为沉没成本。
 
 03. fallacy · 关键词 · 回看 00:22:00
+美式 IPA：/ˈfæləsi/
+词性：noun
+English definition: An error in reasoning or a belief based on faulty reasoning.
 错误推理；谬误
 字幕中出现：Fallacy
 不是单纯的事实错误；sunk-cost fallacy 沉没成本谬误。
@@ -38,6 +48,10 @@ The sunk-cost fallacy can distort decisions.
 沉没成本谬误可能扭曲决策。
 
 04. dividends · 关键词 · 回看 00:28:25
+美式 IPA：/ˈdɪvəˌdɛndz/
+词性：plural noun
+English definition: Payments of company profits to shareholders; figuratively, benefits produced by an effort.
+原形：dividend
 股息；红利；回报
 字幕中出现：dividends
 通常复数；pay dividends 也比喻产生好处。
@@ -49,6 +63,9 @@ They reinvested the dividends.
 他们将股息再次投入。
 
 05. inheritance · 关键词 · 回看 00:24:13
+美式 IPA：/ɪnˈhɛrətəns/
+词性：noun
+English definition: Property or money received from someone after their death.
 继承的财产；继承
 字幕中出现：inheritance
 区别于 heritage 文化遗产；receive an inheritance。
@@ -60,6 +77,9 @@ He had no expectation of an inheritance.
 他没指望继承财产。
 
 06. irrespective · 关键词 · 回看 00:40:36
+美式 IPA：/ˌɪrəˈspɛktɪv/
+词性：adjective (in irrespective of)
+English definition: Used with of to mean without considering or being affected by something.
 不考虑；无论
 字幕中出现：irrespective
 固定结构 irrespective of，相当于 regardless of，较正式。
@@ -72,3 +92,5 @@ Payment is due irrespective of the outcome.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/pQvIgk
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

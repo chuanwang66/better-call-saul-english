@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S04E10 Winner
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 A flashback shows Jimmy celebrating his admission to the bar with Chuck. In the present, Jimmy and Kim build an appeal around the brothers' relationship, and Jimmy's emotional speech wins reinstatement. He then reveals his plan to practise as Saul Goodman. Mike tracks Werner down, but Gus decides the breach cannot be forgiven. Mike kills him after arranging for his wife to leave safely. Professional success and professional obedience both come at a severe personal cost.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. remorse · 关键词 · 回看 00:38:52
+美式 IPA：/rɪˈmɔrs/
+词性：noun
+English definition: Deep regret and guilt about harm one has caused.
 懊悔；对过错的内疚
 字幕中出现：Remorse
 show remorse；比单纯 regret 更突出对伤害或过错的道德反省。
@@ -16,6 +21,9 @@ The apology contained little remorse.
 道歉中几乎没有悔意。
 
 02. insincere · 关键词 · 回看 00:21:57
+美式 IPA：/ˌɪnsɪnˈsɪr/
+词性：adjective
+English definition: Expressing feelings or intentions that one does not truly hold.
 不真诚的
 字幕中出现：Insincere
 insincere apology；与不准确 inaccurate 不同。
@@ -27,6 +35,9 @@ They found the statement polished but insincere.
 他们觉得声明圆滑却不真诚。
 
 03. delegation · 关键词 · 回看 00:27:02
+美式 IPA：/ˌdɛləˈɡeɪʃən/
+词性：noun
+English definition: The transfer of a task or authority to another person; also a group sent to represent others.
 授权；代表团
 字幕中出现：delegation
 注意双义：delegation of duties 与 a delegation。
@@ -38,6 +49,9 @@ Delegation does not remove accountability.
 授权并不免除责任。
 
 04. vouch · 关键词 · 回看 00:00:08
+美式 IPA：/vaʊtʃ/
+词性：verb
+English definition: To personally confirm that someone or something is trustworthy or genuine, usually with for.
 担保；保证可信或真实
 字幕中出现：vouch
 vouch for someone/something，介词 for。
@@ -49,6 +63,8 @@ He vouched for me when I applied.
 我申请时，他为我作了担保。
 
 05. cut corners · 词组 / 术语 · 回看 00:31:12
+词性：verb phrase / idiom
+English definition: To save time or money by skipping necessary steps or lowering standards.
 为省事或省钱而降低标准
 字幕中出现：cut corners
 常含负面评价，区别于合理优化流程。
@@ -60,6 +76,9 @@ Rushing the launch encouraged people to cut corners.
 仓促上线让人们倾向于敷衍了事。
 
 06. reinstate · 关键词 · 回看 00:58:14
+美式 IPA：/ˌriɪnˈsteɪt/
+词性：verb
+English definition: To restore someone or something to a former position, status, or arrangement.
 恢复资格、职位或原有安排
 字幕中出现：reinstate
 reinstate a licence/an employee；名词 reinstatement。
@@ -71,6 +90,9 @@ They reinstated the original schedule.
 他们恢复了原来的日程。
 
 07. rudimentary · 关键词 · 回看 00:50:40
+美式 IPA：/ˌrudəˈmɛntɚi/
+词性：adjective
+English definition: Basic and not yet highly developed or detailed.
 初步的；最基本的
 字幕中出现：rudimentary
 常暗示不完善；rudimentary understanding。
@@ -82,6 +104,9 @@ We need more than a rudimentary plan.
 我们需要的不只是一个初步计划。
 
 08. eloquent · 关键词 · 回看 00:54:31
+美式 IPA：/ˈɛləkwənt/
+词性：adjective
+English definition: Expressing ideas fluently and persuasively.
 有说服力且表达流畅的
 字幕中出现：eloquent
 也可形容无声却意义鲜明的举动。
@@ -94,3 +119,5 @@ The letter was brief but eloquent.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/vlHghm
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

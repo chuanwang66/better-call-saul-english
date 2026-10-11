@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E01 Uno
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Jimmy McGill struggles to earn a living as a public defender while caring for his brother Chuck, a brilliant lawyer who avoids electricity. Hoping to attract a wealthy client, Jimmy approaches the Kettlemans, who face an embezzlement investigation. He also challenges HHM over Chuck's place at the firm. A staged accident involving two skateboarders is supposed to generate business, but they target the wrong car. Jimmy follows them to a house and unexpectedly encounters Tuco Salamanca.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. embezzlement · 关键词 · 回看 00:46:02
+美式 IPA：/ɪmˈbɛzəlmənt/
+词性：noun
+English definition: The dishonest taking of money or property entrusted to one's care.
 侵占；挪用受托管理的财产
 字幕中出现：embezzlement
 常见于雇员或管理者挪用经手资金的语境；区别于泛指 theft。
@@ -16,6 +21,9 @@ The report examined an embezzlement case.
 报告研究了一起侵占财产案件。
 
 02. felony · 关键词 · 回看 00:49:03
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felony
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -27,6 +35,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 03. defendant · 关键词 · 回看 00:12:27
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：Defendant
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -38,6 +49,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 04. prosecution · 关键词 · 回看 00:09:34
+美式 IPA：/ˌprɑsəˈkjuʃən/
+词性：noun
+English definition: The pursuit of criminal charges in court; also the lawyers bringing those charges.
 控方；起诉；检控
 字幕中出现：prosecution
 the prosecution 常指刑事案件中的控方。
@@ -49,6 +63,10 @@ The file was sent for prosecution.
 案卷被移送起诉。
 
 05. trespassing · 关键词 · 回看 00:09:49
+美式 IPA：/ˈtrɛsˌpæsɪŋ/
+词性：noun / verb (-ing form)
+English definition: Entering or remaining on another person's property without permission; the -ing form of trespass.
+原形：trespass
 擅自进入或逗留他人土地、场所
 字幕中出现：trespassing
 常见标牌 No trespassing；不是泛指任何闯祸。
@@ -60,6 +78,9 @@ The complaint concerned trespassing, not theft.
 投诉涉及擅自侵入，而非盗窃。
 
 06. arraignment · 关键词 · 回看 00:35:28
+美式 IPA：/əˈreɪnmənt/
+词性：noun
+English definition: A court appearance at which charges are stated and the defendant enters a plea.
 正式提审并要求被告答辩的程序
 字幕中出现：arraignments
 美国刑事程序术语；不是完整审判，也不等于定罪。
@@ -71,6 +92,9 @@ Counsel met the defendant before the arraignment.
 律师在提审前见了被告。
 
 07. discrepancy · 关键词 · 回看 00:16:11
+美式 IPA：/dɪˈskrɛpənsi/
+词性：noun
+English definition: A difference between things that should agree or match.
 不一致；差异
 字幕中出现：discrepancy
 常指两份记录、说法或数字不符。
@@ -82,6 +106,9 @@ Can you explain the discrepancy?
 你能解释这个出入吗？
 
 08. adversarial · 关键词 · 回看 00:38:35
+美式 IPA：/ˌædvɚˈsɛriəl/
+词性：adjective
+English definition: Involving opposing sides that challenge each other's claims.
 对抗性的；双方交锋的
 字幕中出现：adversarial
 adversarial system 可指由对立双方提出论证的诉讼制度。
@@ -93,6 +120,8 @@ An adversarial hearing tests competing claims.
 对抗式听证检验相互竞争的主张。
 
 09. out of pocket · 词组 / 术语 · 回看 00:33:24
+词性：adverb phrase
+English definition: Paid using a person's own money rather than reimbursed or covered by someone else.
 自掏腰包；蒙受钱财损失
 字幕中出现：out of pocket
 本项目采用费用义；美式其他口语含义需另看语境。
@@ -106,3 +135,5 @@ Employees should not be out of pocket for approved expenses.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

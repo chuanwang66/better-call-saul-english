@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S01E10 Marco
+V3 · 更新 2026-10-11
 英文梗概（71 words，含剧透）
 Hurt by Chuck's rejection, Jimmy returns to Cicero and reunites with Marco. They revive their old cons, briefly escaping Jimmy's disappointment through familiar routines. Marco dies during their final scam, leaving Jimmy with another personal loss. Back in Albuquerque, a promising opportunity with Davis & Main offers a conventional legal career. Jimmy weighs that path against the freedom and excitement of his former life, questioning whether following the rules has rewarded him.
 
 重点词汇：6 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. contingent · 关键词 · 回看 00:42:06
+美式 IPA：/kənˈtɪndʒənt/
+词性：adjective / noun
+English definition: Dependent on a condition; as a noun, a group representing a larger organization or community.
 取决于条件的；代表团
 字幕中出现：contingent
 形容词 contingent on/upon；名词 a contingent 指一支队伍或代表团。
@@ -16,6 +21,8 @@ A small contingent attended the hearing.
 一小队代表参加了听证。
 
 02. under duress · 词组 / 术语 · 回看 00:02:54
+词性：adverb phrase
+English definition: While being forced or pressured by threats rather than acting freely.
 在胁迫下
 字幕中出现：Under duress
 法律及正式语境；不等于普通生活压力。
@@ -27,6 +34,9 @@ The court examined whether she acted under duress.
 法院审查她是否在胁迫下行动。
 
 03. betrayal · 关键词 · 回看 00:09:47
+美式 IPA：/bɪˈtreɪəl/
+词性：noun
+English definition: An act that breaks trust or abandons a person or principle.
 背叛；辜负信任
 字幕中出现：Betrayal
 名词；a betrayal of trust 常用于人际及职业伦理。
@@ -38,6 +48,8 @@ He struggled to forgive the betrayal of trust.
 他很难原谅这种对信任的辜负。
 
 04. off the rails · 词组 / 术语 · 回看 00:15:10
+词性：adjective / adverb phrase
+English definition: Outside normal control or moving in a seriously misguided direction.
 失控；偏离正常轨道
 字幕中出现：off the rails
 go off the rails；用于计划、行为或生活。
@@ -49,6 +61,9 @@ One rumour sent the discussion off the rails.
 一个谣言让讨论跑偏了。
 
 05. livelihood · 关键词 · 回看 00:28:33
+美式 IPA：/ˈlaɪvliˌhʊd/
+词性：noun
+English definition: The means by which a person earns enough to live.
 生计；谋生方式
 字幕中出现：livelihood
 earn a livelihood；强调维持生活所依赖的收入来源。
@@ -60,6 +75,10 @@ They defended the business that provided their livelihood.
 他们维护了赖以谋生的生意。
 
 06. impounded · 关键词 · 回看 00:28:26
+美式 IPA：/ɪmˈpaʊndɪd/
+词性：verb (past tense / past participle)
+English definition: Taken into official custody, often referring to a vehicle seized by authorities.
+原形：impound
 被依法扣押的
 字幕中出现：impounded
 常指车辆被警方或管理机关扣留；动词 impound。
@@ -72,3 +91,5 @@ Police impounded the van as evidence.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/gbucZH
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

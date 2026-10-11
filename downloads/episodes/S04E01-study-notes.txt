@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S04E01 Smoke
+V3 · 更新 2026-10-11
 英文梗概（69 words，含剧透）
 Jimmy learns of Chuck's death and moves through the practical steps of mourning with little visible emotional release. Howard believes the insurance dispute and Chuck's forced departure from HHM contributed to the death. Jimmy lets him carry that burden. Mike tests security at a Madrigal warehouse while establishing a plausible cover for his paid role. Gus studies the circumstances of Hector's collapse, bringing Nacho's hidden actions under increasing scrutiny.
 
 重点词汇：7 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. malpractice · 关键词 · 回看 00:46:14
+美式 IPA：/mælˈpræktɪs/
+词性：noun
+English definition: Professional negligence or misconduct that harms a client or patient.
 专业失当；专业过失
 字幕中出现：malpractice
 常见 medical/legal malpractice；不局限于医生。
@@ -16,6 +21,9 @@ An unfavourable result alone does not prove malpractice.
 结果不利本身并不能证明专业失当。
 
 02. precedent · 关键词 · 回看 00:22:59
+美式 IPA：/ˈprɛsɪdənt/
+词性：noun
+English definition: An earlier decision or event used as a guide for later similar situations.
 先例；具有参考或约束意义的判例
 字幕中出现：precedent
 set a precedent 开创先例；与 president 总统区分。
@@ -27,6 +35,9 @@ There was no clear precedent for the decision.
 这个决定没有明确先例。
 
 03. ballistic · 关键词 · 回看 00:46:22
+美式 IPA：/bəˈlɪstɪk/
+词性：adjective (in go ballistic)
+English definition: Extremely angry and reacting in an uncontrolled way.
 暴怒的；弹道的
 字幕中出现：ballistic
 go ballistic 是口语“勃然大怒”；ballistic evidence 才是弹道证据。
@@ -39,6 +50,9 @@ The report included ballistic evidence.
 报告包含弹道证据。
 
 04. surveillance · 关键词 · 回看 00:41:58
+美式 IPA：/sɚˈveɪləns/
+词性：noun
+English definition: Close observation of people, places, or activities, often to gather information.
 监视；监控
 字幕中出现：surveillance
 通常不可数；under surveillance 受到监视。
@@ -50,6 +64,8 @@ Covert surveillance revealed the meeting.
 秘密监视发现了那次会面。
 
 05. out of line · 词组 / 术语 · 回看 00:37:41
+词性：adjective / adverb phrase
+English definition: Inappropriate or beyond the limits of acceptable behavior or authority.
 言行越界；不合适
 字幕中出现：out of line
 be out of line 通常是对行为的批评，不是排队的位置。
@@ -61,6 +77,8 @@ Tell me if you think I'm out of line.
 如果你觉得我过分了，请告诉我。
 
 06. bar hearing · 词组 / 术语 · 回看 00:45:33
+词性：noun phrase
+English definition: A proceeding before a legal professional body concerning a lawyer's fitness, conduct, or right to practice.
 律师执业纪律听证
 字幕中出现：bar hearing
 bar 在此指法律职业及其管理体系；不是酒吧或普通庭审。
@@ -72,6 +90,9 @@ A bar hearing can affect a lawyer's licence.
 律师纪律听证可能影响律师的执照。
 
 07. inventory · 关键词 · 回看 00:41:51
+美式 IPA：/ˈɪnvənˌtɔri/
+词性：noun / verb
+English definition: Goods held in stock or a detailed list of items; to make such a list.
 库存；盘点
 字幕中出现：inventory
 take/do inventory 盘点；也可作动词清点。
@@ -84,3 +105,5 @@ She inventoried the office equipment.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/vlHghm
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

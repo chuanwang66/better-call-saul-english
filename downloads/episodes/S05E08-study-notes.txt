@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E08 Bagman
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Saul agrees to collect Lalo's seven-million-dollar bail in the desert for a substantial fee. Gunmen ambush him on the return journey, and Mike intervenes to save his life. With Saul's car disabled and another attacker still nearby, the two carry the money across the desert on foot. Exhaustion and a lack of water test Saul's endurance. Back in Albuquerque, Kim grows desperate for information and visits Lalo, exposing herself more directly to the danger surrounding Jimmy.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. bail · 关键词 · 回看 00:08:37
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -16,6 +21,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 02. privilege · 关键词 · 回看 00:36:28
+美式 IPA：/ˈprɪvəlɪdʒ/
+词性：noun
+English definition: Here, a legal protection concerning testimony or confidential communications between spouses.
 法律保密特权；特殊权利或荣幸
 字幕中出现：privilege
 法律中可指受保护、不须披露的沟通；不同于一般 confidentiality。
@@ -28,6 +36,9 @@ Access to the archive is a privilege.
 查阅档案是一项特殊待遇。
 
 03. spousal · 关键词 · 回看 00:36:28
+美式 IPA：/ˈspaʊzəl/
+词性：adjective
+English definition: Relating to a husband, wife, or marriage partner.
 配偶的；夫妻关系的
 字幕中出现：spousal
 spousal privilege 夫妻证言或沟通特权，范围并非婚后所有事都保密。
@@ -39,6 +50,9 @@ They reviewed the spousal benefits.
 他们审查了配偶福利。
 
 04. odometer · 关键词 · 回看 00:04:34
+美式 IPA：/oʊˈdɑmətɚ/
+词性：noun
+English definition: An instrument that records the distance traveled by a vehicle.
 里程表
 字幕中出现：odometer
 与 speedometer 速度表区分；记录车辆累计行驶距离。
@@ -50,6 +64,9 @@ Someone had altered the odometer reading.
 有人篡改了里程表读数。
 
 05. alternator · 关键词 · 回看 00:23:27
+美式 IPA：/ˈɔltɚˌneɪtɚ/
+词性：noun
+English definition: A vehicle component that generates electricity and charges the battery while the engine runs.
 汽车交流发电机
 字幕中出现：alternator
 与 battery 电池、starter 起动机区分；本集涉及车辆故障。
@@ -61,6 +78,9 @@ The mechanic tested the alternator first.
 技师先检测了发电机。
 
 06. bulletproof · 关键词 · 回看 00:36:34
+美式 IPA：/ˈbʊlətˌpruf/
+词性：adjective
+English definition: Able to resist bullets; figuratively, very difficult to challenge or defeat.
 防弹的；难以推翻的
 字幕中出现：bulletproof
 字面义用于装备，喻义用于计划或论证。
@@ -72,6 +92,9 @@ They wanted a bulletproof explanation.
 他们想要一个难以反驳的解释。
 
 07. obscurity · 关键词 · 回看 00:10:01
+美式 IPA：/əbˈskjʊrəti/
+词性：noun
+English definition: The state of being little known, unnoticed, or hard to understand.
 默默无闻；不为人知的状态
 字幕中出现：obscurity
 fade into obscurity 逐渐被遗忘；也可指难懂。
@@ -83,6 +106,10 @@ The book emerged from decades of obscurity.
 这本书在被忽视数十年后重新受到关注。
 
 08. misrepresented · 关键词 · 回看 00:35:34
+美式 IPA：/ˌmɪsˌrɛprɪˈzɛntɪd/
+词性：verb (past tense / past participle)
+English definition: Described or presented in a way that gives a false or inaccurate impression.
+原形：misrepresent
 被错误描述或虚假陈述的
 字幕中出现：misrepresented
 动词 misrepresent；可指故意歪曲，也可指不准确表述。
@@ -95,3 +122,5 @@ She said her position had been misrepresented.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

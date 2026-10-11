@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E09 Fun and Games
+V3 · 更新 2026-10-11
 英文梗概（74 words，含剧透）
 Jimmy and Kim try to live with the cover story after Howard's death. At his memorial, Kim reinforces the false account, then recognizes what their partnership has become. She quits the law and leaves Jimmy, admitting that she knew Lalo was alive. Gus preserves his cartel position, while Mike visits Nacho's father and finds that promises of justice cannot erase the loss. A later scene shows Jimmy fully inhabiting Saul's extravagant, emotionally insulated life.
 
 重点词汇：9 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. consensus · 关键词 · 回看 00:17:35
+美式 IPA：/kənˈsɛnsəs/
+词性：noun
+English definition: General agreement among the members of a group.
 共识；一致意见
 字幕中出现：consensus
 常用 reach a consensus；并不一定表示所有人绝对赞成。
@@ -16,6 +21,9 @@ The proposal reflected the team's consensus.
 提案反映了团队的共同意见。
 
 02. confession · 关键词 · 回看 00:22:48
+美式 IPA：/kənˈfɛʃən/
+词性：noun
+English definition: An admission that one has committed a crime or done something wrong.
 供认；坦白
 字幕中出现：confession
 confession to a crime；不自动意味着供述真实或可采。
@@ -27,6 +35,8 @@ The defence questioned whether the confession was voluntary.
 辩方质疑供述是否出于自愿。
 
 03. class action · 词组 / 术语 · 回看 00:52:37
+词性：noun phrase
+English definition: A lawsuit brought on behalf of a group whose members have similar legal claims.
 集体诉讼
 字幕中出现：class action
 由代表成员为具有共同问题的一类人提起的诉讼；资格须依法认定。
@@ -38,6 +48,8 @@ The notice explains who is included in the class action.
 通知解释了哪些人属于集体诉讼成员。
 
 04. pull the plug · 词组 / 术语 · 回看 00:49:03
+词性：verb phrase / idiom
+English definition: To end a project, arrangement, or source of support.
 终止；停止支持
 字幕中出现：pull the plug
 pull the plug on a project；也有关闭维持生命设备的字面义。
@@ -49,6 +61,9 @@ We should not pull the plug too early.
 我们不应过早终止。
 
 05. withdraw · 关键词 · 回看 00:41:43
+美式 IPA：/wɪðˈdrɔ/
+词性：verb
+English definition: To remove or take back something; to leave an activity; or to take money from an account.
 撤回；退出；取款
 字幕中出现：withdraw
 withdraw from a case 退出代理；withdraw a claim 撤回诉求。
@@ -60,6 +75,10 @@ He withdrew cash before travelling.
 他旅行前取了现金。
 
 06. downsizing · 关键词 · 回看 00:33:14
+美式 IPA：/ˈdaʊnˌsaɪzɪŋ/
+词性：noun
+English definition: A reduction in an organization's workforce, operations, or size.
+原形：downsize
 缩减规模；裁员
 字幕中出现：downsizing
 商务常用委婉表达；动词 downsize。
@@ -71,6 +90,9 @@ They are downsizing to a smaller office.
 他们缩小规模，搬到较小的办公室。
 
 07. oblivious · 关键词 · 回看 00:36:51
+美式 IPA：/əˈblɪviəs/
+词性：adjective
+English definition: Unaware of something happening nearby or affecting oneself.
 未察觉的；浑然不知的
 字幕中出现：oblivious
 oblivious to/of something。
@@ -82,6 +104,10 @@ They worked on, oblivious to the noise.
 他们继续工作，没注意噪音。
 
 08. compelling · 关键词 · 回看 00:22:57
+美式 IPA：/kəmˈpɛlɪŋ/
+词性：adjective
+English definition: Strong enough to persuade someone or hold their attention.
+原形：compel
 很有说服力的；引人入胜的
 字幕中出现：compelling
 compelling evidence/argument；不等于已经确定为真。
@@ -93,6 +119,9 @@ It is a compelling account of ambition.
 这是一个引人入胜的野心故事。
 
 09. petition · 关键词 · 回看 00:43:07
+美式 IPA：/pəˈtɪʃən/
+词性：noun / verb
+English definition: A formal request to an authority or court; to submit such a request.
 正式申请；请愿书
 字幕中出现：petitions
 可作名词或动词；petition the court 向法院申请。
@@ -105,3 +134,5 @@ She petitioned for a review.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

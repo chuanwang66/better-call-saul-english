@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S06E01 Wine and Roses
+V3 · 更新 2026-10-11
 英文梗概（73 words，含剧透）
 A sequence reveals the luxury and excess accumulated during Saul's later career. Earlier, Jimmy and Kim begin their campaign to damage Howard's reputation, planting the suggestion of drug use at his golf club. Nacho hides after the failed assassination and relies on instructions that may not protect him. Lalo conceals his survival while preparing his response. The season opens with carefully managed appearances, as several characters work from incomplete or deliberately false information.
 
 重点词汇：8 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. bail · 关键词 · 回看 00:23:06
+美式 IPA：/beɪl/
+词性：noun / verb
+English definition: Conditional release before trial, sometimes secured by money; to secure someone's release in this way.
 保释；保释金
 字幕中出现：bail
 常用 on bail 或 post bail；保释不表示无罪。
@@ -16,6 +21,9 @@ The judge considered the request for bail.
 法官审议了保释申请。
 
 02. assault · 关键词 · 回看 00:26:51
+美式 IPA：/əˈsɔlt/
+词性：noun / verb
+English definition: A physical attack or, in some legal uses, conduct that creates fear of imminent harm; to attack.
 袭击；人身攻击
 字幕中出现：assault
 日常义较宽；具体法律构成因辖区不同，不与 battery 简单等同。
@@ -27,6 +35,9 @@ The lawyer reviewed the assault charge.
 律师审查了袭击指控。
 
 03. preliminary · 关键词 · 回看 00:13:00
+美式 IPA：/prɪˈlɪməˌnɛri/
+词性：adjective
+English definition: Taking place before the main action or final decision.
 初步的；正式程序之前的
 字幕中出现：preliminary
 preliminary hearing 初步听证；不等于最终结果。
@@ -38,6 +49,9 @@ They held preliminary discussions.
 他们进行了初步讨论。
 
 04. prosecutorial · 关键词 · 回看 00:24:04
+美式 IPA：/ˌprɑsɪkjuˈtɔriəl/
+词性：adjective
+English definition: Relating to a prosecutor or the work of bringing criminal charges.
 检方的；公诉职能相关的
 字幕中出现：Prosecutorial
 形容词，常见 prosecutorial misconduct/discretion。
@@ -49,6 +63,9 @@ They debated prosecutorial independence.
 他们讨论了检方的独立性。
 
 05. misconduct · 关键词 · 回看 00:24:04
+美式 IPA：/mɪsˈkɑndʌkt/
+词性：noun
+English definition: Behavior that violates rules, duties, or expected standards.
 不当行为；违规失职
 字幕中出现：misconduct
 通常不可数；professional misconduct 职业不当行为。
@@ -60,6 +77,9 @@ The complaint alleged prosecutorial misconduct.
 投诉指称检方存在不当行为。
 
 06. blackmail · 关键词 · 回看 00:41:55
+美式 IPA：/ˈblækˌmeɪl/
+词性：noun / verb
+English definition: Demanding money or cooperation by threatening to expose damaging information; to make such a demand.
 敲诈勒索；以曝光信息等相威胁
 字幕中出现：blackmailing
 名词或动词；日常 emotional blackmail 指情感勒索。
@@ -71,6 +91,9 @@ Guilt can be used as a form of emotional blackmail.
 内疚感可能被用作情感勒索的手段。
 
 07. mercenary · 关键词 · 回看 00:20:14
+美式 IPA：/ˈmɝsəˌnɛri/
+词性：noun
+English definition: A fighter hired to take part in armed operations for payment.
 雇佣兵；唯利是图的
 字幕中出现：mercenaries
 名词指受雇作战者；形容词指只为钱行事。
@@ -83,6 +106,8 @@ They questioned the mercenary's loyalty.
 他们质疑雇佣兵的忠诚。
 
 08. public defender · 词组 / 术语 · 回看 00:26:37
+词性：noun phrase
+English definition: A publicly funded lawyer who represents eligible defendants unable to afford counsel.
 公设辩护律师
 字幕中出现：public defender
 美国语境常指为符合条件、无力聘律师的被告提供辩护的律师。
@@ -95,3 +120,5 @@ The public defender asked for more time to prepare.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/QRloDA
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

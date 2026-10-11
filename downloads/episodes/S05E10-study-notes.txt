@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S05E10 Something Unforgivable
+V3 · 更新 2026-10-11
 英文梗概（76 words，含剧透）
 Kim and Jimmy retreat to a hotel after Lalo's visit. Kim begins proposing a scheme against Howard that could accelerate the Sandpiper settlement and fund her public-interest work. Jimmy is unsettled by how seriously she means it. Nacho accompanies Lalo to Mexico and must assist Gus's planned assassination. The attack fails, and Lalo survives. Nacho escapes, but the failure leaves him exposed and turns the danger Jimmy and Kim hope is over into a continuing threat.
 
 重点词汇：12 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. felony · 关键词 · 回看 00:16:13
+美式 IPA：/ˈfɛləni/
+词性：noun
+English definition: A serious category of crime, generally carrying more severe penalties than a misdemeanor.
 重罪
 字幕中出现：felonies
 美国刑事分类用语；具体定义和后果依司法辖区及法律而定。
@@ -16,6 +21,9 @@ The lawyer explained the difference between a felony and a misdemeanor.
 律师解释了重罪和轻罪的区别。
 
 02. discovery · 关键词 · 回看 00:20:25
+美式 IPA：/dɪˈskʌvɚi/
+词性：noun
+English definition: Finding something previously unknown; in litigation, the process of obtaining and exchanging case information.
 发现；诉讼中的证据开示
 字幕中出现：discovery
 法律义是审前依法获取对方相关信息的程序，区别于普通“发现”。
@@ -27,6 +35,9 @@ The discovery of a leak changed our schedule.
 发现漏水后，我们改变了日程。（普通义。）
 
 03. bribe · 关键词 · 回看 00:40:48
+美式 IPA：/braɪb/
+词性：noun / verb
+English definition: Something offered to improperly influence a decision; to offer such an inducement.
 贿赂；贿赂物；行贿
 字幕中出现：bribing
 可数名词或动词；不等于正常服务费或合法报酬。
@@ -38,6 +49,9 @@ Nobody should have to bribe someone to receive a public service.
 任何人都不应该靠行贿才能获得公共服务。
 
 04. assault · 关键词 · 回看 00:17:00
+美式 IPA：/əˈsɔlt/
+词性：noun / verb
+English definition: A physical attack or, in some legal uses, conduct that creates fear of imminent harm; to attack.
 袭击；人身攻击
 字幕中出现：assault
 日常义较宽；具体法律构成因辖区不同，不与 battery 简单等同。
@@ -49,6 +63,10 @@ The lawyer reviewed the assault charge.
 律师审查了袭击指控。
 
 05. trespassing · 关键词 · 回看 00:17:25
+美式 IPA：/ˈtrɛsˌpæsɪŋ/
+词性：noun / verb (-ing form)
+English definition: Entering or remaining on another person's property without permission; the -ing form of trespass.
+原形：trespass
 擅自进入或逗留他人土地、场所
 字幕中出现：trespassing
 常见标牌 No trespassing；不是泛指任何闯祸。
@@ -60,6 +78,9 @@ The complaint concerned trespassing, not theft.
 投诉涉及擅自侵入，而非盗窃。
 
 06. misconduct · 关键词 · 回看 00:40:42
+美式 IPA：/mɪsˈkɑndʌkt/
+词性：noun
+English definition: Behavior that violates rules, duties, or expected standards.
 不当行为；违规失职
 字幕中出现：misconduct
 通常不可数；professional misconduct 职业不当行为。
@@ -71,6 +92,9 @@ The complaint alleged prosecutorial misconduct.
 投诉指称检方存在不当行为。
 
 07. ambush · 关键词 · 回看 00:01:41
+美式 IPA：/ˈæmˌbʊʃ/
+词性：noun / verb
+English definition: A surprise attack from a concealed position; to attack someone in this way.
 伏击；设伏袭击
 字幕中出现：ambushed
 可作名词或动词；也可比喻毫无准备时遭到质问。
@@ -82,6 +106,9 @@ She felt ambushed by the unexpected questions.
 突如其来的问题让她觉得遭到围攻。
 
 08. airtight · 关键词 · 回看 00:15:27
+美式 IPA：/ˈɛrˌtaɪt/
+词性：adjective
+English definition: So complete or convincing that it leaves little room for challenge; also sealed against air.
 严密得无懈可击的；密封的
 字幕中出现：airtight
 airtight alibi/case 为比喻义；不等于实际已被证明。
@@ -93,6 +120,9 @@ Keep the sample in an airtight container.
 把样品放进密封容器。
 
 09. crossfire · 关键词 · 回看 00:06:43
+美式 IPA：/ˈkrɔsˌfaɪr/
+词性：noun
+English definition: Gunfire from different directions; figuratively, a conflict that traps someone between opposing sides.
 交叉火力；双方冲突的夹击
 字幕中出现：crossfire
 caught in the crossfire 可用于实际枪战，也可指受争执牵连。
@@ -104,6 +134,8 @@ They moved out of the crossfire.
 他们离开了交叉火力区域。
 
 10. public defender · 词组 / 术语 · 回看 00:15:15
+词性：noun phrase
+English definition: A publicly funded lawyer who represents eligible defendants unable to afford counsel.
 公设辩护律师
 字幕中出现：Public Defender
 美国语境常指为符合条件、无力聘律师的被告提供辩护的律师。
@@ -115,6 +147,8 @@ The public defender asked for more time to prepare.
 公设辩护律师申请更多准备时间。
 
 11. class action · 词组 / 术语 · 回看 00:40:51
+词性：noun phrase
+English definition: A lawsuit brought on behalf of a group whose members have similar legal claims.
 集体诉讼
 字幕中出现：class action
 由代表成员为具有共同问题的一类人提起的诉讼；资格须依法认定。
@@ -126,6 +160,8 @@ The notice explains who is included in the class action.
 通知解释了哪些人属于集体诉讼成员。
 
 12. in the loop · 词组 / 术语 · 回看 00:25:36
+词性：adjective phrase / idiom
+English definition: Included in the exchange of information about a particular matter.
 知晓并参与相关信息流
 字幕中出现：in the loop
 keep someone in the loop 让某人持续知情。
@@ -138,3 +174,5 @@ She wants to stay in the loop on the negotiations.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/58oxJQ
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt

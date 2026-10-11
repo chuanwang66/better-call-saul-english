@@ -1,10 +1,15 @@
 风骚律师逐集英语学习册 · S04E08 Coushatta
+V3 · 更新 2026-10-11
 英文梗概（73 words，含剧透）
 Jimmy and Kim stage a campaign of letters and telephone calls from Huell's supposed hometown supporters. The invented community pressure persuades the prosecutor to reconsider the case. Energized by the success, they collaborate on another deception to change Mesa Verde's approved building plans. At the construction site, Werner's homesickness becomes harder to manage. The episode brings Jimmy and Kim closer through shared manipulation while showing how apparently contained schemes can encourage larger risks.
 
 重点词汇：12 项（单词与词组合计）
+关键词采用常见美式读法的宽式 IPA；/ɝ/、/ɚ/ 表示带 r 色彩的元音，/i/、/u/ 不另加长音符号。音标对应显示的词条形式。词性列出本页讲解的用法；部分词有其他读法或词性。
 
 01. misdemeanor · 关键词 · 回看 00:23:43
+美式 IPA：/ˌmɪsdəˈminɚ/
+词性：noun
+English definition: A criminal offense in a less serious category than a felony.
 轻罪
 字幕中出现：misdemeanor
 美国法律用语；具体分类取决于适用法律，不能只按日常严重程度判断。
@@ -16,6 +21,9 @@ The report distinguishes misdemeanors from felonies.
 报告区分了轻罪与重罪。
 
 02. probation · 关键词 · 回看 00:23:39
+美式 IPA：/proʊˈbeɪʃən/
+词性：noun
+English definition: Court-ordered community supervision under conditions; also a trial period for a new employee.
 缓刑或社区监督；试用期
 字幕中出现：probation
 刑事含义按具体制度判断；工作语境可指试用期。
@@ -27,6 +35,9 @@ My probation at the new job ends next month.
 我新工作的试用期下个月结束。
 
 03. defendant · 关键词 · 回看 00:30:16
+美式 IPA：/dɪˈfɛndənt/
+词性：noun
+English definition: The person or organization against whom a criminal charge or civil claim is brought.
 被告
 字幕中出现：defendant
 可用于刑事或民事案件；不是所有案件里的被告都已被定罪。
@@ -38,6 +49,9 @@ How many defendants are named in the case?
 这个案件列了多少名被告？
 
 04. discovery · 关键词 · 回看 00:24:24
+美式 IPA：/dɪˈskʌvɚi/
+词性：noun
+English definition: Finding something previously unknown; in litigation, the process of obtaining and exchanging case information.
 发现；诉讼中的证据开示
 字幕中出现：discovery
 法律义是审前依法获取对方相关信息的程序，区别于普通“发现”。
@@ -49,6 +63,9 @@ The discovery of a leak changed our schedule.
 发现漏水后，我们改变了日程。（普通义。）
 
 05. subpoena · 关键词 · 回看 00:24:14
+美式 IPA：/səˈpinə/
+词性：noun / verb
+English definition: A legal command to testify or produce specified material; to issue such a command.
 传票；以传票要求出庭或提交材料
 字幕中出现：subpoena
 法律名词也可作动词；不等同于 arrest warrant 逮捕令。
@@ -60,6 +77,9 @@ The lawyer sought to subpoena another witness.
 律师申请以传票传唤另一名证人。
 
 06. fraud · 关键词 · 回看 00:48:18
+美式 IPA：/frɔd/
+词性：noun
+English definition: Deliberate deception intended to obtain a benefit or cause another person's loss.
 欺诈
 字幕中出现：fraud
 法律或商务语境指欺骗行为；a fraud 也可指骗子或冒牌者。
@@ -71,6 +91,9 @@ She realized the offer was a fraud.
 她意识到那个邀约是骗局。
 
 07. litigation · 关键词 · 回看 00:24:49
+美式 IPA：/ˌlɪtəˈɡeɪʃən/
+词性：noun
+English definition: The process of pursuing or defending a dispute through the courts.
 诉讼；进行诉讼的过程
 字幕中出现：litigation
 通常不可数；litigation costs 诉讼费用。
@@ -82,6 +105,9 @@ She works in commercial litigation.
 她从事商事诉讼工作。
 
 08. contingent · 关键词 · 回看 00:29:54
+美式 IPA：/kənˈtɪndʒənt/
+词性：noun
+English definition: A group of people attending an event as representatives or supporters of a larger group.
 取决于条件的；代表团
 字幕中出现：contingent
 形容词 contingent on/upon；名词 a contingent 指一支队伍或代表团。
@@ -94,6 +120,9 @@ A small contingent attended the hearing.
 一小队代表参加了听证。
 
 09. proffer · 关键词 · 回看 00:23:37
+美式 IPA：/ˈprɑfɚ/
+词性：verb / noun
+English definition: To formally offer information, evidence, or assistance; also the offer or submission itself.
 提出、呈交证据或陈述
 字幕中出现：proffer
 正式法律用语，也可泛指提出建议；保护范围依具体协议。
@@ -105,6 +134,9 @@ She proffered an alternative explanation.
 她提出了另一种解释。
 
 10. contempt · 关键词 · 回看 00:48:10
+美式 IPA：/kənˈtɛmpt/
+词性：noun
+English definition: Strong disrespect; in court, conduct that defies or obstructs judicial authority.
 蔑视；藐视法庭
 字幕中出现：contempt
 法律搭配 contempt of court；普通语境可指强烈轻蔑。
@@ -116,6 +148,8 @@ He was held in contempt after refusing the order.
 他拒绝服从命令后被认定藐视法庭。
 
 11. district attorney · 词组 / 术语 · 回看 00:30:14
+词性：noun phrase
+English definition: A public official responsible for prosecuting crimes in a local jurisdiction in the United States.
 地方检察官
 字幕中出现：District Attorney
 美国地方刑事检控职务；具体职责随司法辖区而异。
@@ -127,6 +161,8 @@ The district attorney reviewed the evidence.
 地方检察官审查了证据。
 
 12. time served · 词组 / 术语 · 回看 00:23:39
+词性：noun phrase
+English definition: Time already spent in custody that counts toward a sentence, or a sentence limited to that time.
 已服刑的时间；以已羁押时间抵刑
 字幕中出现：Time served
 常见 sentenced to time served；不表示无罪。
@@ -139,3 +175,5 @@ The agreement recommended time served.
 
 本项目原创学习笔记，不含完整原剧台词。
 字幕来源（整季合集）：https://subhd.tv/a/vlHghm
+发音核对参考：CMU Pronouncing Dictionary；https://github.com/cmusphinx/cmudict
+CMU 许可：https://chuanwang66.github.io/better-call-saul-english/data/CMUDICT-LICENSE.txt
